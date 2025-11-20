@@ -2621,3 +2621,315 @@ FPackageName: Skipped package /Game/LearningKit_Games/Assets/Characters/Characte
 [2025.11.20-02.27.01:413][819]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
 [2025.11.20-02.27.01:413][819]AssetCheck: /Game/FirstPerson/Blueprints/BP_Pickup_Rifle Validating asset
 [2025.11.20-02.27.01:413][819]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.11.20-02.29.46:236][554]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter has no skeleton. This needs to fixed before an animation can be set
+[2025.11.20-02.32.27:873][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3138.443848
+[2025.11.20-02.32.27:927][964]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-02.32.27:927][964]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3138.487061, Update Interval: 305.158234
+[2025.11.20-02.34.21:668][401]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-02.34.21:668][401]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin (0x7B4CFD6818D8E6A8) - The package to load does not exist on disk or in the loader
+[2025.11.20-02.34.21:668][401]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/FirstPersonArms/Character/Mesh/SKM_Mannequin.SKM_Mannequin'
+[2025.11.20-02.34.21:675][401]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18418314632902945686
+[2025.11.20-02.34.21:675][401]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.11.20-02.34.21:676][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-02.34.21:679][402]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.11.20-02.34.21:769][405]LogStreaming: Display: FlushAsyncLoading(610): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-02.34.21:887][408]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.11.20-02.34.29:905][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.11.20-02.34.40:367][891]LogStreaming: Display: FlushAsyncLoading(614): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-02.34.40:410][893]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-02.35.15:891][925]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.20-02.35.15:902][925]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.20-02.35.15:910][925]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.20-02.35.15:923][926]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.20-02.35.23:887][640]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Locker
+[2025.11.20-02.35.23:901][640]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.20-02.35.34:190][559]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2025.11.20-02.35.34:190][559]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.11.20-02.35.41:824][145]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Locker.BP_Locker
+[2025.11.20-02.35.41:824][145]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.11.20-02.36.18:743][859]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter has no skeleton. This needs to fixed before an animation can be set
+[2025.11.20-02.36.21:877][ 89]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter has no skeleton. This needs to fixed before an animation can be set
+[2025.11.20-02.36.21:877][ 89]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter has no skeleton. This needs to fixed before an animation can be set
+[2025.11.20-02.36.21:887][ 89]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.11.20-02.36.33:420][884]LogAnimation: Warning: SkeletalMesh SkeletalMesh /Game/Assets/Characters/Character/Mesh/SK_EpicCharacter.SK_EpicCharacter has no skeleton. This needs to fixed before an animation can be set
+[2025.11.20-02.38.09:215][800]LogFab: Display: Logging in using persist
+[2025.11.20-02.38.09:215][800]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.11.20-02.38.09:290][800]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2025.11.20-02.38.09:292][800]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.11.20-02.38.09:350][800]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.11.20-02.38.09:350][800]LogFab: Display: Logging in using exchange code
+[2025.11.20-02.38.09:350][800]LogFab: Display: Reading exchange code from commandline
+[2025.11.20-02.38.09:350][800]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.11.20-02.38.09:367][801]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.11.20-02.38.11:012][943]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2025.11.20-02.38.11:012][943]LogFab: Error: User auth token is invalid - unable to get auth token
+[2025.11.20-02.38.18:282][567]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3488.861572
+[2025.11.20-02.38.18:351][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-02.38.18:351][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3488.918457, Update Interval: 329.006622
+[2025.11.20-02.39.31:867][590]LogFab: Display: Asset Type = gltf
+[2025.11.20-02.39.31:867][590]LogFab: Display: Is Quixel = 1
+[2025.11.20-02.39.35:430][835]LogStreaming: Display: FlushAsyncLoading(619): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-02.39.35:612][835]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.11.20-02.39.35:612][835]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mig3/AppData/Local/Temp/FabLibrary/67e3eb7c-ea67-47a9-9b61-84faad191d24/rusty_metal_cabinet_vjhledeaw_ue_high_extracted/vjhledeaw_tier_1.gltf]
+[2025.11.20-02.39.35:740][837]LogStreaming: Display: FlushAsyncLoading(660): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-02.39.35:824][839]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.11.20-02.39.35:995][850]LogStreaming: Display: FlushAsyncLoading(664): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-02.39.35:999][850]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2025.11.20-02.39.36:004][850]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultColor.T_DefaultColor (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2025.11.20-02.39.36:004][850]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultDisplacement.T_DefaultDisplacement (TFO_BC4, 32x32 x1x1x1) (Required Memory Estimate: 1.16988 MB), EncodeSpeed: Fast
+[2025.11.20-02.39.36:004][850]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultMasks.T_DefaultMasks (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2025.11.20-02.39.36:004][850]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultNormal.T_DefaultNormal (TFO_BC5, 32x32 x1x1x1) (Required Memory Estimate: 1.288993 MB), EncodeSpeed: Fast
+[2025.11.20-02.39.36:057][856]LogStreaming: Display: FlushAsyncLoading(666): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.20-02.39.36:198][857]LogTexture: Display: Building textures: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H.T_vjhledeaw_4K_H (TFO_BC4, 4096x4096 x1x1x1) (Required Memory Estimate: 1154.499987 MB), EncodeSpeed: Fast
+[2025.11.20-02.39.36:210][858]LogStaticMesh: Display: Building static mesh vjhledeaw_tier_1 (Required Memory Estimate: 32.920239 MB)...
+[2025.11.20-02.39.36:236][858]LogTexture: Display: Building textures: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B.T_vjhledeaw_4K_B (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.11.20-02.39.36:236][858]LogTexture: Display: Building textures: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM.T_vjhledeaw_4K_ORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.11.20-02.39.36:237][858]LogTexture: Display: Building textures: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N.T_vjhledeaw_4K_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2025.11.20-02.39.36:310][858]LogStaticMesh: Adjacency [0.02s], tris: 22978, UVs 1
+[2025.11.20-02.39.36:361][858]LogStaticMesh: Clustering [0.05s]. Ratio: 1.011111
+[2025.11.20-02.39.36:368][858]LogStaticMesh: Leaves [0.01s]
+[2025.11.20-02.39.36:923][892]LogStaticMesh: Reduce [0.56s]
+[2025.11.20-02.39.37:026][902]LogStaticMesh: Fallback [0.10s], num tris: 1706
+[2025.11.20-02.39.37:030][902]LogStaticMesh: ConstrainClusters:
+[2025.11.20-02.39.37:030][902]LogStaticMesh:   Input: 378 Clusters, 47656 Triangles and 37549 Vertices
+[2025.11.20-02.39.37:030][902]LogStaticMesh:   Output without splits: 378 Clusters, 47656 Triangles and 37897 Vertices
+[2025.11.20-02.39.37:030][902]LogStaticMesh:   Output with splits: 378 Clusters, 47656 Triangles and 37897 Vertices
+[2025.11.20-02.39.37:030][902]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 378, Slow Path Clusters: 0, 1 Material: 378, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.20-02.39.37:035][902]LogStaticMesh: WritePages:
+[2025.11.20-02.39.37:035][902]LogStaticMesh:   Root: GPU size: 31912 bytes. 1 Pages. 31912.000 bytes per page (97.388% utilization).
+[2025.11.20-02.39.37:035][902]LogStaticMesh:   Streaming: GPU size: 441328 bytes. 4 Pages (4 with relative encoding). 110332.000 bytes per page (84.177% utilization).
+[2025.11.20-02.39.37:035][902]LogStaticMesh:   Page data disk size: 402968 bytes. Fixup data size: 2056 bytes.
+[2025.11.20-02.39.37:035][902]LogStaticMesh:   Total GPU size: 473240 bytes, Total disk size: 405024 bytes.
+[2025.11.20-02.39.37:035][902]LogStaticMesh: Encode [0.01s]
+[2025.11.20-02.39.37:035][902]LogStaticMesh: NaniteBuild [0.75s]
+[2025.11.20-02.39.37:042][903]LogStaticMesh: Built static mesh [0.83s] /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1.vjhledeaw_tier_1
+[2025.11.20-02.39.37:110][907]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mig3/AppDat...aw_ue_high_extracted/vjhledeaw_tier_1.gltf]
+[2025.11.20-02.39.37:299][911]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:299][911]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:299][911]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:299][911]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:299][911]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:299][911]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:304][911]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:305][911]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:341][911]LogPSOHitching: Encountered 50 PSO creation hitches so far (27 graphics, 23 compute). 0 of them were precached.
+[2025.11.20-02.39.37:383][912]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:393][912]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.37:398][912]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.20-02.39.37:398][912]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.20-02.39.37:404][912]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.20-02.39.37:406][912]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.11.20-02.39.53:105][160]LogMaterial: Display: Material /Fab/Materials/Standard/M_MS_Base.M_MS_Base needed to have new flag set bUsedWithNanite !
+[2025.11.20-02.39.53:144][161]LogShaderCompilers: Current jobs: 28, Batch size: 4, Num Already Dispatched: 0
+[2025.11.20-02.39.53:221][162]LogShaderCompilers: Current jobs: 6, Batch size: 5, Num Already Dispatched: 28
+[2025.11.20-02.39.53:261][162]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.11.20-02.39.55:699][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1.vjhledeaw_tier_1
+[2025.11.20-02.39.55:699][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1.vjhledeaw_tier_1
+[2025.11.20-02.39.55:700][345]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1.vjhledeaw_tier_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_2
+[2025.11.20-02.39.55:771][347]LogPSOHitching: Encountered 100 PSO creation hitches so far (39 graphics, 61 compute). 0 of them were precached.
+[2025.11.20-02.39.56:993][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.11.20-02.39.57:034][437]LogEditorActor: Deleted 0 Actors (0.109 secs)
+[2025.11.20-02.39.57:044][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1.vjhledeaw_tier_1
+[2025.11.20-02.39.57:044][437]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1.vjhledeaw_tier_1
+[2025.11.20-02.39.57:048][437]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1.vjhledeaw_tier_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_4CD7179D7614BFA302_1398911239
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: ================================================
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Total job queries 520, among them cache hits 128 (24.62%), DDC hits 322 (61.92%), Duplicates 25 (4.81%)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Tracking 367 distinct input hashes that result in 269 distinct outputs (73.30%)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: RAM used: 3.39 MiB of 1.60 GiB budget. Usage: 0.21%
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Shaders Compiled: 45
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Jobs assigned 45, completed 45 (100%)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Average time worker was idle: 2284.84 s
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.08 s
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Job execution time: average 7.40 s, max 16.15 s
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Job life time (pending + execution): average 7.43 s, max 16.22
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Shader code size: total 511.762 KiB, numShaders 48, average 10.661 KiB, min 2.312 KiB, max 23.711 KiB
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.31 s
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Jobs were issued in 20 batches (11 local, 9 distributed), average 2.25 jobs/batch (1.00 jobs/local batch. 3.78 jobs/distributed batch)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Average processing rate: 2.60 jobs/sec
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Total thread time: 17.82 s
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Total thread preprocess time: 6.262 s
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Percentage time preprocessing: 35.14%
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Effective parallelization: 1.03 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:        TBasePassCSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:       TBasePassCSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:               TBasePassCSFCachedVolumeIndirectLightingPolicy - 5.62% of total time (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:        TBasePassCSFCachedPointIndirectLightingPolicySkylight - 5.61% of total time (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.51% of total time (compiled    3 times, average 0.33 sec, max 0.37 sec, min 0.26 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:                TBasePassCSFCachedPointIndirectLightingPolicy - 5.51% of total time (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display:       TBasePassCSFCachedVolumeIndirectLightingPolicySkylight - 5.51% of total time (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: === Material stats ===
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Materials Translated:    185
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Material Translation Only: 0.06 s (31%)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: Material Cache Hits: 34 (18%)
+[2025.11.20-02.40.12:511][653]LogShaderCompilers: Display: ================================================
+[2025.11.20-02.40.37:214][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.11.20-02.41.15:034][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.11.20-02.41.15:041][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/M1/LYR6VXJFOOH4T46KY2LYJ9_Auto4
+[2025.11.20-02.41.15:041][192]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/LYR6VXJFOOH4T46KY2LYJ9_Auto495241E4841973AECFF708097B22C672C.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/M1/LYR6VXJFOOH4T46KY2LYJ9_Auto4.uasset'
+[2025.11.20-02.41.15:042][192]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.030
+[2025.11.20-02.41.15:042][192]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2025.11.20-02.41.15:044][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1] ([1] browsable assets)...
+[2025.11.20-02.41.15:051][192]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1.vjhledeaw_tier_1]
+[2025.11.20-02.41.15:051][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1]
+[2025.11.20-02.41.15:062][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1_Auto4
+[2025.11.20-02.41.15:062][192]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/vjhledeaw_tier_1_Auto4823898EF461C37DB887F1F9ABD983A46.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1_Auto4.uasset'
+[2025.11.20-02.41.15:063][192]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Locker] ([2] browsable assets)...
+[2025.11.20-02.41.15:063][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Locker]
+[2025.11.20-02.41.15:067][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Locker_Auto4
+[2025.11.20-02.41.15:067][192]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BP_Locker_Auto4C2B00D194BED1A096161399153DA2FC7.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Locker_Auto4.uasset'
+[2025.11.20-02.41.15:068][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N] ([1] browsable assets)...
+[2025.11.20-02.41.15:070][192]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N.T_vjhledeaw_4K_N]
+[2025.11.20-02.41.15:070][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N]
+[2025.11.20-02.41.15:120][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N_Auto4
+[2025.11.20-02.41.15:120][192]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_N_Auto45BE0FBED40D4035D3DCA7F839515D0A7.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N_Auto4.uasset'
+[2025.11.20-02.41.15:121][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM] ([1] browsable assets)...
+[2025.11.20-02.41.15:122][192]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM.T_vjhledeaw_4K_ORM]
+[2025.11.20-02.41.15:122][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM]
+[2025.11.20-02.41.15:175][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM_Auto4
+[2025.11.20-02.41.15:175][192]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_ORM_Auto40C83621C49970274A0BF5D9998E45A86.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM_Auto4.uasset'
+[2025.11.20-02.41.15:176][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B] ([1] browsable assets)...
+[2025.11.20-02.41.15:177][192]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B.T_vjhledeaw_4K_B]
+[2025.11.20-02.41.15:177][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B]
+[2025.11.20-02.41.15:231][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B_Auto4
+[2025.11.20-02.41.15:231][192]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_B_Auto4FDB405B0412A226631825E9F27CBFFFA.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B_Auto4.uasset'
+[2025.11.20-02.41.15:232][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H] ([1] browsable assets)...
+[2025.11.20-02.41.15:233][192]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H.T_vjhledeaw_4K_H]
+[2025.11.20-02.41.15:233][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H]
+[2025.11.20-02.41.15:245][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H_Auto4
+[2025.11.20-02.41.15:245][192]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_H_Auto4C1C7B557401BC2F256E3548932092C4C.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H_Auto4.uasset'
+[2025.11.20-02.41.15:246][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw] ([1] browsable assets)...
+[2025.11.20-02.41.15:254][192]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw.MI_vjhledeaw]
+[2025.11.20-02.41.15:254][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw]
+[2025.11.20-02.41.15:258][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw_Auto4
+[2025.11.20-02.41.15:258][192]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MI_vjhledeaw_Auto4FBC2B865455EAABE36F9FAA36090D293.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw_Auto4.uasset'
+[2025.11.20-02.41.15:259][192]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Fab/Materials/Standard/M_MS_Base] ([1] browsable assets)...
+[2025.11.20-02.41.15:264][192]OBJ SavePackage:     Rendered thumbnail for [Material /Fab/Materials/Standard/M_MS_Base.M_MS_Base]
+[2025.11.20-02.41.15:264][192]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Base]
+[2025.11.20-02.41.15:274][192]LogSavePackage: Moving output files for package: /Temp/Autosaves/Fab/Materials/Standard/M_MS_Base_Auto4
+[2025.11.20-02.41.15:274][192]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/M_MS_Base_Auto4BD3B399046123AB0167AF88BA4A08C95.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Fab/Materials/Standard/M_MS_Base_Auto4.uasset'
+[2025.11.20-02.41.15:274][192]LogFileHelpers: Auto-saving content packages took 0.231
+[2025.11.20-02.42.06:683][548]LogDerivedDataCache: C:/Users/mig3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.20-02.43.42:276][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.11.20-02.44.03:670][193]LogEditorTransaction: Undo Modify Component(s)
+[2025.11.20-02.44.33:408][146]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3863.999756
+[2025.11.20-02.44.33:510][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-02.44.33:510][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3864.086426, Update Interval: 343.651855
+[2025.11.20-02.44.45:597][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.11.20-02.47.21:872][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.20-02.48.15:802][380]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2025.11.20-02.48.15:804][380]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.11.20-02.48.29:037][443]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.11.20-02.48.29:037][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.20-02.48.29:084][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.11.20-02.51.07:375][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4257.985352
+[2025.11.20-02.51.07:460][200]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.20-02.51.07:460][200]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4258.058105, Update Interval: 326.761688
+[2025.11.20-02.51.52:618][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.11.20-02.51.52:624][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/M1/LYR6VXJFOOH4T46KY2LYJ9_Auto5
+[2025.11.20-02.51.52:624][850]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/LYR6VXJFOOH4T46KY2LYJ9_Auto570C5AD3549B19E012E00C8BD4B56F390.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/M1/LYR6VXJFOOH4T46KY2LYJ9_Auto5.uasset'
+[2025.11.20-02.51.52:625][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.025
+[2025.11.20-02.51.52:625][850]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2025.11.20-02.51.52:625][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1] ([1] browsable assets)...
+[2025.11.20-02.51.52:625][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1]
+[2025.11.20-02.51.52:635][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1_Auto5
+[2025.11.20-02.51.52:635][850]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/vjhledeaw_tier_1_Auto562278D9D4BC966CD1B658BA74A82BDCF.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1_Auto5.uasset'
+[2025.11.20-02.51.52:636][850]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Locker] ([2] browsable assets)...
+[2025.11.20-02.51.52:670][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Locker.BP_Locker]
+[2025.11.20-02.51.52:670][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Locker]
+[2025.11.20-02.51.52:679][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Locker_Auto5
+[2025.11.20-02.51.52:679][850]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BP_Locker_Auto5D4F7EF5D49BE278A484D67813B775782.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Locker_Auto5.uasset'
+[2025.11.20-02.51.52:680][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N] ([1] browsable assets)...
+[2025.11.20-02.51.52:680][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N]
+[2025.11.20-02.51.52:732][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N_Auto5
+[2025.11.20-02.51.52:732][850]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_N_Auto56AF90A8F46AFB9BE5F8C52BB4AAE0AD0.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N_Auto5.uasset'
+[2025.11.20-02.51.52:733][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM] ([1] browsable assets)...
+[2025.11.20-02.51.52:733][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM]
+[2025.11.20-02.51.52:782][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM_Auto5
+[2025.11.20-02.51.52:782][850]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_ORM_Auto534A123E84D2CF11FF2ACA982CA0D8E4A.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM_Auto5.uasset'
+[2025.11.20-02.51.52:783][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B] ([1] browsable assets)...
+[2025.11.20-02.51.52:783][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B]
+[2025.11.20-02.51.52:835][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B_Auto5
+[2025.11.20-02.51.52:836][850]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_B_Auto59363D8EB404F74580D68BDB7DC692BCF.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B_Auto5.uasset'
+[2025.11.20-02.51.52:836][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H] ([1] browsable assets)...
+[2025.11.20-02.51.52:836][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H]
+[2025.11.20-02.51.52:847][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H_Auto5
+[2025.11.20-02.51.52:847][850]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_H_Auto5E31F25494945CE4F0B07A796B3C7C636.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H_Auto5.uasset'
+[2025.11.20-02.51.52:848][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw] ([1] browsable assets)...
+[2025.11.20-02.51.52:848][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw]
+[2025.11.20-02.51.52:851][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw_Auto5
+[2025.11.20-02.51.52:851][850]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MI_vjhledeaw_Auto5CD6ABE3A4F2D942F0C7CF2ABC0DE4E1C.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw_Auto5.uasset'
+[2025.11.20-02.51.52:852][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Fab/Materials/Standard/M_MS_Base] ([1] browsable assets)...
+[2025.11.20-02.51.52:852][850]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Base]
+[2025.11.20-02.51.52:860][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Fab/Materials/Standard/M_MS_Base_Auto5
+[2025.11.20-02.51.52:860][850]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/M_MS_Base_Auto5869162BA4CB8CAB6341117B119DDD969.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Fab/Materials/Standard/M_MS_Base_Auto5.uasset'
+[2025.11.20-02.51.52:861][850]LogFileHelpers: Auto-saving content packages took 0.236
+[2025.11.20-02.53.44:447][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.20-02.53.53:771][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.11.20-02.53.55:340][722]LogSlate: Window 'Save Content' being destroyed
+[2025.11.20-02.53.55:368][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.20-02.53.55:419][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Locker] ([2] browsable assets)...
+[2025.11.20-02.53.55:458][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Locker.BP_Locker]
+[2025.11.20-02.53.55:458][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Locker]
+[2025.11.20-02.53.55:467][722]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Locker
+[2025.11.20-02.53.55:467][722]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BP_Locker60DD5AC546177231FCD47598756E9221.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/FirstPerson/Blueprints/BP_Locker.uasset'
+[2025.11.20-02.53.55:470][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw] ([1] browsable assets)...
+[2025.11.20-02.53.55:470][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw]
+[2025.11.20-02.53.55:474][722]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw
+[2025.11.20-02.53.55:474][722]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MI_vjhledeaw764FCA9C480530AE4E13FCAEEF060975.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw.uasset'
+[2025.11.20-02.53.55:476][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Fab/Materials/Standard/M_MS_Base] ([1] browsable assets)...
+[2025.11.20-02.53.55:476][722]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Base]
+[2025.11.20-02.53.55:476][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Fab/Materials/Standard/M_MS_Base" FILE="../../Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset" SILENT=true
+[2025.11.20-02.53.55:483][722]LogSavePackage: Moving output files for package: /Fab/Materials/Standard/M_MS_Base
+[2025.11.20-02.53.55:484][722]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/M_MS_Base8DD313664DC2F0327EB4128B2D97AAC4.tmp' to '../../Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset'
+[2025.11.20-02.53.55:485][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B] ([1] browsable assets)...
+[2025.11.20-02.53.55:485][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B]
+[2025.11.20-02.53.55:569][722]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B
+[2025.11.20-02.53.55:569][722]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_BFFEF51A34E8DB945A5F696966C3A7CDA.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B.uasset'
+[2025.11.20-02.53.55:571][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H] ([1] browsable assets)...
+[2025.11.20-02.53.55:571][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H]
+[2025.11.20-02.53.55:590][722]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H
+[2025.11.20-02.53.55:590][722]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_HF5C187B541A3ABD35E3EB7AEECE53124.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H.uasset'
+[2025.11.20-02.53.55:591][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N] ([1] browsable assets)...
+[2025.11.20-02.53.55:591][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N]
+[2025.11.20-02.53.55:675][722]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N
+[2025.11.20-02.53.55:675][722]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_N0BD29F9140549CE7B12129A9D8E85AC8.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N.uasset'
+[2025.11.20-02.53.55:676][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM] ([1] browsable assets)...
+[2025.11.20-02.53.55:676][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM]
+[2025.11.20-02.53.55:755][722]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM
+[2025.11.20-02.53.55:755][722]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/T_vjhledeaw_4K_ORM737A73C041C210F9D3CF9CBEDFA688CC.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM.uasset'
+[2025.11.20-02.53.55:757][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1] ([1] browsable assets)...
+[2025.11.20-02.53.55:757][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1]
+[2025.11.20-02.53.55:765][722]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1
+[2025.11.20-02.53.55:766][722]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/vjhledeaw_tier_183F709AD4B7DB96F7F0F169CC3EB32D6.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1.uasset'
+[2025.11.20-02.53.55:769][722]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/M1/LYR6VXJFOOH4T46KY2LYJ9
+[2025.11.20-02.53.55:769][722]LogSavePackage: Moving '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/LYR6VXJFOOH4T46KY2LYJ9F37E6892496732E2DF7B09B50F9ECD99.tmp' to '../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/M1/LYR6VXJFOOH4T46KY2LYJ9.uasset'
+[2025.11.20-02.53.55:781][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 412.361 ms (total: 1.09 sec)
+[2025.11.20-02.53.55:839][722]LogContentValidation: Display: Starting to validate 9 assets
+[2025.11.20-02.53.55:839][722]LogContentValidation: Enabled validators:
+[2025.11.20-02.53.55:839][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.20-02.53.55:839][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.20-02.53.55:839][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.20-02.53.55:839][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.20-02.53.55:839][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.20-02.53.55:839][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.20-02.53.55:839][722]AssetCheck: /Game/FirstPerson/Blueprints/BP_Locker Validating asset
+[2025.11.20-02.53.55:839][722]AssetCheck: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Materials/MI_vjhledeaw Validating asset
+[2025.11.20-02.53.55:839][722]AssetCheck: /Fab/Materials/Standard/M_MS_Base Validating asset
+[2025.11.20-02.53.55:839][722]AssetCheck: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_B Validating asset
+[2025.11.20-02.53.55:839][722]AssetCheck: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_H Validating asset
+[2025.11.20-02.53.55:839][722]AssetCheck: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_N Validating asset
+[2025.11.20-02.53.55:839][722]AssetCheck: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/Textures/T_vjhledeaw_4K_ORM Validating asset
+[2025.11.20-02.53.55:839][722]AssetCheck: /Game/Fab/Megascans/3D/Rusty_Metal_Cabinet_vjhledeaw/High/vjhledeaw_tier_1/StaticMeshes/vjhledeaw_tier_1 Validating asset
+[2025.11.20-02.53.55:839][722]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.11.20-02.53.55:865][722]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
