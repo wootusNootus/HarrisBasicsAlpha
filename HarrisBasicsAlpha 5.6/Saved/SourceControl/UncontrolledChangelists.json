@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/FirstPerson/Blueprints/BP_Locker.uasset",
+				"D:/UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/FirstPerson/Blueprints/CameraMovement/Idle.uasset",
+				"D:/UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/FirstPerson/Blueprints/CameraMovement/Sprint.uasset",
+				"D:/UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/FirstPerson/Blueprints/CameraMovement/Walk.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
 				"C:/Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/FirstPerson/Input/IMC_Default.uasset",
 				"C:/Users/mig3/Documents/CS 415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
