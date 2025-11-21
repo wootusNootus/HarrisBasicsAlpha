@@ -4678,3 +4678,44 @@ FPackageName: Skipped package /Game/LearningKit_Games/Assets/Characters/Characte
 [2025.11.21-18.33.48:639][448]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.21-18.33.48:639][448]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54889.812500, Update Interval: 337.435211
 [2025.11.21-18.40.12:376][599]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55272.617188
+[2025.11.21-18.40.13:378][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-18.40.13:378][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55273.281250, Update Interval: 324.300659
+[2025.11.21-18.46.22:098][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55641.320312
+[2025.11.21-18.46.23:097][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-18.46.23:097][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55641.984375, Update Interval: 306.659760
+[2025.11.21-18.52.03:153][731]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 55981.496094
+[2025.11.21-18.52.04:154][734]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-18.52.04:154][734]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 55982.160156, Update Interval: 300.377197
+[2025.11.21-18.57.54:885][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56332.085938
+[2025.11.21-18.57.55:884][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-18.57.55:884][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56332.750000, Update Interval: 303.003021
+[2025.11.21-19.03.41:283][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 56677.371094
+[2025.11.21-19.03.42:283][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-19.03.42:283][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 56678.035156, Update Interval: 320.242920
+[2025.11.21-19.10.00:365][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 57055.183594
+[2025.11.21-19.10.01:365][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-19.10.01:365][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 57055.847656, Update Interval: 308.509155
+[2025.11.21-19.11.03:699][146]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.11.21-19.11.03:700][146]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.11.21-19.11.03:706][146]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.11.21-19.11.03:706][146]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=28
+[2025.11.21-19.24.28:712][146]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.11.21-19.24.28:712][146]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.11.21-19.24.28:712][146]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [805 Seconds] waiting for h/w. InstanceID=1
+[2025.11.21-19.24.28:714][146]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.11.21-19.24.28:714][146]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.11.21-19.24.28:714][146]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [805 Seconds] waiting for h/w. InstanceID=28
+[2025.11.21-19.24.30:202][147]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.21-19.24.30:202][147]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.21-19.24.30:204][147]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.21-19.24.30:204][147]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.21-19.24.30:207][147]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2025.11.21-19.24.30:207][147]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2025.11.21-19.24.30:494][148]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0a99c240-4083-4c0a-b6b3-761fa904379b}, Name=Headphones (2- Arctis Nova 7)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=28, DurationMS=245.74
+[2025.11.21-19.24.30:498][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.11.21-19.24.30:498][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.11.21-19.24.30:515][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.11.21-19.24.30:797][149]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0a99c240-4083-4c0a-b6b3-761fa904379b}, Name=Headphones (2- Arctis Nova 7)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=303.36
+[2025.11.21-19.24.30:798][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.21-19.24.30:798][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.21-19.24.30:804][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
