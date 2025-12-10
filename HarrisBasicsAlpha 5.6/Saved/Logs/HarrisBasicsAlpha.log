@@ -3687,3 +3687,1175 @@ FPackageName: Skipped package /Game/FirstPerson/Blueprints/Breathing_Niagara_Sys
 [2025.12.10-07.23.49:070][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2025.12.10-07.23.49:090][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
 [2025.12.10-07.23.49:101][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.738 ms (total: 941.867 ms)
+[2025.12.10-07.25.31:098][703]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-07.25.31:111][703]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-07.25.31:125][704]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-07.25.34:264][ 21]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2025.12.10-07.25.34:264][ 21]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-07.25.50:211][276]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.27.33:137][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3198.805176
+[2025.12.10-07.27.34:137][755]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-07.27.34:137][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3199.471436, Update Interval: 305.253448
+[2025.12.10-07.29.38:154][579]LogStreaming: Display: FlushAsyncLoading(467): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.29.38:176][579]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-07.29.38:176][579]LogInterchangeEngine: Display: Interchange start importing source [D:/UIUC/textures/brick.png]
+[2025.12.10-07.29.38:229][581]LogStreaming: Display: FlushAsyncLoading(473): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.29.38:254][584]LogTexture: Display: Building textures: /Game/Textures/brick.brick (BGRA8, 680x449 x1x1x1) (Required Memory Estimate: 11.482323 MB), EncodeSpeed: Fast
+[2025.12.10-07.29.38:275][585]LogInterchangeEngine: Display: Interchange import completed [D:/UIUC/textures/brick.png]
+[2025.12.10-07.29.38:276][585]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-07.29.38:276][585]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-07.30.18:590][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.12.10-07.30.18:712][318]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.12.10-07.30.18:725][318]LogSlate: Took 0.012335 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.12.10-07.30.19:319][318]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.10-07.30.19:357][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.10-07.30.19:377][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.10-07.30.19:399][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.10-07.30.22:535][474]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.30.22:548][474]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-07.30.22:548][474]LogInterchangeEngine: Display: Interchange start importing source [D:/UIUC/textures/brick.png]
+[2025.12.10-07.30.22:596][476]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.30.22:607][478]LogTexture: Display: Building textures: /Game/Textures/brick.brick (BGRA8, 588x354 x1x1x1) (Required Memory Estimate: 8.146332 MB), EncodeSpeed: Fast
+[2025.12.10-07.30.22:627][479]LogInterchangeEngine: Display: Interchange import completed [D:/UIUC/textures/brick.png]
+[2025.12.10-07.30.22:628][479]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-07.30.22:628][479]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-07.30.24:266][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.30.24:328][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.10-07.30.24:348][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.10-07.30.24:366][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.10-07.30.24:380][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.215 ms (total: 1.05 sec)
+[2025.12.10-07.30.26:733][868]LogStatusBar: Looking status bar with open content browser drawer...
+[2025.12.10-07.30.26:733][868]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2025.12.10-07.31.22:085][795]LogContentBrowser: Deferred new asset file creation: brick_Mat
+[2025.12.10-07.31.22:099][795]LogContentBrowser: Creating deferred item: brick_Mat
+[2025.12.10-07.31.22:113][796]LogContentBrowser: Renaming the item being created (Deferred Item: brick_Mat).
+[2025.12.10-07.31.26:640][246]LogContentBrowser: Attempting asset rename: brick_Mat -> brick_Mat
+[2025.12.10-07.31.26:657][246]LogContentBrowser: End creating deferred item brick_Mat
+[2025.12.10-07.31.31:101][647]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Textures/brick_Mat.brick_Mat
+[2025.12.10-07.31.31:126][647]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.10-07.31.31:818][647]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.10-07.31.31:818][647]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.10-07.31.31:818][647]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-07.31.31:818][647]MaterialEditorStats: Shader Count: 0
+[2025.12.10-07.31.31:818][647]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-07.31.31:829][647]LogSlate: Took 0.000757 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.10-07.31.31:927][649]MaterialEditorStats: Base pass shader: 209 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.12.10-07.31.31:927][649]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.10-07.31.31:927][649]MaterialEditorStats: Texture samplers: 3/16
+[2025.12.10-07.31.31:927][649]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.12.10-07.31.31:927][649]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.12.10-07.31.31:927][649]MaterialEditorStats: Shader Count: 4
+[2025.12.10-07.31.31:927][649]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.10-07.31.37:846][ 58]LogSlate: Window 'brick_Mat' being destroyed
+[2025.12.10-07.31.37:872][ 58]LogSlate: Window 'brick_Mat' being destroyed
+[2025.12.10-07.31.37:939][ 58]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-07.31.37:939][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-07.31.38:018][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.10-07.31.51:883][424]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.10-07.33.29:779][308]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3555.446533
+[2025.12.10-07.33.29:858][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-07.33.29:858][318]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3555.517334, Update Interval: 310.642426
+[2025.12.10-07.33.33:868][772]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.33:868][772]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-07.33.34:678][823]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.34:678][823]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-07.33.35:617][917]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.35:617][917]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-07.33.38:798][295]Cmd: TRANSACTION REDO
+[2025.12.10-07.33.38:798][295]LogEditorTransaction: Redo Clicking on Elements
+[2025.12.10-07.33.39:170][302]Cmd: TRANSACTION REDO
+[2025.12.10-07.33.39:170][302]LogEditorTransaction: Redo Clicking on Elements
+[2025.12.10-07.33.39:603][330]Cmd: TRANSACTION REDO
+[2025.12.10-07.33.39:603][330]LogEditorTransaction: Redo Clicking on Elements
+[2025.12.10-07.33.41:370][495]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.41:370][495]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-07.33.41:573][508]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.41:573][508]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-07.33.41:778][518]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.41:778][518]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-07.33.42:159][563]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.42:159][563]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.33.42:626][618]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.42:626][618]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.33.43:359][667]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.43:359][667]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.33.43:776][716]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.43:776][716]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.33.47:277][132]Cmd: TRANSACTION REDO
+[2025.12.10-07.33.47:277][132]LogEditorTransaction: Redo Place Objects
+[2025.12.10-07.33.48:542][238]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.48:542][238]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.33.55:025][955]Cmd: TRANSACTION UNDO
+[2025.12.10-07.33.55:025][955]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: ================================================
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Total job queries 601, among them cache hits 150 (24.96%), DDC hits 423 (70.38%), Duplicates 24 (3.99%)
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Tracking 427 distinct input hashes that result in 316 distinct outputs (74.00%)
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: RAM used: 3.69 MiB of 819.20 MiB budget. Usage: 0.45%
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Average time worker was idle: 3.77 s
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Job execution time: average 1.11 s, max 1.56 s
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 1.67
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Shader code size: total 28.348 KiB, numShaders 4, average 7.087 KiB, min 5.055 KiB, max 9.309 KiB
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.61 s
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Average processing rate: 1.53 jobs/sec
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Total thread time: 2.496 s
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Total thread preprocess time: 12.295 s
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Percentage time preprocessing: 492.66%
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Effective parallelization: 0.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.119410
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.10-07.34.22:790][913]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.72 sec, max 0.80 sec, min 0.65 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 57.87% of total time (compiled    2 times, average 0.72 sec, max 0.80 sec, min 0.65 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.61% of total time (compiled    1 times, average 0.59 sec, max 0.59 sec, min 0.59 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display:                                                 FLumenCardPS - 18.52% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display: === Material stats ===
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display: Materials Translated:    169
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display: Material Translation Only: 0.07 s (41%)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display: Material Cache Hits: 23 (14%)
+[2025.12.10-07.34.22:791][913]LogShaderCompilers: Display: ================================================
+[2025.12.10-07.34.33:878][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.10-07.34.33:883][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ED/6W16DBJQNTW3N5ITSPISE9_Auto2
+[2025.12.10-07.34.33:883][946]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6W16DBJQNTW3N5ITSPISE9_Auto2786F9BC045ADF1DFFF13C1A3DA3D8069.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ED/6W16DBJQNTW3N5ITSPISE9_Auto2.uasset'
+[2025.12.10-07.34.33:885][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4_Auto2
+[2025.12.10-07.34.33:885][946]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/A34WOBX3306F8PV7AUTZR4_Auto2E7F717A94F6EAECA794437A85E800EE4.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4_Auto2.uasset'
+[2025.12.10-07.34.33:887][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/L7/GIRZ5VUOXSBEZJWXNR2VH6_Auto2
+[2025.12.10-07.34.33:887][946]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/GIRZ5VUOXSBEZJWXNR2VH6_Auto24761A9E94C84D4DFBDF0579447841C37.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/L7/GIRZ5VUOXSBEZJWXNR2VH6_Auto2.uasset'
+[2025.12.10-07.34.33:887][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.060
+[2025.12.10-07.34.33:887][946]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2025.12.10-07.34.33:888][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B] ([1] browsable assets)...
+[2025.12.10-07.34.33:888][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B]
+[2025.12.10-07.34.33:896][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B_Auto2
+[2025.12.10-07.34.33:898][946]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/CubeGridToolOutput_D734203B_Auto5181E4B6459439D5E6448685762BA409.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B_Auto2.uasset'
+[2025.12.10-07.34.33:899][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/brick] ([1] browsable assets)...
+[2025.12.10-07.34.33:901][946]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/brick.brick]
+[2025.12.10-07.34.33:901][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/brick]
+[2025.12.10-07.34.33:901][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/brick" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/brick_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-07.34.33:903][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/brick_Auto2
+[2025.12.10-07.34.33:903][946]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/brick_Auto2AB92951E45BEDE3BF1DC93834BC4C5FE.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/brick_Auto2.uasset'
+[2025.12.10-07.34.33:904][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/brick_Mat] ([1] browsable assets)...
+[2025.12.10-07.34.35:725][946]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/brick_Mat.brick_Mat]
+[2025.12.10-07.34.35:725][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/brick_Mat]
+[2025.12.10-07.34.35:728][946]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/brick_Mat_Auto2
+[2025.12.10-07.34.35:728][946]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/brick_Mat_Auto2028314F3411E1BEA36846CAA2A3BBEE3.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/brick_Mat_Auto2.uasset'
+[2025.12.10-07.34.35:729][946]LogFileHelpers: Auto-saving content packages took 1.841
+[2025.12.10-07.35.48:172][850]LogStreaming: Display: FlushAsyncLoading(476): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.35.48:183][850]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-07.35.48:183][850]LogInterchangeEngine: Display: Interchange start importing source [D:/UIUC/textures/hair.png]
+[2025.12.10-07.35.48:226][852]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.35.48:237][854]LogTexture: Display: Building textures: /Game/Textures/hair.hair (BGRA8, 572x527 x1x1x1) (Required Memory Estimate: 11.349251 MB), EncodeSpeed: Fast
+[2025.12.10-07.35.48:245][854]LogInterchangeEngine: Display: Interchange import completed [D:/UIUC/textures/hair.png]
+[2025.12.10-07.35.48:246][854]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-07.35.48:246][854]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-07.35.55:352][543]LogContentBrowser: Deferred new asset file creation: hair_Mat
+[2025.12.10-07.35.55:360][543]LogContentBrowser: Creating deferred item: hair_Mat
+[2025.12.10-07.35.55:371][544]LogContentBrowser: Renaming the item being created (Deferred Item: hair_Mat).
+[2025.12.10-07.35.56:740][709]LogContentBrowser: Attempting asset rename: hair_Mat -> hair_Mat
+[2025.12.10-07.35.56:746][709]LogContentBrowser: End creating deferred item hair_Mat
+[2025.12.10-07.36.02:944][389]LogDerivedDataCache: C:/Users/J C/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-07.36.34:308][ 14]Cmd: TRANSACTION UNDO
+[2025.12.10-07.36.34:308][ 14]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.36.38:853][425]Cmd: TRANSACTION UNDO
+[2025.12.10-07.36.38:854][425]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.36.40:422][560]Cmd: TRANSACTION UNDO
+[2025.12.10-07.36.40:422][560]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.37.22:803][905]LogShaderCompilers: Display: ================================================
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Total job queries 627, among them cache hits 160 (25.52%), DDC hits 424 (67.62%), Duplicates 31 (4.94%)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Tracking 436 distinct input hashes that result in 324 distinct outputs (74.31%)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: RAM used: 3.77 MiB of 819.20 MiB budget. Usage: 0.46%
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Shaders Compiled: 12
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Average time worker was idle: 92.50 s
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 1.64 s
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 1.71
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Shader code size: total 120.062 KiB, numShaders 12, average 10.005 KiB, min 5.055 KiB, max 12.734 KiB
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.34 s
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Average processing rate: 2.77 jobs/sec
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Total thread time: 9.016 s
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Total thread preprocess time: 12.744 s
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Percentage time preprocessing: 141.36%
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Effective parallelization: 2.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.259841
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.02% of total time (compiled    2 times, average 0.72 sec, max 0.80 sec, min 0.65 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.05% of total time (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 8.63% of total time (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.57% of total time (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 8.36% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: === Material stats ===
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Materials Translated:    170
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Material Translation Only: 0.07 s (41%)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: Material Cache Hits: 23 (14%)
+[2025.12.10-07.37.22:804][905]LogShaderCompilers: Display: ================================================
+[2025.12.10-07.37.40:585][389]Cmd: TRANSACTION UNDO
+[2025.12.10-07.37.40:585][389]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.38.12:155][539]LogStreaming: Display: FlushAsyncLoading(478): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.38.12:168][539]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-07.38.12:168][539]LogInterchangeEngine: Display: Interchange start importing source [D:/UIUC/textures/hair2.png]
+[2025.12.10-07.38.12:224][541]LogStreaming: Display: FlushAsyncLoading(479): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.38.12:236][543]LogTexture: Display: Building textures: /Game/Textures/hair2.hair2 (BGRA8, 490x505 x1x1x1) (Required Memory Estimate: 9.495514 MB), EncodeSpeed: Fast
+[2025.12.10-07.38.12:251][543]LogInterchangeEngine: Display: Interchange import completed [D:/UIUC/textures/hair2.png]
+[2025.12.10-07.38.12:251][543]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-07.38.12:251][543]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-07.38.16:666][916]LogContentBrowser: Deferred new asset file creation: hair2_Mat
+[2025.12.10-07.38.16:674][916]LogContentBrowser: Creating deferred item: hair2_Mat
+[2025.12.10-07.38.16:689][917]LogContentBrowser: Renaming the item being created (Deferred Item: hair2_Mat).
+[2025.12.10-07.38.19:097][183]LogContentBrowser: Attempting asset rename: hair2_Mat -> hair2_Mat
+[2025.12.10-07.38.19:103][183]LogContentBrowser: End creating deferred item hair2_Mat
+[2025.12.10-07.38.30:304][265]Cmd: TRANSACTION UNDO
+[2025.12.10-07.38.30:304][265]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.39.14:534][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3900.193115
+[2025.12.10-07.39.15:534][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-07.39.15:534][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3900.859863, Update Interval: 346.462585
+[2025.12.10-07.39.27:271][254]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.39.27:281][254]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-07.39.27:281][254]LogInterchangeEngine: Display: Interchange start importing source [D:/UIUC/textures/hair3.png]
+[2025.12.10-07.39.27:332][256]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.39.27:344][258]LogTexture: Display: Building textures: /Game/Textures/hair3.hair3 (BGRA8, 386x473 x1x1x1) (Required Memory Estimate: 7.268311 MB), EncodeSpeed: Fast
+[2025.12.10-07.39.27:355][258]LogInterchangeEngine: Display: Interchange import completed [D:/UIUC/textures/hair3.png]
+[2025.12.10-07.39.27:355][258]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-07.39.27:355][258]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-07.39.28:828][352]LogContentBrowser: Deferred new asset file creation: hair3_Mat
+[2025.12.10-07.39.28:845][352]LogContentBrowser: Creating deferred item: hair3_Mat
+[2025.12.10-07.39.28:859][353]LogContentBrowser: Renaming the item being created (Deferred Item: hair3_Mat).
+[2025.12.10-07.39.30:224][484]LogContentBrowser: Attempting asset rename: hair3_Mat -> hair3_Mat
+[2025.12.10-07.39.30:231][484]LogContentBrowser: End creating deferred item hair3_Mat
+[2025.12.10-07.40.03:161][810]LogStreaming: Display: FlushAsyncLoading(482): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.40.03:170][810]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-07.40.03:170][810]LogInterchangeEngine: Display: Interchange start importing source [D:/UIUC/textures/hair4.png]
+[2025.12.10-07.40.03:227][812]LogStreaming: Display: FlushAsyncLoading(483): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.40.03:238][814]LogTexture: Display: Building textures: /Game/Textures/hair4.hair4 (BGRA8, 449x333 x1x1x1) (Required Memory Estimate: 6.133259 MB), EncodeSpeed: Fast
+[2025.12.10-07.40.03:257][815]LogInterchangeEngine: Display: Interchange import completed [D:/UIUC/textures/hair4.png]
+[2025.12.10-07.40.03:258][815]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-07.40.03:258][815]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-07.40.05:121][951]LogContentBrowser: Deferred new asset file creation: hair4_Mat
+[2025.12.10-07.40.05:137][951]LogContentBrowser: Creating deferred item: hair4_Mat
+[2025.12.10-07.40.05:152][952]LogContentBrowser: Renaming the item being created (Deferred Item: hair4_Mat).
+[2025.12.10-07.40.05:518][986]LogContentBrowser: Attempting asset rename: hair4_Mat -> hair4_Mat
+[2025.12.10-07.40.05:524][986]LogContentBrowser: End creating deferred item hair4_Mat
+[2025.12.10-07.40.14:887][851]Cmd: TRANSACTION UNDO
+[2025.12.10-07.40.14:887][851]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.40.40:667][899]Cmd: TRANSACTION UNDO
+[2025.12.10-07.40.40:667][899]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.41.36:041][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.41.36:077][179]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4
+[2025.12.10-07.41.36:077][179]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/A34WOBX3306F8PV7AUTZR42E5B5A1547C5E3566D5E17B50988BA3E.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4.uasset'
+[2025.12.10-07.41.36:087][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.183 ms (total: 1.10 sec)
+[2025.12.10-07.41.36:132][179]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-07.41.36:132][179]LogContentValidation: Enabled validators:
+[2025.12.10-07.41.36:132][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.41.36:132][179]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.41.36:132][179]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.41.36:132][179]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.41.36:132][179]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.41.36:132][179]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.41.36:132][179]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-07.41.37:868][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.41.37:907][344]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4
+[2025.12.10-07.41.37:907][344]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/A34WOBX3306F8PV7AUTZR4D0BF47D7471F1910B2E90BB8B53DCA1C.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4.uasset'
+[2025.12.10-07.41.37:917][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.869 ms (total: 1.14 sec)
+[2025.12.10-07.41.37:954][344]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-07.41.37:954][344]LogContentValidation: Enabled validators:
+[2025.12.10-07.41.37:954][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.41.37:954][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.41.37:954][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.41.37:954][344]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.41.37:954][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.41.37:954][344]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.41.37:954][344]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-07.41.55:087][921]Cmd: EDIT COPY
+[2025.12.10-07.41.55:502][948]Cmd: EDIT PASTE
+[2025.12.10-07.42.12:227][257]Cmd: EDIT COPY
+[2025.12.10-07.42.12:722][298]Cmd: EDIT PASTE
+[2025.12.10-07.42.32:734][ 49]Cmd: EDIT COPY
+[2025.12.10-07.42.33:056][ 83]Cmd: EDIT PASTE
+[2025.12.10-07.42.42:645][913]Cmd: EDIT COPY
+[2025.12.10-07.42.44:321][ 98]Cmd: EDIT PASTE
+[2025.12.10-07.44.13:097][358]Cmd: TRANSACTION UNDO
+[2025.12.10-07.44.13:098][358]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.44.53:486][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.12.10-07.44.53:490][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/NH71F61GZATPU2D72V5J0T_Auto3
+[2025.12.10-07.44.53:490][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/NH71F61GZATPU2D72V5J0T_Auto3F585FAC340408AEF2BD4329F08557F88.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/NH71F61GZATPU2D72V5J0T_Auto3.uasset'
+[2025.12.10-07.44.53:492][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9_Auto3
+[2025.12.10-07.44.53:492][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/NWWEVRQSGT6ARVZ8HQLCM9_Auto3847E800E49345E908BB6C4A70AA34EED.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9_Auto3.uasset'
+[2025.12.10-07.44.53:493][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM_Auto3
+[2025.12.10-07.44.53:494][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MG6FOV6QQX2CAZCGF7O9MM_Auto362EFDF864FCC1738A7BE69B4461B228E.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM_Auto3.uasset'
+[2025.12.10-07.44.53:496][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2_Auto3
+[2025.12.10-07.44.53:496][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XIHYQ8ZTVL6F9GCUZX1AQ2_Auto371ABCCD14BE8E3FD50BD938373FE83E7.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2_Auto3.uasset'
+[2025.12.10-07.44.53:498][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX_Auto3
+[2025.12.10-07.44.53:498][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/YPSPM063O6XAJVKSDHY2JX_Auto3A7428BF044B29F085084A99B3E9F2C71.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX_Auto3.uasset'
+[2025.12.10-07.44.53:499][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN_Auto3
+[2025.12.10-07.44.53:499][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/31H7DJTVWEX04CCMX5U1SN_Auto3D31C683C47573E33444E0B991522A604.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN_Auto3.uasset'
+[2025.12.10-07.44.53:501][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4_Auto3
+[2025.12.10-07.44.53:501][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Z38FT77DKZLKDXTQ7PZNM4_Auto32451CB9A4483B2141A93859D460373DB.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4_Auto3.uasset'
+[2025.12.10-07.44.53:503][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH_Auto3
+[2025.12.10-07.44.53:503][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XRLOR3HVYVHJA3N9PKGXZH_Auto399908CF54B6A5C4489F5BFAB7A2BF986.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH_Auto3.uasset'
+[2025.12.10-07.44.53:504][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT_Auto3
+[2025.12.10-07.44.53:504][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ZEL6NJUQJU43LAD9X3NXTT_Auto331F47B1F43A8862F7D4F078AEB98BA4B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT_Auto3.uasset'
+[2025.12.10-07.44.53:506][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4_Auto3
+[2025.12.10-07.44.53:506][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ZXUQMNLL9GZ2UNQ5D0R4A4_Auto35037A5064C2E91016A2BD690A0561064.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4_Auto3.uasset'
+[2025.12.10-07.44.53:507][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29_Auto3
+[2025.12.10-07.44.53:508][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/QQN0UFFAA797E1UT4IMD29_Auto39C75D7F04CB7CE477C77CB81DEBF502B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29_Auto3.uasset'
+[2025.12.10-07.44.53:509][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X_Auto3
+[2025.12.10-07.44.53:510][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1JZHHCOBVQ2F5XRUWSES1X_Auto365EC28BB475AFD1E1D3F629DEF554F7D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X_Auto3.uasset'
+[2025.12.10-07.44.53:512][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0_Auto3
+[2025.12.10-07.44.53:512][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/7EHFAZ5HVWXAWQ04QO5TH0_Auto3DA26C24D4410C92A72A59CB9158BAB87.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0_Auto3.uasset'
+[2025.12.10-07.44.53:518][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/8S/7ZLIFD715X7FIEXX0QYC8N_Auto3
+[2025.12.10-07.44.53:518][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/7ZLIFD715X7FIEXX0QYC8N_Auto3CB8AB8A04321C64844212AA64A7A27F1.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/8S/7ZLIFD715X7FIEXX0QYC8N_Auto3.uasset'
+[2025.12.10-07.44.53:519][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ED/6W16DBJQNTW3N5ITSPISE9_Auto3
+[2025.12.10-07.44.53:519][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6W16DBJQNTW3N5ITSPISE9_Auto3123B0A8A4CE77A07D77BD9BB6615ED08.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ED/6W16DBJQNTW3N5ITSPISE9_Auto3.uasset'
+[2025.12.10-07.44.53:521][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME_Auto3
+[2025.12.10-07.44.53:521][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/GZM47KS5FPIQH5TLSYC1ME_Auto31B8BD30D4410523DA1532D9E64B70483.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME_Auto3.uasset'
+[2025.12.10-07.44.53:522][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN_Auto3
+[2025.12.10-07.44.53:522][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/X084A70TPBKFLJDCV2U5PN_Auto363C84E0345B3D5357BBBFF87180E1BD9.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN_Auto3.uasset'
+[2025.12.10-07.44.53:524][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK_Auto3
+[2025.12.10-07.44.53:524][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/4ATOKH0ZGPCVBS85MPKAXK_Auto3C3381111409605934630C58D75E25F18.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK_Auto3.uasset'
+[2025.12.10-07.44.53:526][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778_Auto3
+[2025.12.10-07.44.53:526][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ZNIOCRD90Z70MMV9NMW778_Auto3AEDB873E44286F51D31DB4828811C5B7.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778_Auto3.uasset'
+[2025.12.10-07.44.53:527][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ_Auto3
+[2025.12.10-07.44.53:528][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/D1AHM62WL9TXSNPYQDXQMZ_Auto3CF82A3074911517116CFF38EF8B3B598.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ_Auto3.uasset'
+[2025.12.10-07.44.53:529][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC_Auto3
+[2025.12.10-07.44.53:529][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/KY9ZXT77SAVGWBRTNCFCSC_Auto3266E91364C83328FAE21DCA9D5A262CD.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC_Auto3.uasset'
+[2025.12.10-07.44.53:531][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9_Auto3
+[2025.12.10-07.44.53:531][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/IY5R6I5N0YWU9LYWKXFXH9_Auto3D25F1E2A490B3A572EADA6AE829DE679.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9_Auto3.uasset'
+[2025.12.10-07.44.53:533][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9_Auto3
+[2025.12.10-07.44.53:533][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/FVTPO8KZ0WPMCSQLVJE6O9_Auto335EB454342025E7B63674080E0413253.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9_Auto3.uasset'
+[2025.12.10-07.44.53:534][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA_Auto3
+[2025.12.10-07.44.53:534][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/U0XT0R08XQA6C15NK8ILFA_Auto322D7CC244B76580F762F8DBE19BDC883.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA_Auto3.uasset'
+[2025.12.10-07.44.53:538][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML_Auto3
+[2025.12.10-07.44.53:538][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/64ROQWZ22CQVFJMU4XABML_Auto30700EEEC4800B0DF0BB97E84CF70DA82.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML_Auto3.uasset'
+[2025.12.10-07.44.53:540][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J_Auto3
+[2025.12.10-07.44.53:540][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/KT6JL4FVCNJJ9VFOCSF32J_Auto3E57EFC224A06AF8D8EF63FA6A6CC3201.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J_Auto3.uasset'
+[2025.12.10-07.44.53:542][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H_Auto3
+[2025.12.10-07.44.53:542][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/0GJ9TLQE2YKOIFZ6YHG33H_Auto3F47C171F456D2A0F91E9FB9BA0C110C6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H_Auto3.uasset'
+[2025.12.10-07.44.53:543][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI_Auto3
+[2025.12.10-07.44.53:544][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1TS6RXVW69DL6H77EVNVWI_Auto3842134BE427725D511227AAA298BCAD6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI_Auto3.uasset'
+[2025.12.10-07.44.53:545][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA_Auto3
+[2025.12.10-07.44.53:545][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/0SPQG8P507LI9VUAFG20OA_Auto338F67BDF4591E664C3098A8A6B43714C.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA_Auto3.uasset'
+[2025.12.10-07.44.53:546][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/L7/GIRZ5VUOXSBEZJWXNR2VH6_Auto3
+[2025.12.10-07.44.53:546][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/GIRZ5VUOXSBEZJWXNR2VH6_Auto3A7158A6E4B7F7DC546E8A3A1BB1F6FBC.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/L7/GIRZ5VUOXSBEZJWXNR2VH6_Auto3.uasset'
+[2025.12.10-07.44.53:548][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3N/OF91MZBVOGQJJGEB9IA6BG_Auto3
+[2025.12.10-07.44.53:548][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/OF91MZBVOGQJJGEB9IA6BG_Auto38D8592D740EBE27CFB1CDC874FD6B78A.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3N/OF91MZBVOGQJJGEB9IA6BG_Auto3.uasset'
+[2025.12.10-07.44.53:549][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/I3/1QK53ZUW2M8QUYF8L9WJUA_Auto3
+[2025.12.10-07.44.53:549][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1QK53ZUW2M8QUYF8L9WJUA_Auto3425484354A10FAC839C62DAE14B27CF0.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/I3/1QK53ZUW2M8QUYF8L9WJUA_Auto3.uasset'
+[2025.12.10-07.44.53:551][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8Q/94ZQZ2W7S5HTWL9U30AJA5_Auto3
+[2025.12.10-07.44.53:551][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/94ZQZ2W7S5HTWL9U30AJA5_Auto3240567FA485C2E6D194C6680B9614E7F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8Q/94ZQZ2W7S5HTWL9U30AJA5_Auto3.uasset'
+[2025.12.10-07.44.53:552][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/45/PAY1UF6YTY4NF2SVH7K86T_Auto3
+[2025.12.10-07.44.53:552][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/PAY1UF6YTY4NF2SVH7K86T_Auto36D80C5F44A78236CA766F0A948A59E6A.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/45/PAY1UF6YTY4NF2SVH7K86T_Auto3.uasset'
+[2025.12.10-07.44.53:553][118]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.146
+[2025.12.10-07.44.53:553][118]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.146
+[2025.12.10-07.44.53:553][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B] ([1] browsable assets)...
+[2025.12.10-07.44.53:553][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B]
+[2025.12.10-07.44.53:562][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B_Auto3
+[2025.12.10-07.44.53:563][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/CubeGridToolOutput_D734203B_AutoE09DF9C343F9B049D21AF2A3C0D9FFD4.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B_Auto3.uasset'
+[2025.12.10-07.44.53:564][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/brick] ([1] browsable assets)...
+[2025.12.10-07.44.53:564][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/brick]
+[2025.12.10-07.44.53:564][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/brick" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/brick_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-07.44.53:565][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/brick_Auto3
+[2025.12.10-07.44.53:565][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/brick_Auto39C4B710645D9A06229183690D51890E5.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/brick_Auto3.uasset'
+[2025.12.10-07.44.53:566][118]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/brick_Mat] ([1] browsable assets)...
+[2025.12.10-07.44.53:566][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/brick_Mat]
+[2025.12.10-07.44.53:567][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/brick_Mat_Auto3
+[2025.12.10-07.44.53:567][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/brick_Mat_Auto33189AB754ED0100BFB25BD8E9F22A2F3.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/brick_Mat_Auto3.uasset'
+[2025.12.10-07.44.53:567][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.44.53:569][118]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/hair.hair]
+[2025.12.10-07.44.53:569][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.44.53:569][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-07.44.53:572][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/hair_Auto3
+[2025.12.10-07.44.53:572][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair_Auto3C7FF26514623842616863DA827FD5856.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair_Auto3.uasset'
+[2025.12.10-07.44.53:572][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/hair_Mat] ([1] browsable assets)...
+[2025.12.10-07.44.53:690][118]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/hair_Mat.hair_Mat]
+[2025.12.10-07.44.53:690][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair_Mat]
+[2025.12.10-07.44.53:690][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair_Mat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-07.44.53:693][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/hair_Mat_Auto3
+[2025.12.10-07.44.53:693][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair_Mat_Auto3899BDBED45908C420CBACF98C46E45A1.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair_Mat_Auto3.uasset'
+[2025.12.10-07.44.53:694][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/hair2] ([1] browsable assets)...
+[2025.12.10-07.44.53:696][118]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/hair2.hair2]
+[2025.12.10-07.44.53:696][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2]
+[2025.12.10-07.44.53:696][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair2_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-07.44.53:698][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/hair2_Auto3
+[2025.12.10-07.44.53:698][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2_Auto3624B3ADF45B588A6F0DE7A956A32D3E2.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair2_Auto3.uasset'
+[2025.12.10-07.44.53:699][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/hair2_Mat] ([1] browsable assets)...
+[2025.12.10-07.44.53:753][118]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/hair2_Mat.hair2_Mat]
+[2025.12.10-07.44.53:753][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2_Mat]
+[2025.12.10-07.44.53:755][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/hair2_Mat_Auto3
+[2025.12.10-07.44.53:755][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2_Mat_Auto30F1513DC46C9959EEAB833B3DEA55DDE.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair2_Mat_Auto3.uasset'
+[2025.12.10-07.44.53:756][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/hair3] ([1] browsable assets)...
+[2025.12.10-07.44.53:756][118]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/hair3.hair3]
+[2025.12.10-07.44.53:756][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3]
+[2025.12.10-07.44.53:756][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair3_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-07.44.53:758][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/hair3_Auto3
+[2025.12.10-07.44.53:758][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3_Auto3BBF4CA274C8E4C2EA4A972B7CFCF6DB0.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair3_Auto3.uasset'
+[2025.12.10-07.44.53:759][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/hair3_Mat] ([1] browsable assets)...
+[2025.12.10-07.44.53:814][118]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/hair3_Mat.hair3_Mat]
+[2025.12.10-07.44.53:814][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3_Mat]
+[2025.12.10-07.44.53:816][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/hair3_Mat_Auto3
+[2025.12.10-07.44.53:816][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3_Mat_Auto3FE8FAF8147C382802AAD179A5FF115DA.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair3_Mat_Auto3.uasset'
+[2025.12.10-07.44.53:817][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/hair4] ([1] browsable assets)...
+[2025.12.10-07.44.53:818][118]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/hair4.hair4]
+[2025.12.10-07.44.53:818][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4]
+[2025.12.10-07.44.53:818][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair4_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-07.44.53:821][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/hair4_Auto3
+[2025.12.10-07.44.53:822][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair4_Auto366523416484308E33475298D97110891.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair4_Auto3.uasset'
+[2025.12.10-07.44.53:822][118]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/hair4_Mat] ([1] browsable assets)...
+[2025.12.10-07.44.53:877][118]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/hair4_Mat.hair4_Mat]
+[2025.12.10-07.44.53:877][118]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4_Mat]
+[2025.12.10-07.44.53:879][118]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/hair4_Mat_Auto3
+[2025.12.10-07.44.53:879][118]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair4_Mat_Auto3E707FBA44DC0D2D37971EAA813B0882F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Textures/hair4_Mat_Auto3.uasset'
+[2025.12.10-07.44.53:879][118]LogFileHelpers: Auto-saving content packages took 0.326
+[2025.12.10-07.45.11:114][243]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.45.11:125][243]LogInterchangeEngine: [Pending] Importing
+[2025.12.10-07.45.11:125][243]LogInterchangeEngine: Display: Interchange start importing source [D:/UIUC/textures/platform.png]
+[2025.12.10-07.45.11:181][245]LogStreaming: Display: FlushAsyncLoading(485): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-07.45.11:194][247]LogTexture: Display: Building textures: /Game/Textures/platform.platform (BGRA8, 447x451 x1x1x1) (Required Memory Estimate: 7.921284 MB), EncodeSpeed: Fast
+[2025.12.10-07.45.11:214][248]LogInterchangeEngine: Display: Interchange import completed [D:/UIUC/textures/platform.png]
+[2025.12.10-07.45.11:214][248]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.12.10-07.45.11:214][248]LogInterchangeEngine: [Success] Import Done
+[2025.12.10-07.45.13:884][458]LogContentBrowser: Deferred new asset file creation: platform_Mat
+[2025.12.10-07.45.13:893][458]LogContentBrowser: Creating deferred item: platform_Mat
+[2025.12.10-07.45.13:909][459]LogContentBrowser: Renaming the item being created (Deferred Item: platform_Mat).
+[2025.12.10-07.45.14:758][531]LogContentBrowser: Attempting asset rename: platform_Mat -> platform_Mat
+[2025.12.10-07.45.14:765][531]LogContentBrowser: End creating deferred item platform_Mat
+[2025.12.10-07.45.14:850][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.14:910][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.10-07.45.14:931][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.10-07.45.14:949][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.10-07.45.14:956][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/NH71F61GZATPU2D72V5J0T
+[2025.12.10-07.45.14:956][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/NH71F61GZATPU2D72V5J0T066305CC4FF548867396128B383B206D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/NH71F61GZATPU2D72V5J0T.uasset'
+[2025.12.10-07.45.14:958][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9
+[2025.12.10-07.45.14:958][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/NWWEVRQSGT6ARVZ8HQLCM9A6A2A9D8415AD3164739DE92D1E06607.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset'
+[2025.12.10-07.45.14:960][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM
+[2025.12.10-07.45.14:961][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MG6FOV6QQX2CAZCGF7O9MMC42138144AC405623934E9938B5BF425.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset'
+[2025.12.10-07.45.14:962][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2
+[2025.12.10-07.45.14:963][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XIHYQ8ZTVL6F9GCUZX1AQ207E937BF421D32E4E669E2A73BFBD345.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset'
+[2025.12.10-07.45.14:964][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX
+[2025.12.10-07.45.14:964][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/YPSPM063O6XAJVKSDHY2JXBCB5B2F649E252E485F04DA1E08E2CC6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset'
+[2025.12.10-07.45.14:967][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN
+[2025.12.10-07.45.14:967][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/31H7DJTVWEX04CCMX5U1SN41551B8B4AF7523C3184D5B510D43D9E.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset'
+[2025.12.10-07.45.14:969][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4
+[2025.12.10-07.45.14:969][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Z38FT77DKZLKDXTQ7PZNM44289CCB348FFD80E8F2DDB9DC099DC69.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset'
+[2025.12.10-07.45.14:971][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH
+[2025.12.10-07.45.14:972][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XRLOR3HVYVHJA3N9PKGXZH8E2A85D349096B18F393CDAF1B80EFC9.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset'
+[2025.12.10-07.45.14:973][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT
+[2025.12.10-07.45.14:974][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ZEL6NJUQJU43LAD9X3NXTTDB1DEBFB4FF1831DD6FCB5AF347695CC.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset'
+[2025.12.10-07.45.14:975][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4
+[2025.12.10-07.45.14:975][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ZXUQMNLL9GZ2UNQ5D0R4A41B45FB654623AB1A51539091C2FD47FF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset'
+[2025.12.10-07.45.14:977][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29
+[2025.12.10-07.45.14:977][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/QQN0UFFAA797E1UT4IMD2983E13B934B48AAB2D59FDFAF580E7AF2.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset'
+[2025.12.10-07.45.14:979][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X
+[2025.12.10-07.45.14:979][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1JZHHCOBVQ2F5XRUWSES1XEE096FEC432898D641813A9CC9B0A2CF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset'
+[2025.12.10-07.45.14:981][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0
+[2025.12.10-07.45.14:981][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/7EHFAZ5HVWXAWQ04QO5TH0CD3750FC41877A2A3A713EB0B0DEF4E4.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset'
+[2025.12.10-07.45.14:983][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/8S/7ZLIFD715X7FIEXX0QYC8N
+[2025.12.10-07.45.14:983][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/7ZLIFD715X7FIEXX0QYC8N7B9241524BFA3CB83A7CBDACBB77DECF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/8S/7ZLIFD715X7FIEXX0QYC8N.uasset'
+[2025.12.10-07.45.14:986][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ED/6W16DBJQNTW3N5ITSPISE9
+[2025.12.10-07.45.14:986][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6W16DBJQNTW3N5ITSPISE9EB4310DC4412A8C0A2D2959CD40D2739.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ED/6W16DBJQNTW3N5ITSPISE9.uasset'
+[2025.12.10-07.45.14:988][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME
+[2025.12.10-07.45.14:988][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/GZM47KS5FPIQH5TLSYC1ME1B1D499D43B3E6DC328E83891CDE31AF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset'
+[2025.12.10-07.45.14:990][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN
+[2025.12.10-07.45.14:991][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/X084A70TPBKFLJDCV2U5PN82E4169943A50C3C788178A9EA318F1F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset'
+[2025.12.10-07.45.14:993][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK
+[2025.12.10-07.45.14:993][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/4ATOKH0ZGPCVBS85MPKAXKF74790C140EEF8DF4ACBADB4CA547228.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset'
+[2025.12.10-07.45.14:994][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778
+[2025.12.10-07.45.14:994][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ZNIOCRD90Z70MMV9NMW778E041342842EB8F73040C43BB477DD4F1.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset'
+[2025.12.10-07.45.14:997][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ
+[2025.12.10-07.45.14:997][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/D1AHM62WL9TXSNPYQDXQMZ948E8CF24B28F8E99AD0CE8FD84D238C.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset'
+[2025.12.10-07.45.14:999][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC
+[2025.12.10-07.45.14:999][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/KY9ZXT77SAVGWBRTNCFCSC6C9A5C834CF50DB43F7289BAA470875B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset'
+[2025.12.10-07.45.15:000][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9
+[2025.12.10-07.45.15:000][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/IY5R6I5N0YWU9LYWKXFXH9F12D2CA24D0ABC8D918853BBE1D172E6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset'
+[2025.12.10-07.45.15:002][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9
+[2025.12.10-07.45.15:002][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/FVTPO8KZ0WPMCSQLVJE6O960E9FBE347C401F582FDF2964CCE114D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset'
+[2025.12.10-07.45.15:004][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA
+[2025.12.10-07.45.15:006][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/U0XT0R08XQA6C15NK8ILFA823EB9354B87E575B9E9F191FD8EDEDF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset'
+[2025.12.10-07.45.15:007][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML
+[2025.12.10-07.45.15:007][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/64ROQWZ22CQVFJMU4XABML5F486C874646D931064C249716348847.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset'
+[2025.12.10-07.45.15:009][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J
+[2025.12.10-07.45.15:009][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/KT6JL4FVCNJJ9VFOCSF32JADDAEB724C7D0C0C7FEC90A121729CB3.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset'
+[2025.12.10-07.45.15:011][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H
+[2025.12.10-07.45.15:011][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/0GJ9TLQE2YKOIFZ6YHG33HF5A663824D88BBA29C7737B08F0F42AC.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset'
+[2025.12.10-07.45.15:013][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI
+[2025.12.10-07.45.15:013][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1TS6RXVW69DL6H77EVNVWIB9F7B5C24DEF73D9DD12029EE04C892E.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI.uasset'
+[2025.12.10-07.45.15:016][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA
+[2025.12.10-07.45.15:016][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/0SPQG8P507LI9VUAFG20OA635180BD43C39FA2E4FBC7A486E76765.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset'
+[2025.12.10-07.45.15:017][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/L7/GIRZ5VUOXSBEZJWXNR2VH6
+[2025.12.10-07.45.15:018][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/GIRZ5VUOXSBEZJWXNR2VH6749CD744467B84DE924D408C095059C2.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/L7/GIRZ5VUOXSBEZJWXNR2VH6.uasset'
+[2025.12.10-07.45.15:020][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3N/OF91MZBVOGQJJGEB9IA6BG
+[2025.12.10-07.45.15:020][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/OF91MZBVOGQJJGEB9IA6BG11D913524816E2E882B94CA7498B6DCA.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/3N/OF91MZBVOGQJJGEB9IA6BG.uasset'
+[2025.12.10-07.45.15:021][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/I3/1QK53ZUW2M8QUYF8L9WJUA
+[2025.12.10-07.45.15:021][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1QK53ZUW2M8QUYF8L9WJUAC2B6E56E405326F0671889BAEEF975BA.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/I3/1QK53ZUW2M8QUYF8L9WJUA.uasset'
+[2025.12.10-07.45.15:023][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8Q/94ZQZ2W7S5HTWL9U30AJA5
+[2025.12.10-07.45.15:023][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/94ZQZ2W7S5HTWL9U30AJA5D5D129B04870052EACAE43B55B251292.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8Q/94ZQZ2W7S5HTWL9U30AJA5.uasset'
+[2025.12.10-07.45.15:025][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/45/PAY1UF6YTY4NF2SVH7K86T
+[2025.12.10-07.45.15:025][532]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/PAY1UF6YTY4NF2SVH7K86TEA72A9964E23893742008F92E12BCBF3.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/45/PAY1UF6YTY4NF2SVH7K86T.uasset'
+[2025.12.10-07.45.15:036][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.611 ms (total: 1.33 sec)
+[2025.12.10-07.45.15:080][532]LogContentValidation: Display: Starting to validate 34 assets
+[2025.12.10-07.45.15:080][532]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.15:080][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.15:080][532]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.15:080][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.15:080][532]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.15:080][532]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.15:080][532]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.15:080][532]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-07.45.15:106][532]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.19:669][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.19:708][889]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair3] ([1] browsable assets)...
+[2025.12.10-07.45.19:708][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3]
+[2025.12.10-07.45.19:708][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset" SILENT=true
+[2025.12.10-07.45.19:716][889]LogSavePackage: Moving output files for package: /Game/Textures/hair3
+[2025.12.10-07.45.19:716][889]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3B371164C4267CEE21E6AC8A2980749D4.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset'
+[2025.12.10-07.45.19:730][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.133 ms (total: 1.39 sec)
+[2025.12.10-07.45.19:768][889]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-07.45.19:768][889]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.19:768][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.19:768][889]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.19:768][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.19:768][889]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.19:768][889]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.19:768][889]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.19:768][889]AssetCheck: /Game/Textures/hair3 Validating asset
+[2025.12.10-07.45.19:788][889]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.25:575][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.25:608][363]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/brick] ([1] browsable assets)...
+[2025.12.10-07.45.25:608][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/brick]
+[2025.12.10-07.45.25:608][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/brick" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/brick.uasset" SILENT=true
+[2025.12.10-07.45.25:615][363]LogSavePackage: Moving output files for package: /Game/Textures/brick
+[2025.12.10-07.45.25:615][363]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/brickD4862EEF4792899DE3D059B83FF5542C.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/brick.uasset'
+[2025.12.10-07.45.25:627][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.257 ms (total: 1.44 sec)
+[2025.12.10-07.45.25:664][363]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-07.45.25:664][363]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.25:664][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.25:664][363]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.25:664][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.25:664][363]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.25:664][363]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.25:664][363]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.25:664][363]AssetCheck: /Game/Textures/brick Validating asset
+[2025.12.10-07.45.25:687][363]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.26:626][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.26:660][436]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/brick_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.26:660][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/brick_Mat]
+[2025.12.10-07.45.26:660][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/brick_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/brick_Mat.uasset" SILENT=true
+[2025.12.10-07.45.26:662][436]LogSavePackage: Moving output files for package: /Game/Textures/brick_Mat
+[2025.12.10-07.45.26:662][436]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/brick_Mat8ACE977B4EA0FC9E42ACA7BE02FBFD44.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/brick_Mat.uasset'
+[2025.12.10-07.45.26:672][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.886 ms (total: 1.49 sec)
+[2025.12.10-07.45.26:709][436]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-07.45.26:709][436]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.26:709][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.26:709][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.26:709][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.26:709][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.26:709][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.26:709][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.26:709][436]AssetCheck: /Game/Textures/brick_Mat Validating asset
+[2025.12.10-07.45.26:730][436]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.27:178][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.27:219][460]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.45.27:219][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.45.27:219][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset" SILENT=true
+[2025.12.10-07.45.27:227][460]LogSavePackage: Moving output files for package: /Game/Textures/hair
+[2025.12.10-07.45.27:227][460]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3E92DEE946271369950690853F7B8D70.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset'
+[2025.12.10-07.45.27:240][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.688 ms (total: 1.55 sec)
+[2025.12.10-07.45.27:277][460]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-07.45.27:277][460]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.27:277][460]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.27:277][460]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.27:277][460]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.27:277][460]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.27:277][460]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.27:277][460]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.27:277][460]AssetCheck: /Game/Textures/hair Validating asset
+[2025.12.10-07.45.27:299][460]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.27:608][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.27:646][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.45.27:646][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.45.27:647][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset" SILENT=true
+[2025.12.10-07.45.27:653][478]LogSavePackage: Moving output files for package: /Game/Textures/hair
+[2025.12.10-07.45.27:653][478]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hairE76D8DB046B36808C977C2808A760D71.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset'
+[2025.12.10-07.45.27:653][478]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2] ([1] browsable assets)...
+[2025.12.10-07.45.27:653][478]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2]
+[2025.12.10-07.45.27:653][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset" SILENT=true
+[2025.12.10-07.45.27:660][478]LogSavePackage: Moving output files for package: /Game/Textures/hair2
+[2025.12.10-07.45.27:660][478]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2C2E064FE4BB48D361C248EBF71A572BF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset'
+[2025.12.10-07.45.27:674][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.544 ms (total: 1.62 sec)
+[2025.12.10-07.45.27:714][478]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.10-07.45.27:714][478]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.27:714][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.27:714][478]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.27:714][478]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.27:714][478]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.27:714][478]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.27:714][478]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.27:714][478]AssetCheck: /Game/Textures/hair Validating asset
+[2025.12.10-07.45.27:714][478]AssetCheck: /Game/Textures/hair2 Validating asset
+[2025.12.10-07.45.27:737][478]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.27:971][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.28:007][497]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.45.28:007][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.45.28:007][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset" SILENT=true
+[2025.12.10-07.45.28:014][497]LogSavePackage: Moving output files for package: /Game/Textures/hair
+[2025.12.10-07.45.28:014][497]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair7F6E024046A48178E9F452A9395F2F80.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset'
+[2025.12.10-07.45.28:014][497]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2] ([1] browsable assets)...
+[2025.12.10-07.45.28:016][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2]
+[2025.12.10-07.45.28:016][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset" SILENT=true
+[2025.12.10-07.45.28:023][497]LogSavePackage: Moving output files for package: /Game/Textures/hair2
+[2025.12.10-07.45.28:023][497]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair27EA403574683ADCE887825A6678EF670.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset'
+[2025.12.10-07.45.28:024][497]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair3] ([1] browsable assets)...
+[2025.12.10-07.45.28:024][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3]
+[2025.12.10-07.45.28:024][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset" SILENT=true
+[2025.12.10-07.45.28:029][497]LogSavePackage: Moving output files for package: /Game/Textures/hair3
+[2025.12.10-07.45.28:029][497]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3193BEE35458E21AD29E285AB6DB3E2C4.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset'
+[2025.12.10-07.45.28:042][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.052 ms (total: 1.69 sec)
+[2025.12.10-07.45.28:084][497]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.10-07.45.28:084][497]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.28:084][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.28:084][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.28:084][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.28:084][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.28:084][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.28:084][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.28:084][497]AssetCheck: /Game/Textures/hair Validating asset
+[2025.12.10-07.45.28:084][497]AssetCheck: /Game/Textures/hair2 Validating asset
+[2025.12.10-07.45.28:084][497]AssetCheck: /Game/Textures/hair3 Validating asset
+[2025.12.10-07.45.28:323][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.28:360][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.45.28:360][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.45.28:360][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset" SILENT=true
+[2025.12.10-07.45.28:367][513]LogSavePackage: Moving output files for package: /Game/Textures/hair
+[2025.12.10-07.45.28:368][513]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hairEE9B6B2B4302A5CF51803FA9E9B97E00.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset'
+[2025.12.10-07.45.28:368][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2] ([1] browsable assets)...
+[2025.12.10-07.45.28:368][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2]
+[2025.12.10-07.45.28:368][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset" SILENT=true
+[2025.12.10-07.45.28:374][513]LogSavePackage: Moving output files for package: /Game/Textures/hair2
+[2025.12.10-07.45.28:374][513]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair29C515A244894217D71EF1FBFF7D23595.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset'
+[2025.12.10-07.45.28:376][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair3] ([1] browsable assets)...
+[2025.12.10-07.45.28:376][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3]
+[2025.12.10-07.45.28:376][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset" SILENT=true
+[2025.12.10-07.45.28:381][513]LogSavePackage: Moving output files for package: /Game/Textures/hair3
+[2025.12.10-07.45.28:382][513]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3F89F79824BA072F9DEA440B8FB7C4549.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset'
+[2025.12.10-07.45.28:382][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair4] ([1] browsable assets)...
+[2025.12.10-07.45.28:382][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4]
+[2025.12.10-07.45.28:382][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset" SILENT=true
+[2025.12.10-07.45.28:388][513]LogSavePackage: Moving output files for package: /Game/Textures/hair4
+[2025.12.10-07.45.28:388][513]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair44AE11A4F41B88015DF076B83745C08AC.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset'
+[2025.12.10-07.45.28:399][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.876 ms (total: 1.76 sec)
+[2025.12.10-07.45.28:445][513]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.10-07.45.28:445][513]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.28:445][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.28:445][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.28:445][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.28:445][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.28:445][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.28:445][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.28:446][513]AssetCheck: /Game/Textures/hair Validating asset
+[2025.12.10-07.45.28:446][513]AssetCheck: /Game/Textures/hair2 Validating asset
+[2025.12.10-07.45.28:446][513]AssetCheck: /Game/Textures/hair3 Validating asset
+[2025.12.10-07.45.28:446][513]AssetCheck: /Game/Textures/hair4 Validating asset
+[2025.12.10-07.45.28:474][513]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.28:720][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.28:759][528]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.45.28:759][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.45.28:759][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset" SILENT=true
+[2025.12.10-07.45.28:764][528]LogSavePackage: Moving output files for package: /Game/Textures/hair
+[2025.12.10-07.45.28:765][528]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hairEE5E68BE42AB8BEFE68519A38B9D59FD.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset'
+[2025.12.10-07.45.28:765][528]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2] ([1] browsable assets)...
+[2025.12.10-07.45.28:765][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2]
+[2025.12.10-07.45.28:765][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset" SILENT=true
+[2025.12.10-07.45.28:772][528]LogSavePackage: Moving output files for package: /Game/Textures/hair2
+[2025.12.10-07.45.28:773][528]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2DAC1FA3E4C7A7C25B0618B869AF06D81.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset'
+[2025.12.10-07.45.28:773][528]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair3] ([1] browsable assets)...
+[2025.12.10-07.45.28:773][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3]
+[2025.12.10-07.45.28:773][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset" SILENT=true
+[2025.12.10-07.45.28:778][528]LogSavePackage: Moving output files for package: /Game/Textures/hair3
+[2025.12.10-07.45.28:778][528]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3B7E7563546354D06F07C8EAF216C1448.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset'
+[2025.12.10-07.45.28:779][528]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair4] ([1] browsable assets)...
+[2025.12.10-07.45.28:779][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4]
+[2025.12.10-07.45.28:779][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset" SILENT=true
+[2025.12.10-07.45.28:786][528]LogSavePackage: Moving output files for package: /Game/Textures/hair4
+[2025.12.10-07.45.28:786][528]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair40BF5D7F54E124B0C3D339BA114564A36.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset'
+[2025.12.10-07.45.28:787][528]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.28:787][528]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2_Mat]
+[2025.12.10-07.45.28:787][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset" SILENT=true
+[2025.12.10-07.45.28:788][528]LogSavePackage: Moving output files for package: /Game/Textures/hair2_Mat
+[2025.12.10-07.45.28:788][528]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2_MatFEF3365F4B6389DED966A5930013E4FB.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset'
+[2025.12.10-07.45.28:801][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.103 ms (total: 1.84 sec)
+[2025.12.10-07.45.28:845][528]LogContentValidation: Display: Starting to validate 5 assets
+[2025.12.10-07.45.28:845][528]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.28:845][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.28:845][528]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.28:845][528]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.28:845][528]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.28:845][528]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.28:845][528]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.28:845][528]AssetCheck: /Game/Textures/hair Validating asset
+[2025.12.10-07.45.28:845][528]AssetCheck: /Game/Textures/hair2 Validating asset
+[2025.12.10-07.45.28:845][528]AssetCheck: /Game/Textures/hair3 Validating asset
+[2025.12.10-07.45.28:846][528]AssetCheck: /Game/Textures/hair4 Validating asset
+[2025.12.10-07.45.28:846][528]AssetCheck: /Game/Textures/hair2_Mat Validating asset
+[2025.12.10-07.45.28:871][528]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.29:067][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.29:106][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.45.29:106][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.45.29:106][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset" SILENT=true
+[2025.12.10-07.45.29:114][541]LogSavePackage: Moving output files for package: /Game/Textures/hair
+[2025.12.10-07.45.29:114][541]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hairF1F9B08E443F901758AFF7A33C6B37DC.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset'
+[2025.12.10-07.45.29:115][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2] ([1] browsable assets)...
+[2025.12.10-07.45.29:115][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2]
+[2025.12.10-07.45.29:115][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset" SILENT=true
+[2025.12.10-07.45.29:121][541]LogSavePackage: Moving output files for package: /Game/Textures/hair2
+[2025.12.10-07.45.29:122][541]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair27EA746EC41AFEF6F1E61C481750DB269.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset'
+[2025.12.10-07.45.29:122][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair3] ([1] browsable assets)...
+[2025.12.10-07.45.29:122][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3]
+[2025.12.10-07.45.29:122][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset" SILENT=true
+[2025.12.10-07.45.29:127][541]LogSavePackage: Moving output files for package: /Game/Textures/hair3
+[2025.12.10-07.45.29:127][541]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3333669FA4BAD50640EE1E9AF919028D0.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset'
+[2025.12.10-07.45.29:128][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair4] ([1] browsable assets)...
+[2025.12.10-07.45.29:128][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4]
+[2025.12.10-07.45.29:128][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset" SILENT=true
+[2025.12.10-07.45.29:133][541]LogSavePackage: Moving output files for package: /Game/Textures/hair4
+[2025.12.10-07.45.29:134][541]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair446CB90B24D31A72CAD347F8E938EAA5D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset'
+[2025.12.10-07.45.29:134][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.29:134][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2_Mat]
+[2025.12.10-07.45.29:134][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset" SILENT=true
+[2025.12.10-07.45.29:136][541]LogSavePackage: Moving output files for package: /Game/Textures/hair2_Mat
+[2025.12.10-07.45.29:136][541]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2_MatD6A842A248E9C6ACDECD3BAEFEB67ADF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset'
+[2025.12.10-07.45.29:137][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair3_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.29:137][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3_Mat]
+[2025.12.10-07.45.29:137][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3_Mat.uasset" SILENT=true
+[2025.12.10-07.45.29:138][541]LogSavePackage: Moving output files for package: /Game/Textures/hair3_Mat
+[2025.12.10-07.45.29:138][541]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3_MatC38B2CB44C2C7197D9049CADB2F173B7.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3_Mat.uasset'
+[2025.12.10-07.45.29:151][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.776 ms (total: 1.93 sec)
+[2025.12.10-07.45.29:193][541]LogContentValidation: Display: Starting to validate 6 assets
+[2025.12.10-07.45.29:193][541]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.29:193][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.29:193][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.29:193][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.29:193][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.29:193][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.29:193][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.29:193][541]AssetCheck: /Game/Textures/hair Validating asset
+[2025.12.10-07.45.29:193][541]AssetCheck: /Game/Textures/hair2 Validating asset
+[2025.12.10-07.45.29:193][541]AssetCheck: /Game/Textures/hair3 Validating asset
+[2025.12.10-07.45.29:193][541]AssetCheck: /Game/Textures/hair4 Validating asset
+[2025.12.10-07.45.29:193][541]AssetCheck: /Game/Textures/hair2_Mat Validating asset
+[2025.12.10-07.45.29:194][541]AssetCheck: /Game/Textures/hair3_Mat Validating asset
+[2025.12.10-07.45.29:215][541]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.29:737][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.29:784][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.45.29:784][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.45.29:784][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset" SILENT=true
+[2025.12.10-07.45.29:792][577]LogSavePackage: Moving output files for package: /Game/Textures/hair
+[2025.12.10-07.45.29:792][577]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair4770B5394C55E0F98C2AB2A0E8FE3757.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset'
+[2025.12.10-07.45.29:793][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2] ([1] browsable assets)...
+[2025.12.10-07.45.29:793][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2]
+[2025.12.10-07.45.29:793][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset" SILENT=true
+[2025.12.10-07.45.29:801][577]LogSavePackage: Moving output files for package: /Game/Textures/hair2
+[2025.12.10-07.45.29:801][577]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair26A001EFE4AADE42B2C86C5BAA06E5788.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset'
+[2025.12.10-07.45.29:802][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair3] ([1] browsable assets)...
+[2025.12.10-07.45.29:802][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3]
+[2025.12.10-07.45.29:802][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset" SILENT=true
+[2025.12.10-07.45.29:808][577]LogSavePackage: Moving output files for package: /Game/Textures/hair3
+[2025.12.10-07.45.29:808][577]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3D3D6E55943E8053D22F9478E9D87A36A.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset'
+[2025.12.10-07.45.29:809][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair4] ([1] browsable assets)...
+[2025.12.10-07.45.29:809][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4]
+[2025.12.10-07.45.29:809][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset" SILENT=true
+[2025.12.10-07.45.29:816][577]LogSavePackage: Moving output files for package: /Game/Textures/hair4
+[2025.12.10-07.45.29:816][577]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair49EE0FF2A47026B9B5F47E4AE15B98808.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset'
+[2025.12.10-07.45.29:816][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.29:816][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2_Mat]
+[2025.12.10-07.45.29:816][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset" SILENT=true
+[2025.12.10-07.45.29:817][577]LogSavePackage: Moving output files for package: /Game/Textures/hair2_Mat
+[2025.12.10-07.45.29:818][577]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2_Mat883930E242A06395365D82A149EE585F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset'
+[2025.12.10-07.45.29:818][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair4_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.29:818][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4_Mat]
+[2025.12.10-07.45.29:818][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4_Mat.uasset" SILENT=true
+[2025.12.10-07.45.29:819][577]LogSavePackage: Moving output files for package: /Game/Textures/hair4_Mat
+[2025.12.10-07.45.29:819][577]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair4_Mat67392F1D4F2270AE35F3EE9B423C329E.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4_Mat.uasset'
+[2025.12.10-07.45.29:833][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.171 ms (total: 2.02 sec)
+[2025.12.10-07.45.29:876][577]LogContentValidation: Display: Starting to validate 6 assets
+[2025.12.10-07.45.29:876][577]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.29:876][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.29:876][577]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.29:876][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.29:876][577]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.29:876][577]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.29:876][577]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.29:876][577]AssetCheck: /Game/Textures/hair Validating asset
+[2025.12.10-07.45.29:876][577]AssetCheck: /Game/Textures/hair2 Validating asset
+[2025.12.10-07.45.29:876][577]AssetCheck: /Game/Textures/hair3 Validating asset
+[2025.12.10-07.45.29:876][577]AssetCheck: /Game/Textures/hair4 Validating asset
+[2025.12.10-07.45.29:876][577]AssetCheck: /Game/Textures/hair2_Mat Validating asset
+[2025.12.10-07.45.29:876][577]AssetCheck: /Game/Textures/hair4_Mat Validating asset
+[2025.12.10-07.45.29:900][577]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.30:132][590]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.30:177][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.45.30:177][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.45.30:177][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset" SILENT=true
+[2025.12.10-07.45.30:186][590]LogSavePackage: Moving output files for package: /Game/Textures/hair
+[2025.12.10-07.45.30:186][590]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair6B4826734CB28873452944B7CE0A7922.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset'
+[2025.12.10-07.45.30:187][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2] ([1] browsable assets)...
+[2025.12.10-07.45.30:187][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2]
+[2025.12.10-07.45.30:187][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset" SILENT=true
+[2025.12.10-07.45.30:195][590]LogSavePackage: Moving output files for package: /Game/Textures/hair2
+[2025.12.10-07.45.30:195][590]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2CDD14F4A42FF53EE888F7AA8556A67D6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset'
+[2025.12.10-07.45.30:196][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair3] ([1] browsable assets)...
+[2025.12.10-07.45.30:196][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3]
+[2025.12.10-07.45.30:196][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset" SILENT=true
+[2025.12.10-07.45.30:200][590]LogSavePackage: Moving output files for package: /Game/Textures/hair3
+[2025.12.10-07.45.30:201][590]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair34ADF996B4DD713C8835601A59055DC3F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset'
+[2025.12.10-07.45.30:201][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair4] ([1] browsable assets)...
+[2025.12.10-07.45.30:201][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4]
+[2025.12.10-07.45.30:201][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset" SILENT=true
+[2025.12.10-07.45.30:208][590]LogSavePackage: Moving output files for package: /Game/Textures/hair4
+[2025.12.10-07.45.30:209][590]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair4514205674DA58F4801FBE58BB1F0B893.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset'
+[2025.12.10-07.45.30:209][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.30:209][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2_Mat]
+[2025.12.10-07.45.30:209][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset" SILENT=true
+[2025.12.10-07.45.30:210][590]LogSavePackage: Moving output files for package: /Game/Textures/hair2_Mat
+[2025.12.10-07.45.30:211][590]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2_Mat699652724A0C4A8ACF9C188DC614B490.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset'
+[2025.12.10-07.45.30:211][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair4_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.30:211][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4_Mat]
+[2025.12.10-07.45.30:211][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4_Mat.uasset" SILENT=true
+[2025.12.10-07.45.30:213][590]LogSavePackage: Moving output files for package: /Game/Textures/hair4_Mat
+[2025.12.10-07.45.30:213][590]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair4_MatDED2FAC546CB704694D8FD9380EE1BA0.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4_Mat.uasset'
+[2025.12.10-07.45.30:213][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.30:214][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair_Mat]
+[2025.12.10-07.45.30:214][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair_Mat.uasset" SILENT=true
+[2025.12.10-07.45.30:215][590]LogSavePackage: Moving output files for package: /Game/Textures/hair_Mat
+[2025.12.10-07.45.30:215][590]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair_Mat8439ED0447E09B45C99BB8A3269653A6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair_Mat.uasset'
+[2025.12.10-07.45.30:227][590]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.009 ms (total: 2.12 sec)
+[2025.12.10-07.45.30:266][590]LogContentValidation: Display: Starting to validate 7 assets
+[2025.12.10-07.45.30:266][590]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.30:267][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.30:267][590]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.30:267][590]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.30:267][590]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.30:267][590]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.30:267][590]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.30:267][590]AssetCheck: /Game/Textures/hair Validating asset
+[2025.12.10-07.45.30:267][590]AssetCheck: /Game/Textures/hair2 Validating asset
+[2025.12.10-07.45.30:267][590]AssetCheck: /Game/Textures/hair3 Validating asset
+[2025.12.10-07.45.30:267][590]AssetCheck: /Game/Textures/hair4 Validating asset
+[2025.12.10-07.45.30:267][590]AssetCheck: /Game/Textures/hair2_Mat Validating asset
+[2025.12.10-07.45.30:267][590]AssetCheck: /Game/Textures/hair4_Mat Validating asset
+[2025.12.10-07.45.30:267][590]AssetCheck: /Game/Textures/hair_Mat Validating asset
+[2025.12.10-07.45.30:293][590]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.30:493][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.30:526][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair] ([1] browsable assets)...
+[2025.12.10-07.45.30:526][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair]
+[2025.12.10-07.45.30:526][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset" SILENT=true
+[2025.12.10-07.45.30:532][603]LogSavePackage: Moving output files for package: /Game/Textures/hair
+[2025.12.10-07.45.30:533][603]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair5E6C736D412D457B0AD8C88EA6089AB4.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair.uasset'
+[2025.12.10-07.45.30:533][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2] ([1] browsable assets)...
+[2025.12.10-07.45.30:533][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2]
+[2025.12.10-07.45.30:533][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset" SILENT=true
+[2025.12.10-07.45.30:538][603]LogSavePackage: Moving output files for package: /Game/Textures/hair2
+[2025.12.10-07.45.30:539][603]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair258A2FA094B5CC6735434A2A277B86E6B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2.uasset'
+[2025.12.10-07.45.30:539][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair3] ([1] browsable assets)...
+[2025.12.10-07.45.30:539][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair3]
+[2025.12.10-07.45.30:539][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair3" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset" SILENT=true
+[2025.12.10-07.45.30:544][603]LogSavePackage: Moving output files for package: /Game/Textures/hair3
+[2025.12.10-07.45.30:544][603]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair3FD3F4464429DF58A61B2099829EA4BB5.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair3.uasset'
+[2025.12.10-07.45.30:546][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair4] ([1] browsable assets)...
+[2025.12.10-07.45.30:546][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4]
+[2025.12.10-07.45.30:546][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset" SILENT=true
+[2025.12.10-07.45.30:552][603]LogSavePackage: Moving output files for package: /Game/Textures/hair4
+[2025.12.10-07.45.30:552][603]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair4199DD4974B131600E13544B925BCC785.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4.uasset'
+[2025.12.10-07.45.30:553][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair2_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.30:553][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair2_Mat]
+[2025.12.10-07.45.30:553][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair2_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset" SILENT=true
+[2025.12.10-07.45.30:555][603]LogSavePackage: Moving output files for package: /Game/Textures/hair2_Mat
+[2025.12.10-07.45.30:555][603]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair2_Mat02A02D674F58230FF83902997E860A30.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair2_Mat.uasset'
+[2025.12.10-07.45.30:556][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair4_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.30:556][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair4_Mat]
+[2025.12.10-07.45.30:556][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair4_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4_Mat.uasset" SILENT=true
+[2025.12.10-07.45.30:557][603]LogSavePackage: Moving output files for package: /Game/Textures/hair4_Mat
+[2025.12.10-07.45.30:557][603]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair4_Mat6B9134BF4535ECF296595F8537A399FD.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair4_Mat.uasset'
+[2025.12.10-07.45.30:557][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/hair_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.30:558][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/hair_Mat]
+[2025.12.10-07.45.30:558][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/hair_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair_Mat.uasset" SILENT=true
+[2025.12.10-07.45.30:559][603]LogSavePackage: Moving output files for package: /Game/Textures/hair_Mat
+[2025.12.10-07.45.30:559][603]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/hair_Mat52ACFC3E4181C1A78ABA57B9953C1F6D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/hair_Mat.uasset'
+[2025.12.10-07.45.30:560][603]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/platform] ([1] browsable assets)...
+[2025.12.10-07.45.30:562][603]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/platform.platform]
+[2025.12.10-07.45.30:562][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/platform]
+[2025.12.10-07.45.30:562][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/platform" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/platform.uasset" SILENT=true
+[2025.12.10-07.45.30:569][603]LogSavePackage: Moving output files for package: /Game/Textures/platform
+[2025.12.10-07.45.30:569][603]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/platformAB392FA348CD233ECFC50F8B1A46871E.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/platform.uasset'
+[2025.12.10-07.45.30:582][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.440 ms (total: 2.21 sec)
+[2025.12.10-07.45.30:626][603]LogContentValidation: Display: Starting to validate 8 assets
+[2025.12.10-07.45.30:626][603]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.30:626][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.30:626][603]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.30:626][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.30:626][603]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.30:626][603]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.30:626][603]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.30:626][603]AssetCheck: /Game/Textures/hair Validating asset
+[2025.12.10-07.45.30:626][603]AssetCheck: /Game/Textures/hair2 Validating asset
+[2025.12.10-07.45.30:626][603]AssetCheck: /Game/Textures/hair3 Validating asset
+[2025.12.10-07.45.30:626][603]AssetCheck: /Game/Textures/hair4 Validating asset
+[2025.12.10-07.45.30:626][603]AssetCheck: /Game/Textures/hair2_Mat Validating asset
+[2025.12.10-07.45.30:627][603]AssetCheck: /Game/Textures/hair4_Mat Validating asset
+[2025.12.10-07.45.30:627][603]AssetCheck: /Game/Textures/hair_Mat Validating asset
+[2025.12.10-07.45.30:627][603]AssetCheck: /Game/Textures/platform Validating asset
+[2025.12.10-07.45.30:649][603]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.32:394][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.45.32:432][758]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/platform_Mat] ([1] browsable assets)...
+[2025.12.10-07.45.32:485][758]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Textures/platform_Mat.platform_Mat]
+[2025.12.10-07.45.32:485][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/platform_Mat]
+[2025.12.10-07.45.32:485][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/platform_Mat" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/platform_Mat.uasset" SILENT=true
+[2025.12.10-07.45.32:486][758]LogSavePackage: Moving output files for package: /Game/Textures/platform_Mat
+[2025.12.10-07.45.32:486][758]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/platform_Mat2F7C85C04CD80C89961699B9DA035275.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Textures/platform_Mat.uasset'
+[2025.12.10-07.45.32:498][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.381 ms (total: 2.31 sec)
+[2025.12.10-07.45.32:538][758]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-07.45.32:538][758]LogContentValidation: Enabled validators:
+[2025.12.10-07.45.32:538][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.45.32:538][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.45.32:538][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.45.32:538][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.45.32:538][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.45.32:538][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.45.32:538][758]AssetCheck: /Game/Textures/platform_Mat Validating asset
+[2025.12.10-07.45.32:562][758]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.45.46:526][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4292.206055
+[2025.12.10-07.45.46:611][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-07.45.46:611][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4292.281250, Update Interval: 314.015320
+[2025.12.10-07.45.48:388][141]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-07.45.48:397][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-07.45.48:436][141]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-07.45.48:451][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014924s)
+[2025.12.10-07.45.48:451][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.014965s)
+[2025.12.10-07.45.48:472][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.10-07.45.48:476][141]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-07.45.48:478][141]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2025.12.10-07.45.48:479][141]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.12.10-07.45.48:479][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-07.45.48:479][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-07.45.48:479][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-07.45.48:479][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-07.45.48:479][141]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-07.45.48:479][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-07.45.48:479][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-07.45.48:479][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-07.45.48:479][141]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-07.45.48:479][141]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-07.45.48:479][141]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-07.45.48:481][141]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-07.45.48:548][141]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-07.45.48:548][141]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-07.45.48:548][141]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-07.45.48:548][141]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-07.45.48:549][141]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.12.10-07.45.48:549][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.12.10-07.45.48:553][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.12.10-07.45.48:553][141]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.12.10-07.45.48:553][141]LogInit: FAudioDevice initialized with ID 34.
+[2025.12.10-07.45.48:553][141]LogAudio: Display: Audio Device (ID: 34) registered with world 'FirstPersonMap'.
+[2025.12.10-07.45.48:553][141]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.12.10-07.45.48:556][141]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-07.45.48:562][141]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.10-01.45.48
+[2025.12.10-07.45.48:562][141]LogWorld: Bringing up level for play took: 0.005541
+[2025.12.10-07.45.48:564][141]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.12.10-07.45.48:571][141]PIE: Server logged in
+[2025.12.10-07.45.48:573][141]PIE: Play in editor total start time 0.176 seconds.
+[2025.12.10-07.45.48:594][142]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-07.45.50:647][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-07.45.50:647][307]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-07.45.50:647][307]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-07.45.50:647][307]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-07.45.50:649][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-07.45.50:651][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-07.45.50:654][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-07.45.50:675][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-07.45.50:676][307]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.12.10-07.45.50:676][307]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2025.12.10-07.45.50:679][307]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2025.12.10-07.45.50:688][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.10-07.45.50:780][308]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.12.10-07.46.03:584][455]Cmd: TRANSACTION UNDO
+[2025.12.10-07.46.03:584][455]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.46.37:457][195]Cmd: TRANSACTION UNDO
+[2025.12.10-07.46.37:457][195]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.47.01:049][145]Cmd: DELETE
+[2025.12.10-07.47.01:049][145]Cmd: ACTOR DELETE
+[2025.12.10-07.47.01:052][145]LogEditorActor: Deleted Actor: BP_Door_C
+[2025.12.10-07.47.01:071][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.10-07.47.01:074][145]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.12.10-07.47.35:226][798]Cmd: TRANSACTION UNDO
+[2025.12.10-07.47.35:226][798]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.51.53:130][279]Cmd: TRANSACTION UNDO
+[2025.12.10-07.51.53:130][279]LogEditorTransaction: Undo Place Objects
+[2025.12.10-07.51.57:545][726]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4663.208984
+[2025.12.10-07.51.57:613][734]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-07.51.57:613][735]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4663.267090, Update Interval: 323.861206
+[2025.12.10-07.53.33:645][980]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.12.10-07.53.33:715][981]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.12.10-07.53.33:747][982]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.12.10-07.53.33:782][983]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.12.10-07.54.56:727][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.10-07.54.56:732][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20_Auto4
+[2025.12.10-07.54.56:732][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/QZX5AESKLO855EVPT5JU20_Auto4892A0F4641F48CBEEBC414831E96C2B6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20_Auto4.uasset'
+[2025.12.10-07.54.56:738][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2_Auto4
+[2025.12.10-07.54.56:738][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/R4MRTH8FEAO7ML1BCJFIZ2_Auto4DDEFAE3C499728276645F78CC719D7F9.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2_Auto4.uasset'
+[2025.12.10-07.54.56:739][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM_Auto4
+[2025.12.10-07.54.56:739][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MG6FOV6QQX2CAZCGF7O9MM_Auto493DDFDF44FE6ED54787447AC2E96838F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM_Auto4.uasset'
+[2025.12.10-07.54.56:741][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2_Auto4
+[2025.12.10-07.54.56:741][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XIHYQ8ZTVL6F9GCUZX1AQ2_Auto4D2EB4279446072237D27279C2D5FA21C.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2_Auto4.uasset'
+[2025.12.10-07.54.56:742][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1_Auto4
+[2025.12.10-07.54.56:742][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/4IRR0TBO7VGKMMYSZRQTB1_Auto413BCB03641B6659AAF4507A791DCE93F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1_Auto4.uasset'
+[2025.12.10-07.54.56:744][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH_Auto4
+[2025.12.10-07.54.56:744][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XRLOR3HVYVHJA3N9PKGXZH_Auto4E01846064F985EE4A947BE94571DBEBF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH_Auto4.uasset'
+[2025.12.10-07.54.56:745][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV_Auto4
+[2025.12.10-07.54.56:745][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/DXY1ROMU8NVTUPH999VNGV_Auto4E2DB716041249C40CC4BE88F90696EE8.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV_Auto4.uasset'
+[2025.12.10-07.54.56:746][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29_Auto4
+[2025.12.10-07.54.56:746][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/QQN0UFFAA797E1UT4IMD29_Auto43C7099094ACEB914C4256AA39E2A9507.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29_Auto4.uasset'
+[2025.12.10-07.54.56:748][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X_Auto4
+[2025.12.10-07.54.56:748][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1JZHHCOBVQ2F5XRUWSES1X_Auto40C82097D40BC0566C5E74A92932B6AB7.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X_Auto4.uasset'
+[2025.12.10-07.54.56:749][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0_Auto4
+[2025.12.10-07.54.56:749][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/7EHFAZ5HVWXAWQ04QO5TH0_Auto4A3976F034730513A366720B7474B2932.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0_Auto4.uasset'
+[2025.12.10-07.54.56:751][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ_Auto4
+[2025.12.10-07.54.56:751][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/FI3CQDKJY4J00D2B21FYQZ_Auto47517418540106E9891190B841AECE523.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ_Auto4.uasset'
+[2025.12.10-07.54.56:754][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI_Auto4
+[2025.12.10-07.54.56:754][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6EW8RE9VA2GGHRWK614FCI_Auto4CDB3880B4681D49BFDE382B3985A1745.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI_Auto4.uasset'
+[2025.12.10-07.54.56:756][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1_Auto4
+[2025.12.10-07.54.56:756][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1GID8P6B00XRWKYCXU7HT1_Auto48FA91B974FEA1DBD9478E4AD86BFC772.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1_Auto4.uasset'
+[2025.12.10-07.54.56:758][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE_Auto4
+[2025.12.10-07.54.56:758][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/RCXALNT3NG94XMV0V6D4XE_Auto4886779A649F868BFAA6654981158A819.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE_Auto4.uasset'
+[2025.12.10-07.54.56:760][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9_Auto4
+[2025.12.10-07.54.56:760][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6HT16P8P5RAXNJG3EVYWE9_Auto4956E6A8D4AF889E308CBE2B203240E93.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9_Auto4.uasset'
+[2025.12.10-07.54.56:762][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V_Auto4
+[2025.12.10-07.54.56:762][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/53TOYTOLDEUBMS5SLUFP3V_Auto47DDFB3D043AECD74C8D62ABE71D23C0A.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V_Auto4.uasset'
+[2025.12.10-07.54.56:764][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9_Auto4
+[2025.12.10-07.54.56:764][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/IY5R6I5N0YWU9LYWKXFXH9_Auto4D9BA3B6A40414CC3C311C3866A0F4F6E.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9_Auto4.uasset'
+[2025.12.10-07.54.56:765][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32_Auto4
+[2025.12.10-07.54.56:765][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/9MHHMH0XHVZ04YDZ7NPC32_Auto4AAC7B9C94479AE38C03CCABBF4101466.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32_Auto4.uasset'
+[2025.12.10-07.54.56:767][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL_Auto4
+[2025.12.10-07.54.56:767][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/TOKV0KMMZ7RIQ78R0UEDQL_Auto427044A124E03BACEEB658295C172A5FD.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL_Auto4.uasset'
+[2025.12.10-07.54.56:768][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9_Auto4
+[2025.12.10-07.54.56:768][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/FVTPO8KZ0WPMCSQLVJE6O9_Auto459D1A1064F0477FA6E4960B3D98E1AA6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9_Auto4.uasset'
+[2025.12.10-07.54.56:770][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA_Auto4
+[2025.12.10-07.54.56:770][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/U0XT0R08XQA6C15NK8ILFA_Auto4AE442732457FBAAA893CBBA6117F73A7.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA_Auto4.uasset'
+[2025.12.10-07.54.56:771][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4_Auto4
+[2025.12.10-07.54.56:771][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Z7CLKO8GGJ7RXH5PUAF4T4_Auto45D78100442FD260C90431C8E19F51ECF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4_Auto4.uasset'
+[2025.12.10-07.54.56:773][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV_Auto4
+[2025.12.10-07.54.56:773][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6JKB4DNGJP09QUHY23FHRV_Auto4130663264B71A027CBDF2D997440D70F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV_Auto4.uasset'
+[2025.12.10-07.54.56:774][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI_Auto4
+[2025.12.10-07.54.56:774][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/654T6CAPVSXAN1LXEX71EI_Auto44CFE23FB41258CB9F743059412A90964.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI_Auto4.uasset'
+[2025.12.10-07.54.56:775][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635_Auto4
+[2025.12.10-07.54.56:775][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/G3O7YJR3QU51OHQGRYB635_Auto4A0897F5B495557FA043BC5A5F4A23568.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635_Auto4.uasset'
+[2025.12.10-07.54.56:776][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.070
+[2025.12.10-07.54.56:776][493]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2025.12.10-07.54.56:776][493]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B] ([1] browsable assets)...
+[2025.12.10-07.54.56:776][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B]
+[2025.12.10-07.54.56:786][493]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B_Auto4
+[2025.12.10-07.54.56:786][493]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/CubeGridToolOutput_D734203B_Auto3CE2A28547DAE364739ED99032AB0638.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B_Auto4.uasset'
+[2025.12.10-07.54.56:787][493]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.12.10-07.56.53:738][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.56.53:847][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.10-07.56.53:870][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.12.10-07.56.53:889][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.10-07.56.53:894][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20
+[2025.12.10-07.56.53:894][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/QZX5AESKLO855EVPT5JU20174DFE3A458705A91F7DB39A23497109.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset'
+[2025.12.10-07.56.53:898][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2
+[2025.12.10-07.56.53:898][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/R4MRTH8FEAO7ML1BCJFIZ200FD914647B4CD76B3C85B8462C2DEBC.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset'
+[2025.12.10-07.56.53:900][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM
+[2025.12.10-07.56.53:900][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MG6FOV6QQX2CAZCGF7O9MM2B72AE444FFAEFA35781869C78E1222A.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset'
+[2025.12.10-07.56.53:902][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2
+[2025.12.10-07.56.53:902][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XIHYQ8ZTVL6F9GCUZX1AQ22674BDAB46C157271594D49B7EBA6F65.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset'
+[2025.12.10-07.56.53:904][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1
+[2025.12.10-07.56.53:904][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/4IRR0TBO7VGKMMYSZRQTB1570520E54FA58F5AFB19A68BD765D7E6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.uasset'
+[2025.12.10-07.56.53:906][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH
+[2025.12.10-07.56.53:906][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XRLOR3HVYVHJA3N9PKGXZHDA8BD6BD48E995A2138F13AC32B738C2.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset'
+[2025.12.10-07.56.53:908][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV
+[2025.12.10-07.56.53:908][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/DXY1ROMU8NVTUPH999VNGV9C3FF79B40C526C4F842BC87AC95F11F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset'
+[2025.12.10-07.56.53:910][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29
+[2025.12.10-07.56.53:911][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/QQN0UFFAA797E1UT4IMD2916C5CCB044868A8CAC25F7AF70B4E1DB.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset'
+[2025.12.10-07.56.53:914][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X
+[2025.12.10-07.56.53:914][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1JZHHCOBVQ2F5XRUWSES1X10A1F3DD4FEEB22C95990D8E86725A7C.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset'
+[2025.12.10-07.56.53:916][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0
+[2025.12.10-07.56.53:917][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/7EHFAZ5HVWXAWQ04QO5TH07E7784ED4645E57A4C40848797E42A22.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset'
+[2025.12.10-07.56.53:919][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ
+[2025.12.10-07.56.53:919][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/FI3CQDKJY4J00D2B21FYQZ1D1F88024B823C5478B33BB740DA8E7F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ.uasset'
+[2025.12.10-07.56.53:920][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI
+[2025.12.10-07.56.53:921][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6EW8RE9VA2GGHRWK614FCIF64037AE4AE8B6F6CD27F181FB02D5A6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.uasset'
+[2025.12.10-07.56.53:923][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1
+[2025.12.10-07.56.53:923][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1GID8P6B00XRWKYCXU7HT15E6437E4426C08F83CF1ABBDA3C8CB1F.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1.uasset'
+[2025.12.10-07.56.53:925][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE
+[2025.12.10-07.56.53:926][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/RCXALNT3NG94XMV0V6D4XE225A5B78451839276C5BC1B48A50D9CE.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset'
+[2025.12.10-07.56.53:928][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9
+[2025.12.10-07.56.53:929][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6HT16P8P5RAXNJG3EVYWE9D45E31D448EF878FEABF5CAA4D3C7C5E.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.uasset'
+[2025.12.10-07.56.53:931][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V
+[2025.12.10-07.56.53:931][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/53TOYTOLDEUBMS5SLUFP3VA58225F5442FC29EDE5C4EA18F147F49.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.uasset'
+[2025.12.10-07.56.53:933][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9
+[2025.12.10-07.56.53:933][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/IY5R6I5N0YWU9LYWKXFXH992865C234813DB1BD433B0A42CBEEB04.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset'
+[2025.12.10-07.56.53:935][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32
+[2025.12.10-07.56.53:935][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/9MHHMH0XHVZ04YDZ7NPC325C254D9745E9B6AE1E14ADAAD2E9FDBA.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.uasset'
+[2025.12.10-07.56.53:937][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL
+[2025.12.10-07.56.53:938][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/TOKV0KMMZ7RIQ78R0UEDQLCB211DE54F462F0C257DC0B54A90E4AD.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.uasset'
+[2025.12.10-07.56.53:940][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9
+[2025.12.10-07.56.53:940][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/FVTPO8KZ0WPMCSQLVJE6O95303519646769FCDEA2482BE5AAE2D30.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset'
+[2025.12.10-07.56.53:944][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA
+[2025.12.10-07.56.53:945][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/U0XT0R08XQA6C15NK8ILFA939DA3C44D350AE8C2DE54891AACD3FD.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset'
+[2025.12.10-07.56.53:947][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4
+[2025.12.10-07.56.53:947][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Z7CLKO8GGJ7RXH5PUAF4T43E08AEF64B0EA96151A3F7B4A90F4C77.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4.uasset'
+[2025.12.10-07.56.53:949][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV
+[2025.12.10-07.56.53:949][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6JKB4DNGJP09QUHY23FHRV3C6307AA44DBE63876EB4BA3991E68F0.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.uasset'
+[2025.12.10-07.56.53:951][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI
+[2025.12.10-07.56.53:951][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/654T6CAPVSXAN1LXEX71EI12C9AE654272747448210BB03B6AEDC9.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset'
+[2025.12.10-07.56.53:953][847]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635
+[2025.12.10-07.56.53:953][847]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/G3O7YJR3QU51OHQGRYB635A7641765479203C36148A7A9215CCC30.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset'
+[2025.12.10-07.56.53:964][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.897 ms (total: 2.54 sec)
+[2025.12.10-07.56.54:007][847]LogContentValidation: Display: Starting to validate 25 assets
+[2025.12.10-07.56.54:007][847]LogContentValidation: Enabled validators:
+[2025.12.10-07.56.54:007][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-07.56.54:007][847]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-07.56.54:007][847]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-07.56.54:007][847]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-07.56.54:007][847]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-07.56.54:007][847]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-07.56.54:007][847]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-07.56.54:035][847]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-07.56.54:938][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-07.56.54:988][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.10-07.56.55:006][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.10-07.56.55:023][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.12.10-07.56.55:032][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.591 ms (total: 2.63 sec)
