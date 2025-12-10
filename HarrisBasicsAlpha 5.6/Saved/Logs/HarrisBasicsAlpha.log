@@ -1364,3 +1364,595 @@ FPackageName: Skipped package /Game/FirstPerson/Blueprints/Breathing_Niagara_Sys
 [2025.12.10-09.19.19:234][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.12.10-09.19.19:238][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2025.12.10-09.19.19:312][905]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.12.10-09.20.01:945][300]Cmd: DELETE
+[2025.12.10-09.20.01:945][300]Cmd: ACTOR DELETE
+[2025.12.10-09.20.01:948][300]LogEditorActor: Deleted Actor: Keycard_01_C
+[2025.12.10-09.20.01:984][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.12.10-09.20.01:987][300]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.12.10-09.20.03:029][387]Cmd: DELETE
+[2025.12.10-09.20.03:029][387]Cmd: ACTOR DELETE
+[2025.12.10-09.20.03:031][387]LogEditorActor: Deleted Actor: KeycardDoor_01_C
+[2025.12.10-09.20.03:054][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.10-09.20.03:056][387]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.12.10-09.20.07:342][753]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-09.20.07:357][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-09.20.07:357][753]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-09.20.07:380][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023157s)
+[2025.12.10-09.20.07:380][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.023215s)
+[2025.12.10-09.20.07:402][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.12.10-09.20.07:403][753]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-09.20.07:406][753]LogPlayLevel: PIE: World Init took: (0.003236s)
+[2025.12.10-09.20.07:408][753]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.12.10-09.20.07:408][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-09.20.07:408][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-09.20.07:408][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-09.20.07:408][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-09.20.07:408][753]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-09.20.07:408][753]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-09.20.07:408][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-09.20.07:408][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-09.20.07:408][753]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-09.20.07:408][753]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-09.20.07:408][753]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-09.20.07:411][753]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-09.20.07:483][753]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-09.20.07:483][753]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-09.20.07:483][753]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-09.20.07:483][753]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-09.20.07:486][753]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.12.10-09.20.07:486][753]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.12.10-09.20.07:488][753]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.12.10-09.20.07:488][753]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.12.10-09.20.07:488][753]LogInit: FAudioDevice initialized with ID 5.
+[2025.12.10-09.20.07:488][753]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2025.12.10-09.20.07:488][753]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.10-09.20.07:494][753]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-09.20.07:503][753]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.10-03.20.07
+[2025.12.10-09.20.07:504][753]LogWorld: Bringing up level for play took: 0.009815
+[2025.12.10-09.20.07:507][753]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.12.10-09.20.07:513][753]PIE: Server logged in
+[2025.12.10-09.20.07:514][753]PIE: Play in editor total start time 0.158 seconds.
+[2025.12.10-09.20.07:621][755]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-09.20.15:273][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.20.15:273][389]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-09.20.15:273][389]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.20.15:273][389]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.20.15:275][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.20.15:276][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-09.20.15:279][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.20.15:299][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.20.15:300][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.10-09.20.15:300][389]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.12.10-09.20.15:302][389]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.12.10-09.20.15:309][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.12.10-09.20.15:339][390]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.12.10-09.20.22:880][  6]Cmd: EDIT COPY
+[2025.12.10-09.20.24:734][136]Cmd: TRANSACTION UNDO
+[2025.12.10-09.20.24:734][136]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-09.20.57:130][161]LogStreaming: Display: FlushAsyncLoading(502): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.20.57:395][161]LogStreaming: Display: FlushAsyncLoading(513): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.21.29:984][975]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 337.438477
+[2025.12.10-09.21.30:070][984]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.21.30:070][984]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.512970, Update Interval: 310.563690
+[2025.12.10-09.21.32:259][173]Cmd: TRANSACTION UNDO
+[2025.12.10-09.21.32:259][173]LogEditorTransaction: Undo Rotate Elements
+[2025.12.10-09.21.37:551][565]Cmd: TRANSACTION UNDO
+[2025.12.10-09.21.37:551][565]LogEditorTransaction: Undo Move Elements
+[2025.12.10-09.21.38:238][601]Cmd: EDIT COPY
+[2025.12.10-09.21.38:632][636]Cmd: EDIT PASTE
+[2025.12.10-09.22.08:246][ 47]Cmd: EDIT COPY
+[2025.12.10-09.22.08:505][ 64]Cmd: EDIT PASTE
+[2025.12.10-09.22.22:330][189]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-09.22.22:340][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-09.22.22:362][189]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-09.22.22:379][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018122s)
+[2025.12.10-09.22.22:379][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.018167s)
+[2025.12.10-09.22.22:420][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.12.10-09.22.22:421][189]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-09.22.22:423][189]LogPlayLevel: PIE: World Init took: (0.001681s)
+[2025.12.10-09.22.22:424][189]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.10-09.22.22:424][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-09.22.22:424][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-09.22.22:424][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-09.22.22:424][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-09.22.22:424][189]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-09.22.22:424][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-09.22.22:424][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-09.22.22:424][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-09.22.22:424][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-09.22.22:424][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-09.22.22:424][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-09.22.22:426][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-09.22.22:504][189]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-09.22.22:504][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-09.22.22:504][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-09.22.22:504][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-09.22.22:505][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.10-09.22.22:505][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.10-09.22.22:508][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.10-09.22.22:508][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.10-09.22.22:508][189]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.10-09.22.22:508][189]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2025.12.10-09.22.22:508][189]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.10-09.22.22:511][189]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-09.22.22:518][189]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.10-03.22.22
+[2025.12.10-09.22.22:518][189]LogWorld: Bringing up level for play took: 0.007123
+[2025.12.10-09.22.22:521][189]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.12.10-09.22.22:526][189]PIE: Server logged in
+[2025.12.10-09.22.22:527][189]PIE: Play in editor total start time 0.187 seconds.
+[2025.12.10-09.22.22:548][190]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-09.22.29:892][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.22.29:892][792]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-09.22.29:892][792]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.22.29:892][792]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.22.29:893][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.22.29:896][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-09.22.29:898][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.22.29:914][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.22.29:915][792]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.10-09.22.29:915][792]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.12.10-09.22.29:917][792]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.12.10-09.22.29:921][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.22.29:924][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.12.10-09.22.29:979][793]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.12.10-09.22.47:643][178]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-09.22.47:657][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-09.22.47:682][178]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-09.22.47:701][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019296s)
+[2025.12.10-09.22.47:701][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.019358s)
+[2025.12.10-09.22.47:726][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.12.10-09.22.47:731][178]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-09.22.47:733][178]LogPlayLevel: PIE: World Init took: (0.002102s)
+[2025.12.10-09.22.47:734][178]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.12.10-09.22.47:734][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-09.22.47:734][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-09.22.47:734][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-09.22.47:734][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-09.22.47:734][178]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-09.22.47:734][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-09.22.47:734][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-09.22.47:734][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-09.22.47:734][178]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-09.22.47:734][178]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-09.22.47:734][178]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-09.22.47:737][178]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-09.22.47:803][178]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-09.22.47:804][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-09.22.47:804][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-09.22.47:804][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-09.22.47:805][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.12.10-09.22.47:805][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.12.10-09.22.47:808][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.12.10-09.22.47:808][178]LogInit: FAudioDevice initialized with ID 7.
+[2025.12.10-09.22.47:808][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.12.10-09.22.47:808][178]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2025.12.10-09.22.47:808][178]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.10-09.22.47:811][178]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-09.22.47:820][178]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.10-03.22.47
+[2025.12.10-09.22.47:820][178]LogWorld: Bringing up level for play took: 0.008854
+[2025.12.10-09.22.47:823][178]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.12.10-09.22.47:829][178]PIE: Server logged in
+[2025.12.10-09.22.47:829][178]PIE: Play in editor total start time 0.173 seconds.
+[2025.12.10-09.22.47:858][179]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-09.23.00:142][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.23.00:142][205]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-09.23.00:142][205]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.23.00:143][205]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.23.00:144][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.23.00:146][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-09.23.00:148][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.23.00:166][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.23.00:167][205]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.10-09.23.00:167][205]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.12.10-09.23.00:169][205]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.12.10-09.23.00:178][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.10-09.23.00:235][206]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.12.10-09.23.03:642][459]LogStatusBar: Looking status bar with open content browser drawer...
+[2025.12.10-09.23.03:642][459]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2025.12.10-09.23.06:652][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.10-09.23.06:713][720]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.10-09.23.06:749][721]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.10-09.23.06:781][722]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.10-09.23.18:095][679]Cmd: EDIT COPY
+[2025.12.10-09.23.18:967][740]Cmd: EDIT PASTE
+[2025.12.10-09.23.27:924][400]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-09.23.27:934][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-09.23.27:961][400]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-09.23.27:979][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018436s)
+[2025.12.10-09.23.27:979][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.018479s)
+[2025.12.10-09.23.28:007][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.12.10-09.23.28:008][400]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-09.23.28:009][400]LogPlayLevel: PIE: World Init took: (0.001711s)
+[2025.12.10-09.23.28:010][400]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.10-09.23.28:010][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-09.23.28:010][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-09.23.28:010][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-09.23.28:010][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-09.23.28:010][400]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-09.23.28:010][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-09.23.28:010][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-09.23.28:010][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-09.23.28:010][400]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-09.23.28:010][400]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-09.23.28:010][400]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-09.23.28:012][400]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-09.23.28:094][400]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-09.23.28:094][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-09.23.28:094][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-09.23.28:094][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-09.23.28:096][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.10-09.23.28:096][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.10-09.23.28:099][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.10-09.23.28:099][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.10-09.23.28:099][400]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.10-09.23.28:099][400]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2025.12.10-09.23.28:099][400]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.10-09.23.28:101][400]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-09.23.28:109][400]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.10-03.23.28
+[2025.12.10-09.23.28:109][400]LogWorld: Bringing up level for play took: 0.007855
+[2025.12.10-09.23.28:113][400]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.12.10-09.23.28:119][400]PIE: Server logged in
+[2025.12.10-09.23.28:120][400]PIE: Play in editor total start time 0.185 seconds.
+[2025.12.10-09.23.28:146][401]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-09.23.42:372][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.23.42:372][636]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-09.23.42:372][636]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-09.23.42:372][636]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.23.42:374][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.23.42:375][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-09.23.42:378][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.23.42:397][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-09.23.42:397][636]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.10-09.23.42:397][636]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.12.10-09.23.42:399][636]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.12.10-09.23.42:404][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-09.23.42:406][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.12.10-09.23.42:485][637]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.12.10-09.23.47:992][ 89]Cmd: DELETE
+[2025.12.10-09.23.47:992][ 89]Cmd: ACTOR DELETE
+[2025.12.10-09.23.47:994][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-09.23.48:016][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.12.10-09.23.48:017][ 89]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.12.10-09.23.54:972][700]Cmd: EDIT COPY
+[2025.12.10-09.23.55:484][733]Cmd: EDIT PASTE
+[2025.12.10-09.24.48:461][704]Cmd: EDIT COPY
+[2025.12.10-09.24.48:730][728]Cmd: EDIT PASTE
+[2025.12.10-09.25.31:242][536]LogFab: Display: Logging in using persist
+[2025.12.10-09.25.31:244][536]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.12.10-09.25.32:748][536]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from D:/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2025.12.10-09.25.32:752][536]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.12.10-09.25.32:860][536]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.12.10-09.25.32:860][536]LogFab: Display: Logging in using exchange code
+[2025.12.10-09.25.32:860][536]LogFab: Display: Reading exchange code from commandline
+[2025.12.10-09.25.32:860][536]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.12.10-09.25.32:886][537]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.12.10-09.25.34:750][688]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2025.12.10-09.25.34:751][688]LogFab: Error: User auth token is invalid - unable to get auth token
+[2025.12.10-09.25.57:501][653]LogSlate: Window 'Fab' being destroyed
+[2025.12.10-09.25.57:534][653]LogSlate: Window 'Fab' being destroyed
+[2025.12.10-09.25.59:011][779]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.12.10-09.25.59:011][779]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/search?q=chain+link&sort_by=price.
+[2025.12.10-09.26.44:611][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 652.059814
+[2025.12.10-09.26.45:611][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.26.45:612][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 652.726807, Update Interval: 338.065125
+[2025.12.10-09.28.21:324][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.12.10-09.28.21:339][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/J5QPEHEEG576KW1VEQB3XE_Auto1
+[2025.12.10-09.28.21:340][526]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/J5QPEHEEG576KW1VEQB3XE_Auto1F848EA3D48B932AF80C94A9EB80053CB.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/J5QPEHEEG576KW1VEQB3XE_Auto1.uasset'
+[2025.12.10-09.28.21:342][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RS/BKBWK54LAM3QS8L5QMNG94_Auto1
+[2025.12.10-09.28.21:342][526]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BKBWK54LAM3QS8L5QMNG94_Auto1B9850E8E487CA5542D2CA19C8C00FFC4.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RS/BKBWK54LAM3QS8L5QMNG94_Auto1.uasset'
+[2025.12.10-09.28.21:343][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PE/ELI4S1UV7T0KJCHAVDMU9F_Auto1
+[2025.12.10-09.28.21:343][526]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ELI4S1UV7T0KJCHAVDMU9F_Auto1984D640148FABDCE329B3C95D78F7BCA.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PE/ELI4S1UV7T0KJCHAVDMU9F_Auto1.uasset'
+[2025.12.10-09.28.21:345][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9B/Q5A46HNA2L2C4S5JE5281V_Auto1
+[2025.12.10-09.28.21:345][526]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Q5A46HNA2L2C4S5JE5281V_Auto11B1732BC420BC08E6A024BB29FBDBCB8.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9B/Q5A46HNA2L2C4S5JE5281V_Auto1.uasset'
+[2025.12.10-09.28.21:346][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CC/DMCFGT12XUV25TZZ5TN99U_Auto1
+[2025.12.10-09.28.21:346][526]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/DMCFGT12XUV25TZZ5TN99U_Auto1387B646C4113E6472A61E7BBCF93CAE8.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CC/DMCFGT12XUV25TZZ5TN99U_Auto1.uasset'
+[2025.12.10-09.28.21:347][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.052
+[2025.12.10-09.28.21:347][526]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2025.12.10-09.32.30:047][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 997.496216
+[2025.12.10-09.32.30:107][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.32.30:107][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 997.546021, Update Interval: 356.574005
+[2025.12.10-09.38.38:288][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1365.751099
+[2025.12.10-09.38.38:358][697]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.38.38:358][697]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1365.811401, Update Interval: 338.242737
+[2025.12.10-09.44.32:636][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1720.093384
+[2025.12.10-09.44.32:716][594]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.44.32:716][595]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1720.162231, Update Interval: 310.235901
+[2025.12.10-09.50.29:593][914]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2077.054199
+[2025.12.10-09.50.30:593][917]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.50.30:593][917]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2077.721680, Update Interval: 341.419708
+[2025.12.10-09.56.56:996][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2464.459717
+[2025.12.10-09.56.57:997][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-09.56.57:997][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2465.126221, Update Interval: 326.210510
+[2025.12.10-09.58.34:436][739]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_UserInterface.BP_UserInterface
+[2025.12.10-09.58.34:437][739]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.12.10-09.58.34:444][739]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.10-09.58.34:453][739]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.12.10-09.58.34:594][739]LogStreaming: Display: FlushAsyncLoading(514): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-09.58.36:224][739]LogSlate: Took 0.000835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.10-09.58.36:239][739]LogSlate: Took 0.001000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.12.10-09.58.37:771][852]LogSlate: Window 'BP_UserInterface' being destroyed
+[2025.12.10-09.58.37:781][852]LogSlate: Window 'BP_UserInterface' being destroyed
+[2025.12.10-09.58.37:791][852]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.58.37:791][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.58.37:801][852]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-09.58.37:801][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-09.58.37:874][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.12.10-09.58.57:623][200]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-09.59.11:227][759]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.12.10-09.59.11:239][759]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.12.10-09.59.11:245][759]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.12.10-09.59.11:259][760]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.12.10-09.59.26:099][386]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_WinScreen
+[2025.12.10-09.59.26:109][386]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.12.10-09.59.29:506][678]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_WinScreen.WBP_WinScreen
+[2025.12.10-09.59.29:507][678]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.12.10-09.59.29:512][678]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.12.10-10.00.00:340][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.12.10-10.00.46:659][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.10-10.00.46:660][ 37]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.029
+[2025.12.10-10.00.46:660][ 37]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_WinScreen] ([2] browsable assets)...
+[2025.12.10-10.00.46:666][ 37]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_WinScreen.WBP_WinScreen]
+[2025.12.10-10.00.46:666][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_WinScreen]
+[2025.12.10-10.00.46:666][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_WinScreen" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/UI/WBP_WinScreen_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-10.00.46:675][ 37]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_WinScreen_Auto2
+[2025.12.10-10.00.46:675][ 37]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/WBP_WinScreen_Auto200D82C4B41E7E5B06B16B49688AE406D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/UI/WBP_WinScreen_Auto2.uasset'
+[2025.12.10-10.00.46:675][ 37]LogFileHelpers: Auto-saving content packages took 0.015
+[2025.12.10-10.02.37:986][ 58]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.12.10-10.03.13:560][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2841.027100
+[2025.12.10-10.03.13:655][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-10.03.13:655][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2841.106689, Update Interval: 300.917389
+[2025.12.10-10.03.47:951][571]LogStreaming: Display: FlushAsyncLoading(706): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-10.04.17:536][547]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-10.04.49:899][811]Cmd: TRANSACTION UNDO
+[2025.12.10-10.04.49:899][811]LogEditorTransaction: Undo Add Widget
+[2025.12.10-10.05.37:189][843]LogSlate: Took 0.009089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.12.10-10.09.00:539][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3188.031982
+[2025.12.10-10.09.00:653][948]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-10.09.00:653][948]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3188.127197, Update Interval: 306.289856
+[2025.12.10-10.11.08:181][872]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-10.13.13:626][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:628][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:629][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:629][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:631][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:632][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:633][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:634][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:635][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:636][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:637][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:638][314]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:712][315]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:720][315]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:798][316]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:803][316]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:877][317]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:961][318]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.13:965][318]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:045][319]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:139][321]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:216][322]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:293][323]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:295][323]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:369][324]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:377][324]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:455][325]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:459][325]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:533][326]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:621][327]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:622][327]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:626][327]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:706][328]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:805][330]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.14:877][331]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:166][389]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:167][389]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:243][390]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:245][390]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:254][390]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:335][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:339][391]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:409][392]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:503][393]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:506][393]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:579][394]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:590][394]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:670][395]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:673][395]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:749][396]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:758][396]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:840][397]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:843][397]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.16:920][398]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.17:015][399]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.17:096][400]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.17:177][401]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.13.17:566][408]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.12.10-10.13.18:194][421]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.12.10-10.13.43:661][918]LogStreaming: Display: FlushAsyncLoading(707): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-10.13.55:368][581]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-10.13.59:915][819]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.10-10.14.21:791][245]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.14.21:795][245]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.12.10-10.14.51:610][185]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3539.101074
+[2025.12.10-10.14.51:693][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-10.14.51:693][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3539.171631, Update Interval: 309.600525
+[2025.12.10-10.17.28:110][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.10-10.17.28:114][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/J5QPEHEEG576KW1VEQB3XE_Auto3
+[2025.12.10-10.17.28:115][674]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/J5QPEHEEG576KW1VEQB3XE_Auto3CC2703B44A0AC6A096FF4896DADC959C.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/J5QPEHEEG576KW1VEQB3XE_Auto3.uasset'
+[2025.12.10-10.17.28:116][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RS/BKBWK54LAM3QS8L5QMNG94_Auto3
+[2025.12.10-10.17.28:116][674]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BKBWK54LAM3QS8L5QMNG94_Auto335AB20984376292440C7CE801A961C9B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RS/BKBWK54LAM3QS8L5QMNG94_Auto3.uasset'
+[2025.12.10-10.17.28:117][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PE/ELI4S1UV7T0KJCHAVDMU9F_Auto3
+[2025.12.10-10.17.28:117][674]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ELI4S1UV7T0KJCHAVDMU9F_Auto3345AF2B642ACBA9F66C8C298D758587A.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PE/ELI4S1UV7T0KJCHAVDMU9F_Auto3.uasset'
+[2025.12.10-10.17.28:119][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9B/Q5A46HNA2L2C4S5JE5281V_Auto3
+[2025.12.10-10.17.28:119][674]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Q5A46HNA2L2C4S5JE5281V_Auto3072E8ACF45383E838CEC998A1F91634B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9B/Q5A46HNA2L2C4S5JE5281V_Auto3.uasset'
+[2025.12.10-10.17.28:119][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CC/DMCFGT12XUV25TZZ5TN99U_Auto3
+[2025.12.10-10.17.28:119][674]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/DMCFGT12XUV25TZZ5TN99U_Auto3E966E35249BB8627E121C1B4D1139D1E.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CC/DMCFGT12XUV25TZZ5TN99U_Auto3.uasset'
+[2025.12.10-10.17.28:120][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.056
+[2025.12.10-10.17.28:120][674]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2025.12.10-10.17.28:120][674]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_WinScreen] ([2] browsable assets)...
+[2025.12.10-10.17.28:125][674]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_WinScreen.WBP_WinScreen]
+[2025.12.10-10.17.28:125][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_WinScreen]
+[2025.12.10-10.17.28:125][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_WinScreen" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/UI/WBP_WinScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-10.17.28:131][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_WinScreen_Auto3
+[2025.12.10-10.17.28:131][674]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/WBP_WinScreen_Auto38C09D5C849A6ED5F1D4C51B82A4F0D53.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/UI/WBP_WinScreen_Auto3.uasset'
+[2025.12.10-10.17.28:131][674]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.12.10-10.17.39:323][708]LogDerivedDataCache: C:/Users/J C/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-10.18.40:840][226]LogEditorTransaction: Undo Delete current selection
+[2025.12.10-10.20.38:404][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3885.888184
+[2025.12.10-10.20.39:404][108]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-10.20.39:404][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3886.555176, Update Interval: 336.503174
+[2025.12.10-10.24.17:813][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.12.10-10.24.31:938][536]LogEditorTransaction: Undo Create Pin Link
+[2025.12.10-10.26.52:915][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4260.409668
+[2025.12.10-10.26.53:916][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-10.26.53:916][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4261.076172, Update Interval: 334.320496
+[2025.12.10-10.27.28:648][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.12.10-10.27.28:651][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/J5QPEHEEG576KW1VEQB3XE_Auto4
+[2025.12.10-10.27.28:652][311]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/J5QPEHEEG576KW1VEQB3XE_Auto4A137AB5D4CF8964DB2247FA30A886547.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/J5QPEHEEG576KW1VEQB3XE_Auto4.uasset'
+[2025.12.10-10.27.28:653][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RS/BKBWK54LAM3QS8L5QMNG94_Auto4
+[2025.12.10-10.27.28:653][311]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BKBWK54LAM3QS8L5QMNG94_Auto4DEB2CB36488223E81DBD1FA66C38FB31.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RS/BKBWK54LAM3QS8L5QMNG94_Auto4.uasset'
+[2025.12.10-10.27.28:654][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PE/ELI4S1UV7T0KJCHAVDMU9F_Auto4
+[2025.12.10-10.27.28:654][311]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ELI4S1UV7T0KJCHAVDMU9F_Auto424877B35414FC02E695E4FA3FF03719C.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PE/ELI4S1UV7T0KJCHAVDMU9F_Auto4.uasset'
+[2025.12.10-10.27.28:655][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9B/Q5A46HNA2L2C4S5JE5281V_Auto4
+[2025.12.10-10.27.28:655][311]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Q5A46HNA2L2C4S5JE5281V_Auto44E97155045C7EC6B01138D884664B6AE.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9B/Q5A46HNA2L2C4S5JE5281V_Auto4.uasset'
+[2025.12.10-10.27.28:657][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CC/DMCFGT12XUV25TZZ5TN99U_Auto4
+[2025.12.10-10.27.28:657][311]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/DMCFGT12XUV25TZZ5TN99U_Auto4CC7811D54CBAA16D4C1257B42108FC1C.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CC/DMCFGT12XUV25TZZ5TN99U_Auto4.uasset'
+[2025.12.10-10.27.28:657][311]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.044
+[2025.12.10-10.27.28:657][311]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2025.12.10-10.27.28:657][311]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_WinScreen] ([2] browsable assets)...
+[2025.12.10-10.27.28:664][311]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_WinScreen.WBP_WinScreen]
+[2025.12.10-10.27.28:664][311]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_WinScreen]
+[2025.12.10-10.27.28:664][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_WinScreen" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/UI/WBP_WinScreen_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.12.10-10.27.28:671][311]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WBP_WinScreen_Auto4
+[2025.12.10-10.27.28:671][311]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/WBP_WinScreen_Auto437E472AC409CB3531D845A99DE661BAC.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/UI/WBP_WinScreen_Auto4.uasset'
+[2025.12.10-10.27.28:671][311]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.12.10-10.27.31:681][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.12.10-10.27.39:553][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.10-10.27.39:562][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-10.27.39:643][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.12.10-10.27.39:672][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.10-10.27.39:697][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.10-10.27.39:702][977]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/J5QPEHEEG576KW1VEQB3XE
+[2025.12.10-10.27.39:703][977]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/J5QPEHEEG576KW1VEQB3XE2C4C722E4C4AA3142464E9ABB55CF826.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/LL/J5QPEHEEG576KW1VEQB3XE.uasset'
+[2025.12.10-10.27.39:705][977]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RS/BKBWK54LAM3QS8L5QMNG94
+[2025.12.10-10.27.39:705][977]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BKBWK54LAM3QS8L5QMNG94A401C9414E6949D074EA77A24B46012D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/RS/BKBWK54LAM3QS8L5QMNG94.uasset'
+[2025.12.10-10.27.39:706][977]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PE/ELI4S1UV7T0KJCHAVDMU9F
+[2025.12.10-10.27.39:707][977]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/ELI4S1UV7T0KJCHAVDMU9F173781914B765B7C26F2F68E488FA664.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/PE/ELI4S1UV7T0KJCHAVDMU9F.uasset'
+[2025.12.10-10.27.39:709][977]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9B/Q5A46HNA2L2C4S5JE5281V
+[2025.12.10-10.27.39:709][977]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Q5A46HNA2L2C4S5JE5281V63E66DE744DDA6C5986D43A27C7EA1DA.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9B/Q5A46HNA2L2C4S5JE5281V.uasset'
+[2025.12.10-10.27.39:710][977]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CC/DMCFGT12XUV25TZZ5TN99U
+[2025.12.10-10.27.39:711][977]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/DMCFGT12XUV25TZZ5TN99U0BA27B6C4BD541469C798CA752F15931.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CC/DMCFGT12XUV25TZZ5TN99U.uasset'
+[2025.12.10-10.27.39:711][977]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_WinScreen] ([2] browsable assets)...
+[2025.12.10-10.27.39:715][977]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_WinScreen.WBP_WinScreen]
+[2025.12.10-10.27.39:715][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_WinScreen]
+[2025.12.10-10.27.39:715][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_WinScreen" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/UI/WBP_WinScreen.uasset" SILENT=true
+[2025.12.10-10.27.39:721][977]LogSavePackage: Moving output files for package: /Game/UI/WBP_WinScreen
+[2025.12.10-10.27.39:721][977]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/WBP_WinScreen1B3B26AB4621DCE6E01248B70B27B1AA.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/UI/WBP_WinScreen.uasset'
+[2025.12.10-10.27.39:737][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.857 ms
+[2025.12.10-10.27.39:781][977]LogContentValidation: Display: Starting to validate 6 assets
+[2025.12.10-10.27.39:781][977]LogContentValidation: Enabled validators:
+[2025.12.10-10.27.39:782][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-10.27.39:782][977]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-10.27.39:782][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-10.27.39:782][977]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-10.27.39:782][977]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-10.27.39:782][977]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-10.27.39:784][977]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-10.27.39:785][977]AssetCheck: /Game/UI/WBP_WinScreen Validating asset
+[2025.12.10-10.27.39:808][977]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-10.28.54:675][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.12.10-10.29.56:438][ 74]LogSlate: Window 'WBP_WinScreen' being destroyed
+[2025.12.10-10.29.56:490][ 74]LogSlate: Window 'WBP_WinScreen' being destroyed
+[2025.12.10-10.29.56:499][ 74]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-10.29.56:499][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-10.29.56:512][ 74]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-10.29.56:512][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-10.29.56:584][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.12.10-10.30.02:196][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-10.30.02:236][522]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_WinScreen] ([2] browsable assets)...
+[2025.12.10-10.30.02:240][522]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_WinScreen.WBP_WinScreen]
+[2025.12.10-10.30.02:240][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_WinScreen]
+[2025.12.10-10.30.02:240][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_WinScreen" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/UI/WBP_WinScreen.uasset" SILENT=true
+[2025.12.10-10.30.02:250][522]LogSavePackage: Moving output files for package: /Game/UI/WBP_WinScreen
+[2025.12.10-10.30.02:250][522]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/WBP_WinScreen0E39576A4B69593B8420E38BDCFF6D62.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/UI/WBP_WinScreen.uasset'
+[2025.12.10-10.30.02:262][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.884 ms (total: 240.742 ms)
+[2025.12.10-10.30.02:301][522]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-10.30.02:302][522]LogContentValidation: Enabled validators:
+[2025.12.10-10.30.02:302][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-10.30.02:302][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-10.30.02:302][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-10.30.02:302][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-10.30.02:302][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-10.30.02:302][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-10.30.02:303][522]AssetCheck: /Game/UI/WBP_WinScreen Validating asset
+[2025.12.10-10.30.14:336][468]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-10.30.14:349][468]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.10-10.30.14:356][468]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.10-10.30.14:372][469]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.10-10.30.22:196][ 74]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameMode_Combs
+[2025.12.10-10.30.22:207][ 74]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.10-10.30.27:866][577]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameMode_Combs.BP_GameMode_Combs
+[2025.12.10-10.30.27:868][577]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.12.10-10.30.27:976][577]LogStreaming: Display: FlushAsyncLoading(708): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-10.30.36:116][ 74]LogSlate: Took 0.000762 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.12.10-10.30.56:241][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.12.10-10.31.42:020][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.12.10-10.31.44:060][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-10.31.44:098][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode_Combs] ([2] browsable assets)...
+[2025.12.10-10.31.44:098][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode_Combs]
+[2025.12.10-10.31.44:098][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode_Combs" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Blueprints/BP_GameMode_Combs.uasset" SILENT=true
+[2025.12.10-10.31.44:101][567]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode_Combs
+[2025.12.10-10.31.44:101][567]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BP_GameMode_Combs1DB69AB14E0AED27351592BF19BC02DF.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Blueprints/BP_GameMode_Combs.uasset'
+[2025.12.10-10.31.44:116][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.465 ms (total: 297.207 ms)
+[2025.12.10-10.31.44:152][567]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-10.31.44:152][567]LogContentValidation: Enabled validators:
+[2025.12.10-10.31.44:152][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-10.31.44:152][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-10.31.44:152][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-10.31.44:152][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-10.31.44:152][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-10.31.44:152][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-10.31.44:152][567]AssetCheck: /Game/Blueprints/BP_GameMode_Combs Validating asset
+[2025.12.10-10.31.44:184][567]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-10.32.29:323][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-10.32.29:359][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode_Combs] ([2] browsable assets)...
+[2025.12.10-10.32.29:359][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode_Combs]
+[2025.12.10-10.32.29:359][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode_Combs" FILE="../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Blueprints/BP_GameMode_Combs.uasset" SILENT=true
+[2025.12.10-10.32.29:363][971]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameMode_Combs
+[2025.12.10-10.32.29:364][971]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BP_GameMode_CombsA9C0A1D344E5C4BDE3A03B97425829FA.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/Blueprints/BP_GameMode_Combs.uasset'
+[2025.12.10-10.32.29:374][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.248 ms (total: 347.456 ms)
+[2025.12.10-10.32.29:411][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-10.32.29:411][971]LogContentValidation: Enabled validators:
+[2025.12.10-10.32.29:411][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-10.32.29:411][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-10.32.29:411][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-10.32.29:411][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-10.32.29:411][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-10.32.29:411][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-10.32.29:411][971]AssetCheck: /Game/Blueprints/BP_GameMode_Combs Validating asset
+[2025.12.10-10.33.21:534][587]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4649.021484
+[2025.12.10-10.33.21:670][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-10.33.21:670][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4649.143066, Update Interval: 352.241577
+[2025.12.10-10.37.53:280][546]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2025.12.10-10.37.53:283][546]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.055
+[2025.12.10-10.37.53:283][546]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode_Combs] ([2] browsable assets)...
+[2025.12.10-10.37.53:283][546]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode_Combs]
+[2025.12.10-10.37.53:292][546]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_GameMode_Combs_Auto5
+[2025.12.10-10.37.53:292][546]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/BP_GameMode_Combs_Auto5C0746C9F434E73B649122693E4FFCBA0.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/Blueprints/BP_GameMode_Combs_Auto5.uasset'
+[2025.12.10-10.37.53:293][546]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.12.10-10.40.13:120][570]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5060.599121
+[2025.12.10-10.40.14:119][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-10.40.14:119][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5061.264160, Update Interval: 337.213654
+[2025.12.10-10.42.05:957][440]LogBlueprint: Error: [AssetLog] D:\UIUC\415\HarrisBasicsAlpha\HarrisBasicsAlpha 5.6\Content\Blueprints\BP_GameMode_Combs.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2025.12.10-10.42.05:963][440]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-10.42.06:025][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.12.10-10.42.35:749][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.12.10-10.42.49:761][245]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.10-10.43.04:515][  9]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-10.43.04:527][  9]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-10.43.06:948][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-10.43.07:014][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.12.10-10.43.07:040][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.12.10-10.43.07:067][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.10-10.43.07:077][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.522 ms (total: 475.978 ms)
