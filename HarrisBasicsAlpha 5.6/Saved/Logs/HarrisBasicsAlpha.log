@@ -1357,3 +1357,226 @@ FPackageName: Skipped package /Game/FirstPerson/Blueprints/Breathing_Niagara_Sys
 [2025.12.10-03.37.38:577][199]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.10-03.37.38:577][199]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-03.37.38:577][199]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-03.38.37:899][310]Cmd: TRANSACTION UNDO
+[2025.12.10-03.38.37:899][310]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-03.38.42:328][672]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.38.44:885][909]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.38.48:083][218]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.39.00:005][349]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.00:006][349]LogEditorTransaction: Undo Corner Selection
+[2025.12.10-03.39.23:735][558]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1681.741211
+[2025.12.10-03.39.23:828][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.39.23:828][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1681.825195, Update Interval: 310.235901
+[2025.12.10-03.39.27:581][919]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.39.28:524][  9]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.39.29:132][ 65]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.39.29:351][ 83]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.39.31:928][328]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.39.32:340][367]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.39.34:363][562]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.39.36:596][779]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.39.38:035][915]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.39.39:113][ 17]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.39.47:306][707]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.47:306][707]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-03.39.47:571][711]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.47:571][711]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-03.39.47:713][712]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.47:713][712]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-03.39.47:933][719]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.47:933][719]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-03.39.48:147][731]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.48:147][731]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-03.39.48:359][743]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.48:359][743]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-03.39.48:563][754]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.48:563][754]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-03.39.48:961][783]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.48:961][783]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-03.39.49:387][814]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.49:387][814]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-03.39.51:195][943]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.39.58:439][476]Cmd: TRANSACTION UNDO
+[2025.12.10-03.39.58:439][476]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-03.40.00:891][660]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.40.12:383][664]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.40.13:563][762]Cmd: TRANSACTION UNDO
+[2025.12.10-03.40.13:563][762]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-03.40.15:062][872]Cmd: TRANSACTION UNDO
+[2025.12.10-03.40.15:063][872]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-03.40.17:348][ 60]Cmd: TRANSACTION REDO
+[2025.12.10-03.40.17:348][ 60]LogEditorTransaction: Redo Cube Grid Selection Change
+[2025.12.10-03.40.19:360][212]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.40.28:955][107]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.41.00:141][846]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-03.41.00:159][846]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 2.383753 MB)...
+[2025.12.10-03.41.00:167][846]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-03.41.00:169][846]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-03.41.00:169][846]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-03.41.01:001][846]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 10.337226 MB)...
+[2025.12.10-03.41.01:018][846]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-03.41.01:060][846]LogStaticMesh: Built static mesh [0.06s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-03.41.01:069][846]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-03.41.01:069][846]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-03.41.01:074][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-03.41.01:123][846]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.12.10-03.41.01:124][846]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.12.10-03.41.01:125][846]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-03.41.01:144][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019505s)
+[2025.12.10-03.41.01:144][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.019750s)
+[2025.12.10-03.41.01:170][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.10-03.41.01:172][846]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-03.41.01:176][846]LogPlayLevel: PIE: World Init took: (0.003817s)
+[2025.12.10-03.41.01:178][846]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.12.10-03.41.01:178][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-03.41.01:178][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-03.41.01:178][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-03.41.01:178][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-03.41.01:178][846]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-03.41.01:178][846]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-03.41.01:178][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-03.41.01:178][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-03.41.01:178][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-03.41.01:178][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-03.41.01:178][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-03.41.01:180][846]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-03.41.01:284][846]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-03.41.01:284][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-03.41.01:284][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-03.41.01:284][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-03.41.01:285][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.12.10-03.41.01:285][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.12.10-03.41.01:288][846]LogInit: FAudioDevice initialized with ID 2.
+[2025.12.10-03.41.01:288][846]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.12.10-03.41.01:288][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.12.10-03.41.01:288][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.12.10-03.41.01:288][846]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.10-03.41.01:302][846]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-03.41.01:311][846]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.09-21.41.01
+[2025.12.10-03.41.01:326][846]LogWorld: Bringing up level for play took: 0.022509
+[2025.12.10-03.41.01:329][846]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.12.10-03.41.01:373][846]PIE: Server logged in
+[2025.12.10-03.41.01:377][846]PIE: Play in editor total start time 1.223 seconds.
+[2025.12.10-03.41.01:447][847]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-03.41.02:089][872]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.T_Manny_01_ASAOPMASK_MSK (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.02:093][872]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_01_MSR_MSK.T_Manny_01_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.02:180][876]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.T_Manny_02_ASAOPMASK_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.02:205][877]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_02_MSR_MSK.T_Manny_02_MSR_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.02:280][881]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.T_Manny_01_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.02:285][881]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_01_BN.T_Manny_01_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.03:195][940]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-03.41.03:418][951]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_01_Tan.T_Manny_01_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.03:564][956]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.T_Manny_02_CCRCCPlastic_MSK (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.03:591][957]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_02_N.T_Manny_02_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.03:628][958]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_02_BN.T_Manny_02_BN (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.03:659][958]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_01_N.T_Manny_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.03:700][960]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_02_D.T_Manny_02_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.03:994][970]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.03:995][970]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.04:411][  0]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_02_Tan.T_Manny_02_Tan (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 430.499988 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.04:432][  1]LogTexture: Display: Building textures: /Game/FirstPersonArms/Character/Textures/Manny/T_Manny_01_D.T_Manny_01_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 385.000 MB), EncodeSpeed: Fast
+[2025.12.10-03.41.04:495][  3]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.04:497][  3]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.04:990][ 47]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.04:990][ 47]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.07:008][244]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.07:515][292]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.07:515][292]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.08:014][339]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.11:578][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-03.41.11:578][674]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-03.41.11:578][674]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-03.41.11:580][674]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-03.41.11:582][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-03.41.11:585][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-03.41.11:588][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-03.41.11:605][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-03.41.11:606][674]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.12.10-03.41.11:607][674]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.12.10-03.41.11:608][674]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.12.10-03.41.11:614][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-03.41.11:620][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.12.10-03.41.11:698][675]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.12.10-03.41.22:080][648]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-03.41.22:089][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-03.41.22:121][648]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-03.41.22:131][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010712s)
+[2025.12.10-03.41.22:131][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010750s)
+[2025.12.10-03.41.22:150][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.12.10-03.41.22:152][648]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-03.41.22:154][648]LogPlayLevel: PIE: World Init took: (0.002350s)
+[2025.12.10-03.41.22:154][648]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.12.10-03.41.22:154][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-03.41.22:154][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-03.41.22:154][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-03.41.22:154][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-03.41.22:154][648]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-03.41.22:154][648]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-03.41.22:154][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-03.41.22:154][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-03.41.22:154][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-03.41.22:154][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-03.41.22:154][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-03.41.22:156][648]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-03.41.22:219][648]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-03.41.22:220][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-03.41.22:220][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-03.41.22:220][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-03.41.22:220][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.10-03.41.22:220][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.10-03.41.22:222][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.10-03.41.22:222][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.12.10-03.41.22:222][648]LogInit: FAudioDevice initialized with ID 3.
+[2025.12.10-03.41.22:222][648]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2025.12.10-03.41.22:222][648]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.10-03.41.22:226][648]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-03.41.22:232][648]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.09-21.41.22
+[2025.12.10-03.41.22:232][648]LogWorld: Bringing up level for play took: 0.004840
+[2025.12.10-03.41.22:234][648]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.12.10-03.41.22:239][648]PIE: Server logged in
+[2025.12.10-03.41.22:241][648]PIE: Play in editor total start time 0.152 seconds.
+[2025.12.10-03.41.22:333][650]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-03.41.24:278][824]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.24:278][824]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.24:780][874]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.24:780][874]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.25:285][924]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.25:285][924]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.25:795][976]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.25:795][976]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.26:806][ 74]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.26:806][ 74]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.27:308][122]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.27:308][122]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.27:815][176]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.27:815][176]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.28:317][231]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.28:317][231]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.29:834][393]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.29:834][393]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.30:336][447]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.30:336][447]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.30:842][501]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.30:842][501]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.31:344][555]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.31:344][555]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.32:847][719]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.33:354][776]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.41.34:855][941]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.41.43:791][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-03.41.43:791][939]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-03.41.43:791][939]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-03.41.43:791][939]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-03.41.43:792][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-03.41.43:794][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-03.41.43:797][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-03.41.43:814][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-03.41.43:814][939]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.10-03.41.43:814][939]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.12.10-03.41.43:816][939]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.12.10-03.41.43:823][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.10-03.41.43:898][940]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.12.10-03.41.53:250][868]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.41.53:260][868]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-03.42.45:398][134]Cmd: TRANSACTION UNDO
+[2025.12.10-03.42.45:398][134]LogEditorTransaction: Undo Block Tool Change
