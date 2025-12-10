@@ -1902,3 +1902,163 @@ FPackageName: Skipped package /Game/FirstPerson/Blueprints/Breathing_Niagara_Sys
 [2025.12.10-03.54.04:632][530]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-03.54.04:632][530]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
 [2025.12.10-03.54.04:654][530]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-03.56.06:030][616]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-03.56.14:794][438]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.57.17:327][749]Cmd: TRANSACTION UNDO
+[2025.12.10-03.57.17:327][749]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-03.57.17:601][758]Cmd: TRANSACTION UNDO
+[2025.12.10-03.57.17:601][758]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-03.57.17:837][766]Cmd: TRANSACTION UNDO
+[2025.12.10-03.57.17:837][766]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-03.57.18:838][863]Cmd: TRANSACTION UNDO
+[2025.12.10-03.57.18:838][863]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-03.57.43:537][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2781.556641
+[2025.12.10-03.57.43:609][911]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.57.43:609][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2781.614990, Update Interval: 301.331207
+[2025.12.10-03.58.36:858][492]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-03.58.36:885][492]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-03.58.36:918][492]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 11.119627 MB)...
+[2025.12.10-03.58.36:933][492]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-03.58.36:985][492]LogStaticMesh: Built static mesh [0.07s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-03.58.36:995][492]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-03.58.36:995][492]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-03.58.36:999][492]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-03.58.36:999][492]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-03.58.37:013][492]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014373s)
+[2025.12.10-03.58.37:013][492]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.014415s)
+[2025.12.10-03.58.37:033][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.10-03.58.37:035][492]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-03.58.37:037][492]LogPlayLevel: PIE: World Init took: (0.002215s)
+[2025.12.10-03.58.37:038][492]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.12.10-03.58.37:038][492]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-03.58.37:038][492]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-03.58.37:038][492]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-03.58.37:038][492]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-03.58.37:038][492]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-03.58.37:038][492]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-03.58.37:038][492]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-03.58.37:038][492]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-03.58.37:038][492]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-03.58.37:038][492]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-03.58.37:038][492]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-03.58.37:041][492]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-03.58.37:127][492]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-03.58.37:127][492]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-03.58.37:127][492]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-03.58.37:127][492]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-03.58.37:128][492]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.12.10-03.58.37:128][492]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.12.10-03.58.37:131][492]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.12.10-03.58.37:131][492]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.12.10-03.58.37:131][492]LogInit: FAudioDevice initialized with ID 7.
+[2025.12.10-03.58.37:131][492]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2025.12.10-03.58.37:131][492]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.10-03.58.37:135][492]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-03.58.37:143][492]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.09-21.58.37
+[2025.12.10-03.58.37:144][492]LogWorld: Bringing up level for play took: 0.007336
+[2025.12.10-03.58.37:147][492]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.12.10-03.58.37:153][492]PIE: Server logged in
+[2025.12.10-03.58.37:155][492]PIE: Play in editor total start time 0.289 seconds.
+[2025.12.10-03.58.37:181][493]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-03.58.38:343][587]LogMeshUtilities: Finished distance field build in 1.3s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-03.58.39:195][673]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.58.39:195][673]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.58.40:715][830]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.58.40:715][830]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.58.41:224][882]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.58.41:224][882]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.58.41:224][882]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Invalid
+[2025.12.10-03.58.41:724][934]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.58.42:229][987]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.58.42:229][987]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.58.42:730][ 40]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.58.42:730][ 40]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.58.43:233][ 93]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.58.43:234][ 93]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.58.43:741][147]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-03.58.43:741][147]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Aborted
+[2025.12.10-03.59.19:287][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-03.59.19:287][ 34]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-03.59.19:287][ 34]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-03.59.19:287][ 34]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-03.59.19:288][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-03.59.19:290][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-03.59.19:293][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-03.59.19:310][ 34]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-03.59.19:310][ 34]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.10-03.59.19:310][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.12.10-03.59.19:311][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.12.10-03.59.19:317][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-03.59.19:319][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.10-03.59.19:394][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.12.10-03.59.28:011][828]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-03.59.28:022][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-03.59.28:047][828]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-03.59.28:058][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010803s)
+[2025.12.10-03.59.28:058][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010842s)
+[2025.12.10-03.59.28:074][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.12.10-03.59.28:075][828]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-03.59.28:076][828]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2025.12.10-03.59.28:077][828]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.12.10-03.59.28:077][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-03.59.28:077][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-03.59.28:077][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-03.59.28:077][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-03.59.28:077][828]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-03.59.28:077][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-03.59.28:077][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-03.59.28:077][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-03.59.28:077][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-03.59.28:077][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-03.59.28:077][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-03.59.28:079][828]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-03.59.28:141][828]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-03.59.28:141][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-03.59.28:141][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-03.59.28:141][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-03.59.28:141][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.12.10-03.59.28:141][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.12.10-03.59.28:144][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.12.10-03.59.28:144][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.12.10-03.59.28:144][828]LogInit: FAudioDevice initialized with ID 8.
+[2025.12.10-03.59.28:144][828]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2025.12.10-03.59.28:144][828]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.10-03.59.28:148][828]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-03.59.28:153][828]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.09-21.59.28
+[2025.12.10-03.59.28:153][828]LogWorld: Bringing up level for play took: 0.004876
+[2025.12.10-03.59.28:155][828]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.12.10-03.59.28:160][828]PIE: Server logged in
+[2025.12.10-03.59.28:162][828]PIE: Play in editor total start time 0.141 seconds.
+[2025.12.10-03.59.28:255][830]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-03.59.29:298][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-03.59.29:298][926]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-03.59.29:298][926]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-03.59.29:298][926]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-03.59.29:299][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-03.59.29:300][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-03.59.29:303][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-03.59.29:319][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-03.59.29:319][926]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.12.10-03.59.29:319][926]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.12.10-03.59.29:321][926]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.12.10-03.59.29:327][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.12.10-03.59.29:396][927]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.12.10-03.59.40:078][927]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-03.59.40:089][927]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-04.01.01:931][ 91]Cmd: TRANSACTION UNDO
+[2025.12.10-04.01.01:931][ 91]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-04.01.02:651][121]Cmd: TRANSACTION UNDO
+[2025.12.10-04.01.02:651][121]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-04.03.02:994][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-04.03.03:034][916]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4
+[2025.12.10-04.03.03:035][916]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/A34WOBX3306F8PV7AUTZR4620EFD6F4C60186AFA315DA37D584897.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4.uasset'
+[2025.12.10-04.03.03:053][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.681 ms (total: 232.083 ms)
+[2025.12.10-04.03.03:096][916]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-04.03.03:096][916]LogContentValidation: Enabled validators:
+[2025.12.10-04.03.03:096][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-04.03.03:096][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-04.03.03:096][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-04.03.03:096][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-04.03.03:096][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-04.03.03:096][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-04.03.03:096][916]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
