@@ -3480,3 +3480,990 @@ FPackageName: Skipped package /Game/FirstPerson/Blueprints/Breathing_Niagara_Sys
 [2025.12.10-05.00.07:186][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.10-05.00.07:186][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-05.00.07:194][742]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-05.00.36:635][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6554.682617
+[2025.12.10-05.00.37:636][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.00.37:636][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6555.350586, Update Interval: 300.602448
+[2025.12.10-05.06.18:015][124]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6896.057617
+[2025.12.10-05.06.19:007][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.06.19:008][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6896.725098, Update Interval: 309.150055
+[2025.12.10-05.11.09:103][997]LogDerivedDataCache: C:/Users/J C/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-05.12.00:054][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7238.105469
+[2025.12.10-05.12.01:053][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.12.01:053][152]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7238.770020, Update Interval: 317.813049
+[2025.12.10-05.17.51:819][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7589.864746
+[2025.12.10-05.17.52:815][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.17.52:815][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7590.530762, Update Interval: 353.499573
+[2025.12.10-05.24.17:743][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7975.791992
+[2025.12.10-05.24.18:745][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.24.18:745][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7976.458496, Update Interval: 343.269135
+[2025.12.10-05.31.01:128][570]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8379.183594
+[2025.12.10-05.31.02:130][573]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.31.02:130][573]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8379.850586, Update Interval: 349.401520
+[2025.12.10-05.37.39:515][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8777.562500
+[2025.12.10-05.37.40:513][768]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.37.40:516][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8778.229492, Update Interval: 336.125977
+[2025.12.10-05.39.14:403][370]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-05.39.14:494][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-05.39.14:555][370]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-05.39.14:884][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.326874s)
+[2025.12.10-05.39.14:885][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.329820s)
+[2025.12.10-05.39.15:536][370]LogUObjectHash: Compacting FUObjectHashTables data took   9.49ms
+[2025.12.10-05.39.15:568][370]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-05.39.15:658][370]LogPlayLevel: PIE: World Init took: (0.092536s)
+[2025.12.10-05.39.15:663][370]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.12.10-05.39.15:665][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-05.39.15:667][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-05.39.15:667][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-05.39.15:667][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-05.39.15:667][370]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-05.39.15:667][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-05.39.15:667][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-05.39.15:667][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-05.39.15:672][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-05.39.15:672][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-05.39.15:672][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-05.39.15:682][370]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-05.39.15:772][370]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-05.39.15:784][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-05.39.15:784][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-05.39.15:786][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-05.39.15:798][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.12.10-05.39.15:798][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.12.10-05.39.15:801][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.12.10-05.39.15:801][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.12.10-05.39.15:803][370]LogInit: FAudioDevice initialized with ID 14.
+[2025.12.10-05.39.15:803][370]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonMap'.
+[2025.12.10-05.39.15:807][370]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.10-05.39.15:879][370]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-05.39.15:964][370]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.09-23.39.15
+[2025.12.10-05.39.15:985][370]LogWorld: Bringing up level for play took: 0.098160
+[2025.12.10-05.39.16:016][370]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.12.10-05.39.16:122][370]PIE: Server logged in
+[2025.12.10-05.39.16:124][370]PIE: Play in editor total start time 1.663 seconds.
+[2025.12.10-05.39.16:232][371]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-05.39.16:368][372]LogPSOHitching: Encountered 50 PSO creation hitches so far (32 graphics, 18 compute). 0 of them were precached.
+[2025.12.10-05.39.18:226][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-05.39.18:226][523]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-05.39.18:229][523]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-05.39.18:235][523]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-05.39.18:239][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-05.39.18:247][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-05.39.18:250][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-05.39.18:270][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-05.39.18:272][523]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.12.10-05.39.18:272][523]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2025.12.10-05.39.18:276][523]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2025.12.10-05.39.18:294][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.12.10-05.39.18:433][524]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.12.10-05.40.22:602][231]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.40.22:648][231]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.12.10-05.41.10:510][375]Cmd: TRANSACTION UNDO
+[2025.12.10-05.41.10:511][375]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.41.10:822][383]Cmd: TRANSACTION UNDO
+[2025.12.10-05.41.10:822][383]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.41.11:145][396]Cmd: TRANSACTION UNDO
+[2025.12.10-05.41.11:145][396]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-05.41.11:506][430]Cmd: TRANSACTION UNDO
+[2025.12.10-05.41.11:506][430]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.41.12:624][530]Cmd: TRANSACTION UNDO
+[2025.12.10-05.41.12:624][530]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.43.55:875][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9154.094727
+[2025.12.10-05.43.56:031][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.43.56:031][907]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9154.241211, Update Interval: 311.290619
+[2025.12.10-05.44.43:340][849]Cmd: DELETE
+[2025.12.10-05.44.43:340][849]Cmd: ACTOR DELETE
+[2025.12.10-05.44.43:356][849]LogInteractiveToolsContext: Warning: Cannot delete objects while this Tool is active
+[2025.12.10-05.44.46:270][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33.CubeGridToolOutput_EC4F5F33
+[2025.12.10-05.44.46:295][123]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_EC4F5F33 (Required Memory Estimate: 1.420847 MB)...
+[2025.12.10-05.44.46:298][123]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33.CubeGridToolOutput_EC4F5F33 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_0C9D928409F412AA02_2100123185
+[2025.12.10-05.44.46:316][123]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33) ...
+[2025.12.10-05.44.46:316][123]LogStaticMesh: Built static mesh [0.05s] /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33.CubeGridToolOutput_EC4F5F33
+[2025.12.10-05.44.46:322][123]LogStaticMesh: Warning: CubeGridToolOutput_EC4F5F33 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-05.44.46:322][123]LogStaticMesh: Warning: CubeGridToolOutput_EC4F5F33 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-05.44.49:652][350]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.44.49:659][350]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-05.50.07:071][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9525.940430
+[2025.12.10-05.50.07:179][570]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.50.07:179][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9526.019531, Update Interval: 301.067535
+[2025.12.10-05.50.41:791][546]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_EC4F5F33 (Required Memory Estimate: 1.420907 MB)...
+[2025.12.10-05.50.41:798][546]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33.CubeGridToolOutput_EC4F5F33
+[2025.12.10-05.50.41:800][546]LogStaticMesh: Warning: CubeGridToolOutput_EC4F5F33 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-05.50.41:800][546]LogStaticMesh: Warning: CubeGridToolOutput_EC4F5F33 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-05.50.52:525][490]Cmd: TRANSACTION UNDO
+[2025.12.10-05.50.52:525][490]LogEditorTransaction: Undo Move Elements
+[2025.12.10-05.51.05:458][613]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.10-05.51.06:783][727]LogSlate: Took 0.001284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.12.10-05.51.14:243][402]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.51.14:262][402]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-05.51.35:450][ 60]Cmd: TRANSACTION UNDO
+[2025.12.10-05.51.35:450][ 60]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.51.35:723][ 69]Cmd: TRANSACTION UNDO
+[2025.12.10-05.51.35:723][ 69]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-05.51.36:068][ 86]Cmd: TRANSACTION UNDO
+[2025.12.10-05.51.36:068][ 86]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.51.49:588][193]Cmd: TRANSACTION UNDO
+[2025.12.10-05.51.49:588][193]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.16:454][511]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.16:454][511]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.16:632][515]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.16:632][515]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.17:538][541]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.17:538][541]LogEditorTransaction: Undo Move Elements
+[2025.12.10-05.54.17:666][545]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.17:666][545]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.17:854][559]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.17:854][559]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.18:034][573]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.18:034][573]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.18:196][585]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.18:196][585]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.18:367][598]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.18:367][598]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.18:541][611]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.18:541][611]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.18:718][624]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.18:719][624]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.18:899][636]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.18:899][636]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.19:071][649]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.19:071][649]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.19:300][664]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.19:300][664]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.19:510][680]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.19:510][680]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.19:700][694]Cmd: TRANSACTION UNDO
+[2025.12.10-05.54.19:700][694]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.54.40:739][241]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.54.58:775][702]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.55.49:666][822]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.55.51:337][964]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9870.069336
+[2025.12.10-05.55.51:425][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.55.51:425][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9870.146484, Update Interval: 311.889404
+[2025.12.10-05.55.55:607][341]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.55.58:975][582]Cmd: TRANSACTION UNDO
+[2025.12.10-05.55.58:975][582]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.55.59:181][588]Cmd: TRANSACTION UNDO
+[2025.12.10-05.55.59:181][588]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-05.55.59:391][594]Cmd: TRANSACTION UNDO
+[2025.12.10-05.55.59:391][594]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-05.55.59:692][613]Cmd: TRANSACTION UNDO
+[2025.12.10-05.55.59:692][613]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-05.56.00:052][643]Cmd: TRANSACTION UNDO
+[2025.12.10-05.56.00:052][643]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.56.00:915][710]Cmd: TRANSACTION UNDO
+[2025.12.10-05.56.00:915][710]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-05.56.01:646][754]Cmd: TRANSACTION UNDO
+[2025.12.10-05.56.01:646][754]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.56.16:754][868]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.56.25:556][647]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.56.44:424][200]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.56.56:815][259]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.56.58:866][439]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.57.05:316][962]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.57.06:669][ 78]Cmd: TRANSACTION UNDO
+[2025.12.10-05.57.06:669][ 78]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.57.08:699][209]Cmd: TRANSACTION REDO
+[2025.12.10-05.57.08:699][209]LogEditorTransaction: Redo Block Tool Change
+[2025.12.10-05.57.10:847][396]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.57.13:555][637]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.57.19:507][100]Cmd: TRANSACTION UNDO
+[2025.12.10-05.57.19:507][100]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-05.57.19:912][114]Cmd: TRANSACTION UNDO
+[2025.12.10-05.57.19:912][114]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.57.20:904][195]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.57.23:209][382]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.57.32:730][ 43]Cmd: TRANSACTION UNDO
+[2025.12.10-05.57.32:730][ 43]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-05.57.45:759][955]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.57.51:627][440]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.57.53:551][572]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.58.01:097][226]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.58.02:169][321]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.58.02:853][381]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.58.09:067][877]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.58.11:069][ 16]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.58.12:877][150]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.58.15:557][385]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.58.43:315][507]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.58.47:324][854]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.58.51:480][230]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.58.57:717][785]Cmd: TRANSACTION UNDO
+[2025.12.10-05.58.57:717][785]LogEditorTransaction: Undo Corner Selection
+[2025.12.10-05.58.57:973][793]Cmd: TRANSACTION UNDO
+[2025.12.10-05.58.57:973][793]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-05.58.58:473][822]Cmd: TRANSACTION UNDO
+[2025.12.10-05.58.58:473][822]LogEditorTransaction: Undo Corner Push/Pull Amount
+[2025.12.10-05.59.21:435][768]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-05.59.40:884][336]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-05.59.43:184][538]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.00.02:192][ 61]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.00.02:875][117]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.00.05:535][302]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.00.05:708][309]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.00.09:052][556]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.00.10:983][713]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.00.13:495][911]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.00.17:689][281]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.00.37:236][774]Cmd: TRANSACTION UNDO
+[2025.12.10-06.00.37:236][774]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.01.41:060][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10219.786133
+[2025.12.10-06.01.41:135][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-06.01.41:135][ 79]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10219.848633, Update Interval: 348.788116
+[2025.12.10-06.03.32:255][659]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.03.34:823][886]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.03.40:883][343]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.03.42:961][505]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.03.51:165][146]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.03.54:357][420]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.03.55:381][509]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.04.04:637][323]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.04.09:380][691]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.04.11:094][842]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.04.17:291][356]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.04.19:634][561]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.04.25:370][ 65]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.04.26:135][101]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.04.27:155][184]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.04.28:863][342]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.06.08:431][112]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.06.08:525][112]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 19.130985 MB)...
+[2025.12.10-06.06.08:542][112]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.06.08:694][112]LogStaticMesh: Built static mesh [0.17s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-06.06.08:713][112]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.06.08:713][112]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.06.10:505][252]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-06.06.22:472][497]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.06.22:491][497]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.06.56:392][412]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.56:392][412]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.06.56:920][427]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.56:920][427]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.06.57:279][453]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.57:279][453]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.06.57:997][519]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.57:997][519]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.06.58:277][543]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.58:277][543]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.06.58:520][564]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.58:520][564]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.06.58:793][586]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.58:793][586]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.06.59:061][608]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.59:061][608]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.06.59:429][639]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.59:429][639]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.06.59:748][666]Cmd: TRANSACTION UNDO
+[2025.12.10-06.06.59:748][666]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.07.00:673][752]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.00:673][752]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.07.02:407][877]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.02:407][877]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.07.04:495][ 54]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.04:495][ 54]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.07.04:916][ 65]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.04:916][ 65]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.07.05:869][147]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.05:869][147]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.07.06:938][242]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.06:938][242]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.07.07:428][284]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.07:428][284]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.07.07:722][308]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.07:722][308]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.07.07:980][328]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.07:980][328]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.07.08:246][348]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.08:246][348]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.07.08:578][360]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.08:578][360]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.07.08:846][373]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.08:846][373]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.07.09:135][397]Cmd: TRANSACTION UNDO
+[2025.12.10-06.07.09:135][397]LogEditorTransaction: Undo Activate Tool
+[2025.12.10-06.07.11:426][588]Cmd: TRANSACTION REDO
+[2025.12.10-06.07.23:027][862]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.07.23:044][862]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.08.02:170][301]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10600.800781
+[2025.12.10-06.08.02:252][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-06.08.02:252][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10600.872070, Update Interval: 322.171082
+[2025.12.10-06.10.37:556][729]Cmd: TRANSACTION UNDO
+[2025.12.10-06.10.37:556][729]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.10.37:764][731]Cmd: TRANSACTION UNDO
+[2025.12.10-06.10.37:764][731]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.10.37:955][733]Cmd: TRANSACTION UNDO
+[2025.12.10-06.10.37:955][733]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.10.38:139][735]Cmd: TRANSACTION UNDO
+[2025.12.10-06.10.38:139][735]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.10.38:281][736]Cmd: TRANSACTION UNDO
+[2025.12.10-06.10.38:281][736]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.10.38:542][743]Cmd: TRANSACTION UNDO
+[2025.12.10-06.10.38:542][743]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.11.09:099][328]LogDerivedDataCache: C:/Users/J C/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-06.12.23:665][981]Cmd: TRANSACTION UNDO
+[2025.12.10-06.12.23:665][981]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.12.23:857][982]Cmd: TRANSACTION UNDO
+[2025.12.10-06.12.23:857][982]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.12.24:195][989]Cmd: TRANSACTION UNDO
+[2025.12.10-06.12.24:195][989]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.12.24:613][ 15]Cmd: TRANSACTION UNDO
+[2025.12.10-06.12.24:613][ 15]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.12.24:907][ 30]Cmd: TRANSACTION UNDO
+[2025.12.10-06.12.24:907][ 30]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.12.25:423][ 66]Cmd: TRANSACTION UNDO
+[2025.12.10-06.12.25:423][ 66]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.13.32:770][705]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.13.32:850][705]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 20.306199 MB)...
+[2025.12.10-06.13.32:864][705]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.13.33:035][705]LogStaticMesh: Built static mesh [0.19s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-06.13.33:056][705]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.13.33:056][705]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.13.34:959][832]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-06.13.57:726][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.12.10-06.13.57:751][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4_Auto4
+[2025.12.10-06.13.57:751][347]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/A34WOBX3306F8PV7AUTZR4_Auto4F391074444EC4A2E8B1DA1A33C78866D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4_Auto4.uasset'
+[2025.12.10-06.13.57:757][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/NH71F61GZATPU2D72V5J0T_Auto4
+[2025.12.10-06.13.57:759][347]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/NH71F61GZATPU2D72V5J0T_Auto42E3D2B144220A5701B94AB8ADB535283.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/NH71F61GZATPU2D72V5J0T_Auto4.uasset'
+[2025.12.10-06.13.57:760][347]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.077
+[2025.12.10-06.13.57:760][347]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2025.12.10-06.13.57:761][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B] ([1] browsable assets)...
+[2025.12.10-06.13.57:833][347]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B]
+[2025.12.10-06.13.57:833][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B]
+[2025.12.10-06.13.57:855][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B_Auto4
+[2025.12.10-06.13.57:856][347]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/CubeGridToolOutput_D734203B_Auto82B0CD1A42CC9597D79B8A92C7E7F102.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B_Auto4.uasset'
+[2025.12.10-06.13.57:857][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_DA2BFD83] ([1] browsable assets)...
+[2025.12.10-06.13.57:857][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_DA2BFD83]
+[2025.12.10-06.13.57:861][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_DA2BFD83_Auto4
+[2025.12.10-06.13.57:861][347]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/CubeGridToolOutput_DA2BFD83_AutoAC052A4D4E92234CBD10F2A23D9DD210.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_DA2BFD83_Auto4.uasset'
+[2025.12.10-06.13.57:861][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33] ([1] browsable assets)...
+[2025.12.10-06.13.57:879][347]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33.CubeGridToolOutput_EC4F5F33]
+[2025.12.10-06.13.57:879][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33]
+[2025.12.10-06.13.57:887][347]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33_Auto4
+[2025.12.10-06.13.57:887][347]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/CubeGridToolOutput_EC4F5F33_Auto9784BB354D9EAEF4047E9A980E12D398.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/Autosaves/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_EC4F5F33_Auto4.uasset'
+[2025.12.10-06.13.57:888][347]LogFileHelpers: Auto-saving content packages took 0.128
+[2025.12.10-06.14.12:589][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10971.194336
+[2025.12.10-06.14.12:679][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-06.14.12:679][620]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10971.273438, Update Interval: 327.133392
+[2025.12.10-06.15.16:475][937]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.15.16:482][937]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.12.10-06.16.43:168][724]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.16.45:693][947]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.16.47:548][126]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.16.52:831][635]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.16.58:919][213]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.00:627][383]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.17.03:035][623]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.06:475][971]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.17.08:079][134]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.11:218][449]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.17.11:780][504]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.12:945][621]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.17.16:027][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-06.17.16:066][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4
+[2025.12.10-06.17.16:067][925]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/A34WOBX3306F8PV7AUTZR4AF7EA54A4C0EFDEA1B3AC9BC2AEC0C0D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4.uasset'
+[2025.12.10-06.17.16:072][925]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/NH71F61GZATPU2D72V5J0T
+[2025.12.10-06.17.16:073][925]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/NH71F61GZATPU2D72V5J0T7DDCDF7B4018C119C6476482A56539C9.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5X/NH71F61GZATPU2D72V5J0T.uasset'
+[2025.12.10-06.17.16:097][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.298 ms (total: 459.268 ms)
+[2025.12.10-06.17.16:152][925]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.10-06.17.16:152][925]LogContentValidation: Enabled validators:
+[2025.12.10-06.17.16:152][925]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-06.17.16:152][925]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-06.17.16:152][925]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-06.17.16:152][925]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-06.17.16:152][925]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-06.17.16:152][925]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-06.17.16:154][925]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-06.17.16:175][925]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-06.17.17:222][ 30]Cmd: TRANSACTION UNDO
+[2025.12.10-06.17.17:222][ 30]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.17.18:023][ 80]Cmd: TRANSACTION UNDO
+[2025.12.10-06.17.18:023][ 80]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.17.18:438][122]Cmd: TRANSACTION UNDO
+[2025.12.10-06.17.18:438][122]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.12.10-06.17.18:954][174]Cmd: TRANSACTION UNDO
+[2025.12.10-06.17.18:954][174]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.17.22:847][530]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.25:611][787]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.17.26:350][853]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.35:094][717]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.17.42:135][360]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.44:127][555]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.17.50:681][151]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.51:408][200]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.17.52:306][277]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.54:566][502]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.17.56:344][658]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.17.58:741][882]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.18.01:428][111]LogInteractiveToolsContext: Display: Toggle corner selection for push/pulling by clicking or dragging. Press Enter or click "Done" to accept the result.
+[2025.12.10-06.18.03:049][250]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.20.29:872][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11348.402344
+[2025.12.10-06.20.29:965][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-06.20.29:965][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11348.485352, Update Interval: 346.958832
+[2025.12.10-06.21.12:033][197]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_867FCD02.CubeGridToolOutput_867FCD02
+[2025.12.10-06.21.12:034][197]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_867FCD02 (Required Memory Estimate: 2.397979 MB)...
+[2025.12.10-06.21.12:036][197]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_867FCD02.CubeGridToolOutput_867FCD02 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_0C9D928409F414AA02_2138402538
+[2025.12.10-06.21.12:043][197]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_867FCD02.CubeGridToolOutput_867FCD02
+[2025.12.10-06.21.12:046][197]LogStaticMesh: Warning: CubeGridToolOutput_867FCD02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.21.12:046][197]LogStaticMesh: Warning: CubeGridToolOutput_867FCD02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.21.18:719][711]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.21.18:736][711]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.21.27:407][416]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.21.27:486][416]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 20.373297 MB)...
+[2025.12.10-06.21.27:502][416]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.21.27:680][416]LogStaticMesh: Built static mesh [0.19s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-06.21.27:701][416]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.21.27:701][416]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.21.29:449][521]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-06.21.33:716][891]Cmd: DELETE
+[2025.12.10-06.21.33:716][891]Cmd: ACTOR DELETE
+[2025.12.10-06.21.33:748][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-06.21.33:809][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.12.10-06.21.33:811][891]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2025.12.10-06.21.40:793][558]Cmd: DELETE
+[2025.12.10-06.21.40:793][558]Cmd: ACTOR DELETE
+[2025.12.10-06.21.40:795][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-06.21.40:821][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.12.10-06.21.40:824][558]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.12.10-06.21.43:387][783]Cmd: DELETE
+[2025.12.10-06.21.43:387][783]Cmd: ACTOR DELETE
+[2025.12.10-06.21.43:389][783]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-06.21.43:410][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.10-06.21.43:412][783]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.12.10-06.21.45:535][980]Cmd: DELETE
+[2025.12.10-06.21.45:535][980]Cmd: ACTOR DELETE
+[2025.12.10-06.21.45:540][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-06.21.45:561][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.10-06.21.45:563][980]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.12.10-06.21.46:822][106]Cmd: TRANSACTION UNDO
+[2025.12.10-06.21.46:826][106]LogEditorTransaction: Undo Delete Elements
+[2025.12.10-06.21.49:984][337]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.21.49:999][337]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.21.58:660][ 28]LogStaticMesh: Display: Building static mesh SM_Cube (Required Memory Estimate: 0.116051 MB)...
+[2025.12.10-06.21.58:667][ 28]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.12.10-06.22.01:474][280]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.22.01:490][280]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.23.09:612][554]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.23.09:681][554]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 21.88225 MB)...
+[2025.12.10-06.23.09:698][554]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.23.09:890][554]LogStaticMesh: Built static mesh [0.21s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-06.23.09:911][554]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.23.09:911][554]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.23.11:765][661]LogMeshUtilities: Finished distance field build in 1.8s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 71% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-06.23.18:148][256]Cmd: DELETE
+[2025.12.10-06.23.18:148][256]Cmd: ACTOR DELETE
+[2025.12.10-06.23.18:154][256]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-06.23.18:175][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.12.10-06.23.18:177][256]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.12.10-06.23.29:396][311]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.23.29:411][311]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.23.49:337][ 29]Cmd: TRANSACTION UNDO
+[2025.12.10-06.23.49:337][ 29]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.24.31:442][498]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-06.24.31:472][498]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.24.31:541][498]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 22.690299 MB)...
+[2025.12.10-06.24.31:556][498]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.24.31:763][498]LogStaticMesh: Built static mesh [0.22s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-06.24.31:785][498]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.24.31:785][498]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.24.31:799][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-06.24.31:819][498]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-06.24.31:839][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019558s)
+[2025.12.10-06.24.31:839][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.019621s)
+[2025.12.10-06.24.31:859][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.10-06.24.31:861][498]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-06.24.31:864][498]LogPlayLevel: PIE: World Init took: (0.003509s)
+[2025.12.10-06.24.31:866][498]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.12.10-06.24.31:866][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-06.24.31:866][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-06.24.31:866][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-06.24.31:866][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-06.24.31:866][498]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-06.24.31:866][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-06.24.31:866][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-06.24.31:866][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-06.24.31:866][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-06.24.31:866][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-06.24.31:866][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-06.24.31:868][498]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-06.24.31:960][498]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-06.24.31:960][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-06.24.31:960][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-06.24.31:960][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-06.24.31:961][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.12.10-06.24.31:961][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.12.10-06.24.31:964][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.12.10-06.24.31:964][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.12.10-06.24.31:965][498]LogInit: FAudioDevice initialized with ID 15.
+[2025.12.10-06.24.31:965][498]LogAudio: Display: Audio Device (ID: 15) registered with world 'FirstPersonMap'.
+[2025.12.10-06.24.31:965][498]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.12.10-06.24.31:976][498]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-06.24.31:983][498]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.10-00.24.31
+[2025.12.10-06.24.31:985][498]LogWorld: Bringing up level for play took: 0.008663
+[2025.12.10-06.24.31:988][498]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.12.10-06.24.31:995][498]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Invalid
+[2025.12.10-06.24.32:001][498]PIE: Server logged in
+[2025.12.10-06.24.32:005][498]PIE: Play in editor total start time 0.551 seconds.
+[2025.12.10-06.24.32:035][499]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-06.24.33:877][668]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 72% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-06.24.38:234][ 89]LogBlueprintUserMessages: [BP_EnemyCharacter_C_UAID_24B2B9661D7A66A302_1327381579] Start Chase
+[2025.12.10-06.24.38:235][ 89]LogBlueprintUserMessages: [BP_EnemyAIController_C_0] Invalid
+[2025.12.10-06.24.43:672][616]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-06.24.43:672][616]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Invalid
+[2025.12.10-06.24.44:182][663]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-06.24.44:182][663]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Invalid
+[2025.12.10-06.24.44:685][709]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-06.24.44:685][709]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Invalid
+[2025.12.10-06.24.45:185][754]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-06.24.45:185][754]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Invalid
+[2025.12.10-06.24.45:690][803]LogBlueprintUserMessages: [BP_EnemyCharacter_C_0] Start Chase
+[2025.12.10-06.24.45:690][803]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Invalid
+[2025.12.10-06.24.48:078][ 45]LogBlueprintUserMessages: [BP_EnemyAIController_C_1] Invalid
+[2025.12.10-06.24.49:369][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-06.24.49:369][176]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-06.24.49:369][176]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-06.24.49:369][176]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-06.24.49:370][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-06.24.49:376][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-06.24.49:378][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-06.24.49:397][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-06.24.49:397][176]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.12.10-06.24.49:397][176]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.12.10-06.24.49:398][176]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.12.10-06.24.49:401][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-06.24.49:404][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.10-06.24.49:474][177]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.12.10-06.25.09:003][910]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-06.25.09:018][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-06.25.09:018][910]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-06.25.09:029][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011072s)
+[2025.12.10-06.25.09:029][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.011105s)
+[2025.12.10-06.25.09:046][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.10-06.25.09:047][910]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-06.25.09:049][910]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2025.12.10-06.25.09:050][910]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.12.10-06.25.09:050][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-06.25.09:050][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-06.25.09:050][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-06.25.09:050][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-06.25.09:050][910]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-06.25.09:050][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-06.25.09:050][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-06.25.09:050][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-06.25.09:050][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-06.25.09:050][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-06.25.09:050][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-06.25.09:052][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-06.25.09:114][910]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-06.25.09:115][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-06.25.09:115][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-06.25.09:115][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-06.25.09:115][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.12.10-06.25.09:115][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.12.10-06.25.09:117][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.12.10-06.25.09:117][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.12.10-06.25.09:117][910]LogInit: FAudioDevice initialized with ID 16.
+[2025.12.10-06.25.09:117][910]LogAudio: Display: Audio Device (ID: 16) registered with world 'FirstPersonMap'.
+[2025.12.10-06.25.09:117][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.12.10-06.25.09:122][910]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-06.25.09:126][910]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.10-00.25.09
+[2025.12.10-06.25.09:126][910]LogWorld: Bringing up level for play took: 0.004552
+[2025.12.10-06.25.09:129][910]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.12.10-06.25.09:134][910]PIE: Server logged in
+[2025.12.10-06.25.09:136][910]PIE: Play in editor total start time 0.123 seconds.
+[2025.12.10-06.25.09:231][912]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-06.25.12:750][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-06.25.12:750][242]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-06.25.12:750][242]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-06.25.12:750][242]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-06.25.12:751][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-06.25.12:753][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-06.25.12:755][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-06.25.12:773][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-06.25.12:773][242]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.12.10-06.25.12:773][242]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.12.10-06.25.12:775][242]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.12.10-06.25.12:781][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.12.10-06.25.12:856][243]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.12.10-06.25.31:704][527]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.25.31:720][527]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.26.07:249][443]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-06.26.07:277][443]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.26.07:348][443]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 23.1577 MB)...
+[2025.12.10-06.26.07:364][443]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.26.07:582][443]LogStaticMesh: Built static mesh [0.23s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-06.26.07:605][443]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.26.07:605][443]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.26.07:617][443]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-06.26.07:648][443]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-06.26.07:664][443]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015133s)
+[2025.12.10-06.26.07:664][443]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.015178s)
+[2025.12.10-06.26.07:683][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.10-06.26.07:684][443]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-06.26.07:687][443]LogPlayLevel: PIE: World Init took: (0.002039s)
+[2025.12.10-06.26.07:688][443]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.12.10-06.26.07:688][443]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-06.26.07:688][443]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-06.26.07:688][443]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-06.26.07:688][443]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-06.26.07:688][443]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-06.26.07:688][443]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-06.26.07:688][443]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-06.26.07:688][443]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-06.26.07:688][443]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-06.26.07:688][443]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-06.26.07:689][443]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-06.26.07:691][443]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-06.26.07:779][443]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-06.26.07:780][443]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-06.26.07:780][443]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-06.26.07:780][443]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-06.26.07:780][443]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.12.10-06.26.07:780][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.12.10-06.26.07:783][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.12.10-06.26.07:783][443]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.12.10-06.26.07:783][443]LogInit: FAudioDevice initialized with ID 17.
+[2025.12.10-06.26.07:783][443]LogAudio: Display: Audio Device (ID: 17) registered with world 'FirstPersonMap'.
+[2025.12.10-06.26.07:783][443]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.12.10-06.26.07:788][443]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-06.26.07:794][443]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.10-00.26.07
+[2025.12.10-06.26.07:795][443]LogWorld: Bringing up level for play took: 0.006659
+[2025.12.10-06.26.07:798][443]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.12.10-06.26.07:805][443]PIE: Server logged in
+[2025.12.10-06.26.07:808][443]PIE: Play in editor total start time 0.551 seconds.
+[2025.12.10-06.26.07:835][444]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-06.26.09:861][612]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 77% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-06.26.10:840][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-06.26.10:840][704]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-06.26.10:840][704]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-06.26.10:840][704]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-06.26.10:841][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-06.26.10:843][704]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-06.26.10:846][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-06.26.10:864][704]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-06.26.10:864][704]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.12.10-06.26.10:864][704]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.12.10-06.26.10:866][704]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.12.10-06.26.10:869][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-06.26.10:872][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.12.10-06.26.10:944][705]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.12.10-06.26.16:682][184]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.26.16:700][184]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.26.52:765][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11731.020508
+[2025.12.10-06.26.52:857][135]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-06.26.52:857][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11731.101562, Update Interval: 321.416656
+[2025.12.10-06.27.10:625][597]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.27.10:699][597]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 23.174075 MB)...
+[2025.12.10-06.27.10:716][597]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.27.10:919][597]LogStaticMesh: Built static mesh [0.22s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-06.27.10:941][597]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.27.10:941][597]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.27.13:189][740]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 2.7Mb total, 0.1Mb always loaded, 79% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-06.27.17:475][ 34]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-06.27.20:011][230]Cmd: TRANSACTION UNDO
+[2025.12.10-06.27.20:012][230]LogEditorTransaction: Undo Replace component used material
+[2025.12.10-06.27.22:509][433]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.27.22:524][433]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.28.04:601][795]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.28.04:685][795]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 24.476668 MB)...
+[2025.12.10-06.28.04:698][795]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.28.04:919][795]LogStaticMesh: Built static mesh [0.24s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-06.28.04:943][795]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.28.04:943][795]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.28.07:273][916]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x126 sparse distance field, 2.7Mb total, 0.1Mb always loaded, 81% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-06.28.15:728][716]Cmd: DELETE
+[2025.12.10-06.28.15:728][716]Cmd: ACTOR DELETE
+[2025.12.10-06.28.15:732][716]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0: Can't delete non-instanced components or the scene root.
+[2025.12.10-06.28.17:217][892]Cmd: DELETE
+[2025.12.10-06.28.17:217][892]Cmd: ACTOR DELETE
+[2025.12.10-06.28.17:217][892]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0: Can't delete non-instanced components or the scene root.
+[2025.12.10-06.28.18:056][992]Cmd: DELETE
+[2025.12.10-06.28.18:056][992]Cmd: ACTOR DELETE
+[2025.12.10-06.28.18:057][992]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_15.StaticMeshComponent0: Can't delete non-instanced components or the scene root.
+[2025.12.10-06.28.36:870][137]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.28.36:876][137]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.28.52:572][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-06.28.52:691][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.12.10-06.28.52:711][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.10-06.28.52:728][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.12.10-06.28.52:739][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U
+[2025.12.10-06.28.52:739][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/LYKU8MRWM4BO3O1FDZBG2U5476148940166E2573A7529F50A52D9A.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset'
+[2025.12.10-06.28.52:742][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM
+[2025.12.10-06.28.52:742][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MG6FOV6QQX2CAZCGF7O9MMD94CFF1249A7F8243AE57DA419374842.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset'
+[2025.12.10-06.28.52:745][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2
+[2025.12.10-06.28.52:745][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XIHYQ8ZTVL6F9GCUZX1AQ2C039ABDC48418F02F06117B1625C6471.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset'
+[2025.12.10-06.28.52:747][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH
+[2025.12.10-06.28.52:747][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XRLOR3HVYVHJA3N9PKGXZH60AC3A3B49464C8EDD3C55A4A16D19CC.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset'
+[2025.12.10-06.28.52:750][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29
+[2025.12.10-06.28.52:750][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/QQN0UFFAA797E1UT4IMD290395D82144A024CFA69FA684291EFCC6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset'
+[2025.12.10-06.28.52:752][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X
+[2025.12.10-06.28.52:753][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1JZHHCOBVQ2F5XRUWSES1X56AEF91C447576C51F581495E65F40C5.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset'
+[2025.12.10-06.28.52:755][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0
+[2025.12.10-06.28.52:756][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/7EHFAZ5HVWXAWQ04QO5TH0C738A8CD4872A4BA50A51CB5BA4F8CE7.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset'
+[2025.12.10-06.28.52:759][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9
+[2025.12.10-06.28.52:759][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/IY5R6I5N0YWU9LYWKXFXH9E907730A473CA956C72FD58015666D07.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset'
+[2025.12.10-06.28.52:762][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9
+[2025.12.10-06.28.52:762][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/FVTPO8KZ0WPMCSQLVJE6O972199FED4B248617A383768F0862C4AE.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset'
+[2025.12.10-06.28.52:764][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA
+[2025.12.10-06.28.52:765][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/U0XT0R08XQA6C15NK8ILFAF107FCEA49ACA640954A3B81955912B6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset'
+[2025.12.10-06.28.52:767][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI
+[2025.12.10-06.28.52:767][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1TS6RXVW69DL6H77EVNVWI8D4C24014089D3627237FA8F4DB8ECE3.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI.uasset'
+[2025.12.10-06.28.52:768][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4
+[2025.12.10-06.28.52:769][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/A34WOBX3306F8PV7AUTZR4C343EAEE4245EDFB67020DB818BE5368.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4.uasset'
+[2025.12.10-06.28.52:772][617]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ED/6W16DBJQNTW3N5ITSPISE9
+[2025.12.10-06.28.52:772][617]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/6W16DBJQNTW3N5ITSPISE9B5DF6B54421733FDA17F36855E3FB45B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/ED/6W16DBJQNTW3N5ITSPISE9.uasset'
+[2025.12.10-06.28.52:785][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 213.104 ms (total: 672.373 ms)
+[2025.12.10-06.28.52:834][617]LogContentValidation: Display: Starting to validate 13 assets
+[2025.12.10-06.28.52:834][617]LogContentValidation: Enabled validators:
+[2025.12.10-06.28.52:834][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-06.28.52:834][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-06.28.52:834][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-06.28.52:834][617]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-06.28.52:834][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-06.28.52:835][617]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-06.28.52:835][617]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-06.28.52:857][617]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-06.28.55:614][872]LogStaticMesh: Display: Building static mesh SM_Cube (Required Memory Estimate: 0.202047 MB)...
+[2025.12.10-06.28.55:621][872]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.12.10-06.28.59:178][266]Cmd: TRANSACTION UNDO
+[2025.12.10-06.28.59:178][266]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-06.28.59:750][279]Cmd: TRANSACTION UNDO
+[2025.12.10-06.28.59:751][279]LogEditorTransaction: Undo Cube Grid Edit
+[2025.12.10-06.29.00:553][352]Cmd: TRANSACTION UNDO
+[2025.12.10-06.29.00:553][352]LogEditorTransaction: Undo Initialize Selection
+[2025.12.10-06.29.01:904][485]Cmd: TRANSACTION UNDO
+[2025.12.10-06.29.01:904][485]LogEditorTransaction: Undo Clicking on Elements
+[2025.12.10-06.29.02:831][579]Cmd: TRANSACTION REDO
+[2025.12.10-06.29.02:831][579]LogEditorTransaction: Redo Clicking on Elements
+[2025.12.10-06.29.03:080][581]Cmd: TRANSACTION REDO
+[2025.12.10-06.29.03:081][581]LogEditorTransaction: Redo Initialize Selection
+[2025.12.10-06.29.03:240][582]Cmd: TRANSACTION REDO
+[2025.12.10-06.29.03:240][582]LogEditorTransaction: Redo Cube Grid Edit
+[2025.12.10-06.29.03:335][582]Cmd: TRANSACTION REDO
+[2025.12.10-06.29.03:335][582]LogEditorTransaction: Redo Clicking on Elements
+[2025.12.10-06.29.09:816][292]Cmd: DELETE
+[2025.12.10-06.29.09:816][292]Cmd: ACTOR DELETE
+[2025.12.10-06.29.09:818][292]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.10-06.29.09:837][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.10-06.29.09:840][292]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.12.10-06.29.27:751][147]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.10-06.29.27:762][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.10-06.29.27:762][147]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-06.29.27:773][147]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011631s)
+[2025.12.10-06.29.27:773][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.011667s)
+[2025.12.10-06.29.27:790][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.12.10-06.29.27:792][147]LogChaosDD: Creating Chaos Debug Draw Scene for world FirstPersonMap
+[2025.12.10-06.29.27:794][147]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2025.12.10-06.29.27:795][147]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.12.10-06.29.27:795][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.10-06.29.27:795][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.10-06.29.27:795][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.10-06.29.27:795][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.10-06.29.27:795][147]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.10-06.29.27:795][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.10-06.29.27:795][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.10-06.29.27:795][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.10-06.29.27:795][147]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.10-06.29.27:795][147]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.10-06.29.27:795][147]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.10-06.29.27:797][147]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.10-06.29.27:862][147]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Arctis Nova 7)
+[2025.12.10-06.29.27:862][147]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.10-06.29.27:862][147]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.10-06.29.27:862][147]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.10-06.29.27:862][147]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2025.12.10-06.29.27:862][147]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2025.12.10-06.29.27:865][147]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2025.12.10-06.29.27:865][147]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2025.12.10-06.29.27:865][147]LogInit: FAudioDevice initialized with ID 18.
+[2025.12.10-06.29.27:865][147]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap'.
+[2025.12.10-06.29.27:865][147]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2025.12.10-06.29.27:869][147]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.12.10-06.29.27:873][147]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.12.10-00.29.27
+[2025.12.10-06.29.27:874][147]LogWorld: Bringing up level for play took: 0.004531
+[2025.12.10-06.29.27:876][147]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.12.10-06.29.27:881][147]PIE: Server logged in
+[2025.12.10-06.29.27:883][147]PIE: Play in editor total start time 0.124 seconds.
+[2025.12.10-06.29.27:999][149]LogBlueprintUserMessages: [FirstPersonMap_C_0] Hello
+[2025.12.10-06.29.34:239][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-06.29.34:239][835]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.12.10-06.29.34:239][835]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.10-06.29.34:239][835]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-06.29.34:240][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-06.29.34:242][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.10-06.29.34:244][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-06.29.34:262][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.10-06.29.34:262][835]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2025.12.10-06.29.34:262][835]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2025.12.10-06.29.34:264][835]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2025.12.10-06.29.34:267][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.10-06.29.34:270][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.12.10-06.29.34:342][836]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.12.10-06.29.39:102][367]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.29.39:118][367]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.29.51:369][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-06.29.51:421][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.12.10-06.29.51:439][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.10-06.29.51:456][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.10-06.29.51:461][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM
+[2025.12.10-06.29.51:461][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MG6FOV6QQX2CAZCGF7O9MM22725D7B4CF2752EF0C5B6A029CBB31D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset'
+[2025.12.10-06.29.51:463][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2
+[2025.12.10-06.29.51:463][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XIHYQ8ZTVL6F9GCUZX1AQ229DE7A384BAD39F1DCEE679C6786A460.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset'
+[2025.12.10-06.29.51:465][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH
+[2025.12.10-06.29.51:465][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XRLOR3HVYVHJA3N9PKGXZHA192E1A34D696B6DD0BA83865B286591.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset'
+[2025.12.10-06.29.51:468][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29
+[2025.12.10-06.29.51:468][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/QQN0UFFAA797E1UT4IMD29D5C6416F4691B0C9676D13BA0F1C15C7.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset'
+[2025.12.10-06.29.51:469][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X
+[2025.12.10-06.29.51:470][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1JZHHCOBVQ2F5XRUWSES1X84D8C0494E04C6F6825F7880152EC150.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset'
+[2025.12.10-06.29.51:471][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0
+[2025.12.10-06.29.51:472][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/7EHFAZ5HVWXAWQ04QO5TH04AAFD6A84192B0D05AF78AAD5E6D647B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset'
+[2025.12.10-06.29.51:473][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9
+[2025.12.10-06.29.51:474][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/IY5R6I5N0YWU9LYWKXFXH96A2BE14D407CB857EF4F7B84F02DBFB3.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset'
+[2025.12.10-06.29.51:475][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9
+[2025.12.10-06.29.51:476][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/FVTPO8KZ0WPMCSQLVJE6O9D430ED8F468D49CAB3476490291B8544.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset'
+[2025.12.10-06.29.51:477][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA
+[2025.12.10-06.29.51:477][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/U0XT0R08XQA6C15NK8ILFAFE00AB644AA26347251051BC95E32D97.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset'
+[2025.12.10-06.29.51:482][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/VV/WHMCRLZSVPIHL6IS1VRO3Q
+[2025.12.10-06.29.51:482][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/WHMCRLZSVPIHL6IS1VRO3Q143DE43D4997E437CC12BCB9804DE6B7.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/VV/WHMCRLZSVPIHL6IS1VRO3Q.uasset'
+[2025.12.10-06.29.51:484][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI
+[2025.12.10-06.29.51:484][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1TS6RXVW69DL6H77EVNVWIEF829D12456ED0AD97CB1EBB24B4E908.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI.uasset'
+[2025.12.10-06.29.51:487][407]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GA/DZBWJICKRI5QU6CUX65B2P
+[2025.12.10-06.29.51:487][407]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/DZBWJICKRI5QU6CUX65B2P42870C104CE135BC80AA99A36A2DC307.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/GA/DZBWJICKRI5QU6CUX65B2P.uasset'
+[2025.12.10-06.29.51:500][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.271 ms (total: 803.645 ms)
+[2025.12.10-06.29.51:547][407]LogContentValidation: Display: Starting to validate 12 assets
+[2025.12.10-06.29.51:547][407]LogContentValidation: Enabled validators:
+[2025.12.10-06.29.51:547][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-06.29.51:547][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-06.29.51:547][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-06.29.51:547][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-06.29.51:547][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-06.29.51:547][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-06.29.51:547][407]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-06.29.51:572][407]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-06.29.52:504][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-06.29.52:562][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.12.10-06.29.52:580][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.12.10-06.29.52:598][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.10-06.29.52:609][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.105 ms (total: 908.751 ms)
+[2025.12.10-06.30.55:017][371]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.30.55:096][371]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D734203B (Required Memory Estimate: 24.595136 MB)...
+[2025.12.10-06.30.55:112][371]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B) ...
+[2025.12.10-06.30.55:332][371]LogStaticMesh: Built static mesh [0.24s] /Game/FirstPerson/Maps/_GENERATED/ccorpuz2/CubeGridToolOutput_D734203B.CubeGridToolOutput_D734203B
+[2025.12.10-06.30.55:354][371]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.30.55:354][371]LogStaticMesh: Warning: CubeGridToolOutput_D734203B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.30.57:660][530]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x126 sparse distance field, 2.7Mb total, 0.1Mb always loaded, 81% occupied, 0 triangles, CubeGridToolOutput_D734203B
+[2025.12.10-06.30.57:757][541]Cmd: DELETE
+[2025.12.10-06.30.57:757][541]Cmd: ACTOR DELETE
+[2025.12.10-06.30.57:757][541]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_37.StaticMeshComponent0: Can't delete non-instanced components or the scene root.
+[2025.12.10-06.30.58:964][681]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.30.58:970][681]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.31.21:283][692]LogStaticMesh: Display: Building static mesh SM_Cube (Required Memory Estimate: 0.116051 MB)...
+[2025.12.10-06.31.21:289][692]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.12.10-06.31.26:928][285]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.31.26:934][285]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.31.38:017][294]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.38:017][294]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.38:227][297]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.38:227][297]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.38:410][299]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.38:410][299]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.38:595][302]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.38:595][302]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.41:313][541]LogStaticMesh: Display: Building static mesh SM_Cube (Required Memory Estimate: 0.116051 MB)...
+[2025.12.10-06.31.41:319][541]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Meshes/SM_Cube.SM_Cube
+[2025.12.10-06.31.43:647][778]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.31.43:654][778]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.31.48:714][250]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.48:714][250]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.48:923][253]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.48:923][253]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.49:229][259]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.49:229][259]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.49:887][311]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.49:887][311]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.50:425][352]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.50:425][352]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.50:662][363]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.50:662][363]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.51:115][393]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.51:115][393]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.51:489][417]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.51:489][417]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.31.55:090][752]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_DA2BFD83 (Required Memory Estimate: 2.756692 MB)...
+[2025.12.10-06.31.55:100][752]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_DA2BFD83.CubeGridToolOutput_DA2BFD83
+[2025.12.10-06.31.55:104][752]LogStaticMesh: Warning: CubeGridToolOutput_DA2BFD83 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.31.55:104][752]LogStaticMesh: Warning: CubeGridToolOutput_DA2BFD83 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.31.57:188][906]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x119 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 80% occupied, 0 triangles, CubeGridToolOutput_DA2BFD83
+[2025.12.10-06.31.59:606][168]Cmd: TRANSACTION UNDO
+[2025.12.10-06.31.59:606][168]LogEditorTransaction: Undo Move Elements
+[2025.12.10-06.32.01:621][347]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.32.01:629][347]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.32.06:978][810]Cmd: TRANSACTION UNDO
+[2025.12.10-06.32.06:978][810]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.32.11:487][154]Cmd: TRANSACTION UNDO
+[2025.12.10-06.32.11:487][154]LogEditorTransaction: Undo Block Tool Change
+[2025.12.10-06.32.43:637][880]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_DA2BFD83 (Required Memory Estimate: 3.029288 MB)...
+[2025.12.10-06.32.43:647][880]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_DA2BFD83.CubeGridToolOutput_DA2BFD83
+[2025.12.10-06.32.43:649][880]LogStaticMesh: Warning: CubeGridToolOutput_DA2BFD83 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.32.43:649][880]LogStaticMesh: Warning: CubeGridToolOutput_DA2BFD83 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.32.45:705][ 49]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x119 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 80% occupied, 0 triangles, CubeGridToolOutput_DA2BFD83
+[2025.12.10-06.32.50:222][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-06.32.50:283][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.10-06.32.50:302][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.10-06.32.50:320][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.10-06.32.50:324][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM
+[2025.12.10-06.32.50:325][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/MG6FOV6QQX2CAZCGF7O9MMCA7ED2EA4B43108C39543B9F0A37798B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset'
+[2025.12.10-06.32.50:327][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2
+[2025.12.10-06.32.50:327][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XIHYQ8ZTVL6F9GCUZX1AQ204B39181450FCCEC19C351B710C31E1D.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.uasset'
+[2025.12.10-06.32.50:329][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH
+[2025.12.10-06.32.50:330][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/XRLOR3HVYVHJA3N9PKGXZH94A27916418E5F655381A397366BD1D8.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset'
+[2025.12.10-06.32.50:331][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29
+[2025.12.10-06.32.50:332][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/QQN0UFFAA797E1UT4IMD294182F7C64DA6BCBE8EE8BFB47BF5BCF6.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset'
+[2025.12.10-06.32.50:333][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X
+[2025.12.10-06.32.50:334][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1JZHHCOBVQ2F5XRUWSES1X4688B8CA45BF3B4D61D7D2B1CC42506A.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.uasset'
+[2025.12.10-06.32.50:335][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0
+[2025.12.10-06.32.50:335][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/7EHFAZ5HVWXAWQ04QO5TH0C33AC84E4596E6F6B6ED4DA4FBC9125B.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset'
+[2025.12.10-06.32.50:338][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9
+[2025.12.10-06.32.50:338][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/IY5R6I5N0YWU9LYWKXFXH9084BDE434CF6F993EA470D9F3BBB2807.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.uasset'
+[2025.12.10-06.32.50:340][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9
+[2025.12.10-06.32.50:340][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/FVTPO8KZ0WPMCSQLVJE6O93CAB72F04675036702803EB9CDAEAEF8.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset'
+[2025.12.10-06.32.50:342][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA
+[2025.12.10-06.32.50:343][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/U0XT0R08XQA6C15NK8ILFAD19FA9C64A6953174CA8558E208FADBC.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.uasset'
+[2025.12.10-06.32.50:344][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI
+[2025.12.10-06.32.50:344][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/1TS6RXVW69DL6H77EVNVWIFE6F100A4E26FAFCB3045194728BD952.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/30/1TS6RXVW69DL6H77EVNVWI.uasset'
+[2025.12.10-06.32.50:346][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4
+[2025.12.10-06.32.50:347][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/A34WOBX3306F8PV7AUTZR468B53A3241F1C34307D3518CE6C1A097.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OR/A34WOBX3306F8PV7AUTZR4.uasset'
+[2025.12.10-06.32.50:347][565]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8L/U2IK0H40UAJZLXEK8OMZQX
+[2025.12.10-06.32.50:348][565]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/U2IK0H40UAJZLXEK8OMZQX6BF55AFD44B4D32D1A07AEA01C519828.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8L/U2IK0H40UAJZLXEK8OMZQX.uasset'
+[2025.12.10-06.32.50:364][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.178 ms (total: 1.05 sec)
+[2025.12.10-06.32.50:405][565]LogContentValidation: Display: Starting to validate 12 assets
+[2025.12.10-06.32.50:405][565]LogContentValidation: Enabled validators:
+[2025.12.10-06.32.50:405][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-06.32.50:405][565]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-06.32.50:405][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-06.32.50:405][565]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-06.32.50:405][565]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-06.32.50:405][565]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-06.32.50:405][565]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-06.32.54:841][ 46]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.12.10-06.32.54:849][ 46]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.12.10-06.33.03:087][749]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_DA2BFD83 (Required Memory Estimate: 3.048875 MB)...
+[2025.12.10-06.33.03:099][749]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_DA2BFD83.CubeGridToolOutput_DA2BFD83
+[2025.12.10-06.33.03:102][749]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/Maps/_GENERATED/JC/CubeGridToolOutput_DA2BFD83) ...
+[2025.12.10-06.33.03:102][749]LogStaticMesh: Warning: CubeGridToolOutput_DA2BFD83 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.33.03:102][749]LogStaticMesh: Warning: CubeGridToolOutput_DA2BFD83 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.10-06.33.04:274][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-06.33.04:337][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.10-06.33.04:358][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.10-06.33.04:379][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.10-06.33.04:382][849]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8L/U2IK0H40UAJZLXEK8OMZQX
+[2025.12.10-06.33.04:382][849]LogSavePackage: Moving '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Saved/U2IK0H40UAJZLXEK8OMZQXAD3CDF2A4DEED2C9241E7882AAB06244.tmp' to '../../../../UIUC/415/HarrisBasicsAlpha/HarrisBasicsAlpha 5.6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8L/U2IK0H40UAJZLXEK8OMZQX.uasset'
+[2025.12.10-06.33.04:400][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.030 ms (total: 1.17 sec)
+[2025.12.10-06.33.04:455][849]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-06.33.04:455][849]LogContentValidation: Enabled validators:
+[2025.12.10-06.33.04:456][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-06.33.04:456][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-06.33.04:456][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-06.33.04:456][849]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-06.33.04:456][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-06.33.04:456][849]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-06.33.04:456][849]AssetCheck: /Game/FirstPerson/Maps/FirstPersonMap Validating asset
+[2025.12.10-06.33.05:240][914]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x119 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 80% occupied, 0 triangles, CubeGridToolOutput_DA2BFD83
